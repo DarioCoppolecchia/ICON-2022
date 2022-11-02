@@ -1,0 +1,4334 @@
+homeTeam,awayTeam,homeScore,awayScore
+Inter,Empoli,4,2
+Genoa,Juventus,2,1
+Torino,Napoli,0,1
+Sassuolo,Udinese,1,1
+Lazio,Sampdoria,2,0
+Spezia,Atalanta,1,3
+Venezia,Bologna,4,3
+Salernitana,Cagliari,1,1
+Hellas Verona,Milan,1,3
+Fiorentina,Roma,2,0
+Empoli,Salernitana,1,1
+Udinese,Spezia,2,3
+Hellas Verona,Torino,0,1
+Roma,Venezia,1,1
+Bologna,Sassuolo,1,3
+Napoli,Genoa,3,0
+Milan,Atalanta,2,0
+Cagliari,Inter,1,3
+Sampdoria,Fiorentina,4,1
+Juventus,Lazio,2,2
+Torino,Roma,0,3
+Genoa,Bologna,0,1
+Lazio,Hellas Verona,3,3
+Atalanta,Empoli,0,1
+Fiorentina,Juventus,2,0
+Spezia,Napoli,0,3
+Inter,Sampdoria,3,0
+Sassuolo,Milan,0,3
+Venezia,Cagliari,0,0
+Salernitana,Udinese,0,4
+Juventus,Bologna,1,1
+Lazio,Torino,1,1
+Napoli,Roma,1,1
+Atalanta,Hellas Verona,1,2
+Udinese,Salernitana,0,1
+Torino,Spezia,2,1
+Venezia,Atalanta,1,3
+Inter,Roma,3,1
+Hellas Verona,Sampdoria,1,1
+Salernitana,Fiorentina,2,1
+Bologna,Udinese,2,2
+Empoli,Napoli,3,2
+Genoa,Cagliari,1,0
+Lazio,Milan,1,2
+Sassuolo,Juventus,1,2
+Fiorentina,Udinese,0,4
+Atalanta,Torino,4,4
+Bologna,Inter,2,1
+Cagliari,Hellas Verona,1,2
+Napoli,Sassuolo,6,1
+Sampdoria,Genoa,1,0
+Spezia,Lazio,3,4
+Juventus,Venezia,2,1
+Empoli,Torino,1,3
+Milan,Fiorentina,1,0
+Udinese,Inter,1,2
+Roma,Bologna,0,0
+Atalanta,Salernitana,1,1
+Salernitana,Venezia,2,1
+Empoli,Hellas Verona,1,1
+Juventus,Salernitana,2,0
+Roma,Lazio,3,0
+Bologna,Atalanta,0,1
+Spezia,Venezia,1,0
+Lazio,Sassuolo,2,1
+Salernitana,Torino,0,1
+Fiorentina,Empoli,1,0
+Udinese,Cagliari,5,1
+Atalanta,Napoli,1,3
+Sampdoria,Roma,0,1
+Juventus,Inter,0,1
+Hellas Verona,Genoa,1,0
+Milan,Bologna,0,0
+Empoli,Spezia,0,0
+Inter,Hellas Verona,2,0
+Cagliari,Juventus,1,2
+Genoa,Lazio,1,4
+Venezia,Udinese,1,2
+Sassuolo,Atalanta,2,1
+Napoli,Fiorentina,2,3
+Roma,Salernitana,2,1
+Torino,Milan,0,0
+Bologna,Sampdoria,2,0
+Spezia,Inter,1,3
+Milan,Genoa,2,0
+Cagliari,Sassuolo,1,0
+Udinese,Empoli,4,1
+Sampdoria,Salernitana,1,2
+Fiorentina,Venezia,1,0
+Hellas Verona,Venezia,3,1
+Spezia,Roma,0,1
+Lazio,Napoli,1,2
+Atalanta,Sampdoria,4,0
+Inter,Salernitana,5,0
+Udinese,Sampdoria,2,1
+Roma,Atalanta,1,0
+Cagliari,Lazio,0,3
+Genoa,Empoli,0,0
+Bologna,Torino,0,0
+Venezia,Sassuolo,1,4
+Fiorentina,Hellas Verona,1,1
+Juventus,Spezia,1,0
+Napoli,Milan,0,1
+Spezia,Cagliari,2,0
+Salernitana,Sassuolo,2,2
+Sampdoria,Juventus,1,3
+Milan,Empoli,1,0
+Fiorentina,Bologna,1,0
+Hellas Verona,Napoli,1,2
+Atalanta,Genoa,0,0
+Udinese,Roma,1,1
+Torino,Inter,1,1
+Lazio,Venezia,1,0
+Sassuolo,Spezia,4,1
+Genoa,Torino,1,0
+Napoli,Udinese,2,1
+Inter,Fiorentina,1,1
+Cagliari,Milan,0,1
+Venezia,Sampdoria,0,2
+Venezia,Napoli,0,2
+Udinese,Torino,2,0
+Juventus,Hellas Verona,2,0
+Salernitana,Spezia,2,2
+Lazio,Bologna,3,0
+Napoli,Inter,1,1
+Torino,Venezia,1,2
+Milan,Sampdoria,1,0
+Genoa,Salernitana,1,1
+Hellas Verona,Udinese,4,0
+Empoli,Cagliari,1,1
+Sassuolo,Roma,2,2
+Atalanta,Juventus,1,1
+Spezia,Fiorentina,1,2
+Juventus,Torino,1,1
+Sampdoria,Empoli,2,0
+Roma,Hellas Verona,2,2
+Salernitana,Milan,2,2
+Fiorentina,Atalanta,1,0
+Venezia,Genoa,1,1
+Inter,Sassuolo,0,2
+Udinese,Lazio,1,1
+Cagliari,Napoli,1,1
+Bologna,Spezia,2,1
+Milan,Udinese,1,1
+Genoa,Inter,0,0
+Salernitana,Bologna,1,1
+Empoli,Juventus,2,3
+Sassuolo,Fiorentina,2,1
+Torino,Cagliari,1,2
+Hellas Verona,Salernitana,1,2
+Inter,Lazio,2,1
+Torino,Fiorentina,4,0
+Cagliari,Bologna,2,1
+Sampdoria,Torino,1,2
+Salernitana,Lazio,0,3
+Juventus,Udinese,2,0
+Sassuolo,Hellas Verona,2,4
+Venezia,Empoli,1,1
+Roma,Cagliari,1,0
+Atalanta,Inter,0,0
+Bologna,Napoli,0,2
+Milan,Spezia,1,2
+Fiorentina,Genoa,6,0
+Hellas Verona,Bologna,2,1
+Genoa,Udinese,0,0
+Inter,Venezia,2,1
+Lazio,Atalanta,0,0
+Cagliari,Fiorentina,1,1
+Spezia,Sampdoria,1,0
+Torino,Sassuolo,1,1
+Napoli,Salernitana,4,1
+Empoli,Roma,2,4
+Milan,Juventus,0,0
+Roma,Genoa,0,0
+Inter,Milan,1,2
+Fiorentina,Lazio,0,3
+Atalanta,Cagliari,1,2
+Bologna,Empoli,0,0
+Sampdoria,Sassuolo,4,0
+Spezia,Empoli,1,1
+Sampdoria,Venezia,1,1
+Torino,Hellas Verona,1,0
+Milan,Napoli,0,1
+Genoa,Atalanta,0,0
+Juventus,Cagliari,2,0
+Sassuolo,Bologna,0,3
+Venezia,Lazio,1,3
+Hellas Verona,Fiorentina,1,1
+Roma,Sampdoria,1,1
+Inter,Torino,1,0
+Napoli,Spezia,0,1
+Empoli,Milan,2,4
+Sampdoria,Cagliari,1,2
+Spezia,Hellas Verona,1,2
+Lazio,Empoli,3,3
+Sassuolo,Genoa,1,1
+Milan,Roma,3,1
+Juventus,Napoli,1,1
+Venezia,Milan,0,3
+Empoli,Sassuolo,1,5
+Udinese,Atalanta,2,6
+Napoli,Sampdoria,1,0
+Genoa,Spezia,0,1
+Roma,Juventus,3,4
+Sassuolo,Napoli,2,2
+Genoa,Milan,0,3
+Torino,Empoli,2,2
+Lazio,Udinese,4,4
+Milan,Salernitana,2,0
+Roma,Inter,0,3
+Napoli,Atalanta,2,3
+Bologna,Fiorentina,2,3
+Venezia,Hellas Verona,3,4
+Spezia,Sassuolo,2,2
+Sampdoria,Lazio,1,3
+Juventus,Genoa,2,0
+Empoli,Udinese,3,1
+Cagliari,Torino,1,1
+Genoa,Sampdoria,1,3
+Fiorentina,Salernitana,4,0
+Venezia,Juventus,1,1
+Udinese,Milan,1,1
+Torino,Bologna,2,1
+Hellas Verona,Atalanta,1,2
+Sassuolo,Lazio,2,1
+Napoli,Empoli,0,1
+Inter,Cagliari,4,0
+Roma,Spezia,2,0
+Lazio,Genoa,3,1
+Salernitana,Inter,0,5
+Atalanta,Roma,1,4
+Bologna,Juventus,0,2
+Cagliari,Udinese,0,4
+Fiorentina,Sassuolo,2,2
+Udinese,Sassuolo,3,2
+Lazio,Salernitana,3,0
+Napoli,Hellas Verona,1,1
+Milan,Inter,1,1
+Atalanta,Spezia,5,2
+Lazio,Juventus,0,2
+Fiorentina,Milan,4,3
+Sassuolo,Cagliari,2,2
+Salernitana,Sampdoria,0,2
+Bologna,Venezia,0,1
+Inter,Napoli,3,2
+Genoa,Roma,0,2
+Hellas Verona,Empoli,2,1
+Torino,Udinese,2,1
+Cagliari,Salernitana,1,1
+Sampdoria,Hellas Verona,3,1
+Empoli,Fiorentina,2,1
+Juventus,Atalanta,0,1
+Venezia,Inter,0,2
+Udinese,Genoa,0,0
+Spezia,Bologna,0,1
+Milan,Sassuolo,1,3
+Roma,Torino,1,0
+Napoli,Lazio,4,0
+Fiorentina,Sampdoria,3,1
+Atalanta,Venezia,4,0
+Hellas Verona,Cagliari,0,0
+Salernitana,Juventus,0,2
+Bologna,Roma,1,0
+Inter,Spezia,2,0
+Fiorentina,Cagliari,3,0
+Hellas Verona,Lazio,4,1
+Roma,Napoli,0,0
+Inter,Juventus,1,1
+Venezia,Salernitana,1,2
+Spezia,Genoa,1,1
+Milan,Torino,1,0
+Udinese,Hellas Verona,1,1
+Sampdoria,Atalanta,1,3
+Juventus,Sassuolo,1,2
+Lazio,Fiorentina,1,0
+Cagliari,Roma,1,2
+Empoli,Inter,0,2
+Napoli,Bologna,3,0
+Atalanta,Lazio,2,2
+Hellas Verona,Juventus,2,1
+Torino,Sampdoria,3,0
+Inter,Udinese,2,0
+Genoa,Venezia,0,0
+Sassuolo,Empoli,1,2
+Fiorentina,Spezia,3,0
+Salernitana,Napoli,0,1
+Roma,Milan,1,2
+Bologna,Cagliari,2,0
+Empoli,Genoa,2,2
+Spezia,Torino,1,0
+Juventus,Fiorentina,1,0
+Cagliari,Atalanta,1,2
+Venezia,Roma,3,2
+Sampdoria,Bologna,1,2
+Udinese,Fiorentina,0,1
+Lazio,Roma,3,2
+Napoli,Cagliari,2,0
+Venezia,Torino,1,1
+Cagliari,Venezia,1,1
+Salernitana,Genoa,1,0
+Torino,Juventus,0,1
+Sassuolo,Inter,1,2
+Bologna,Lazio,3,0
+Hellas Verona,Spezia,4,0
+Sampdoria,Udinese,3,3
+Roma,Empoli,2,0
+Fiorentina,Napoli,1,2
+Atalanta,Milan,2,3
+Spezia,Salernitana,2,1
+Lazio,Inter,3,1
+Milan,Hellas Verona,3,2
+Cagliari,Sampdoria,3,1
+Udinese,Bologna,1,1
+Genoa,Sassuolo,2,2
+Empoli,Atalanta,1,4
+Napoli,Torino,1,0
+Juventus,Roma,1,0
+Venezia,Fiorentina,1,0
+Torino,Genoa,3,2
+Sampdoria,Spezia,2,1
+Salernitana,Empoli,2,4
+Sassuolo,Venezia,3,1
+Bologna,Milan,2,4
+Atalanta,Udinese,1,1
+Torino,Salernitana,4,0
+Milan,Lazio,2,0
+Roma,Sassuolo,2,1
+Bologna,Hellas Verona,1,0
+Sassuolo,Torino,0,1
+Genoa,Fiorentina,1,2
+Inter,Bologna,6,1
+Salernitana,Atalanta,0,1
+Empoli,Sampdoria,0,3
+Venezia,Spezia,1,2
+Lazio,Cagliari,2,2
+Hellas Verona,Roma,3,2
+Juventus,Milan,1,1
+Udinese,Napoli,0,4
+Bologna,Genoa,2,2
+Atalanta,Sassuolo,2,1
+Fiorentina,Inter,1,3
+Salernitana,Hellas Verona,2,2
+Spezia,Juventus,2,3
+Cagliari,Empoli,0,2
+Milan,Venezia,2,0
+Torino,Lazio,1,1
+Sampdoria,Napoli,0,4
+Roma,Udinese,1,0
+Spezia,Milan,1,2
+Inter,Atalanta,2,2
+Genoa,Hellas Verona,3,3
+Juventus,Sampdoria,3,2
+Empoli,Bologna,4,2
+Sassuolo,Salernitana,1,0
+Arsenal,Leeds United,2,1
+Manchester City,Newcastle United,5,0
+Aston Villa,Liverpool,1,2
+Leeds United,Chelsea,0,3
+Watford,Everton,0,0
+Leicester City,Norwich City,3,0
+Wolverhampton,Manchester City,1,5
+Tottenham Hotspur,Arsenal,3,0
+Tottenham Hotspur,Burnley,1,0
+Wolverhampton,Norwich City,1,1
+Leeds United,Brighton & Hove Albion,1,1
+Aston Villa,Crystal Palace,1,1
+Watford,Leicester City,1,5
+West Ham United,Manchester City,2,2
+Everton,Brentford,2,3
+Newcastle United,Arsenal,2,0
+Southampton,Liverpool,1,2
+Everton,Crystal Palace,3,2
+Aston Villa,Burnley,1,1
+Chelsea,Leicester City,1,1
+Burnley,Newcastle United,1,2
+Brentford,Leeds United,1,2
+Brighton & Hove Albion,West Ham United,3,1
+Leicester City,Southampton,4,1
+Norwich City,Tottenham Hotspur,0,5
+Arsenal,Everton,5,1
+Chelsea,Watford,2,1
+Manchester City,Aston Villa,3,2
+Crystal Palace,Manchester United,1,0
+Liverpool,Wolverhampton,3,1
+Burnley,Southampton,2,0
+Arsenal,Manchester United,3,1
+Norwich City,Newcastle United,0,3
+Leicester City,Aston Villa,0,0
+Manchester City,Watford,5,1
+Brentford,Tottenham Hotspur,0,0
+Brighton & Hove Albion,Southampton,2,2
+Burnley,Wolverhampton,1,0
+Chelsea,West Ham United,1,0
+Liverpool,Everton,2,0
+Crystal Palace,Leeds United,0,0
+Manchester United,Chelsea,1,1
+Newcastle United,Liverpool,0,1
+Watford,Burnley,1,2
+Southampton,Crystal Palace,1,2
+Wolverhampton,Brighton & Hove Albion,0,3
+Aston Villa,Norwich City,2,0
+Leeds United,Manchester City,0,4
+Tottenham Hotspur,Leicester City,3,1
+Everton,Chelsea,1,0
+West Ham United,Arsenal,1,2
+Manchester United,Brentford,3,0
+Brentford,Southampton,3,0
+Crystal Palace,Watford,1,0
+Burnley,Aston Villa,1,3
+Chelsea,Wolverhampton,2,2
+Brighton & Hove Albion,Manchester United,4,0
+Liverpool,Tottenham Hotspur,1,1
+Norwich City,West Ham United,0,4
+Leicester City,Everton,1,2
+Manchester United,Leicester City,1,1
+West Ham United,Everton,2,1
+Tottenham Hotspur,Newcastle United,5,1
+Crystal Palace,Arsenal,3,0
+Burnley,Everton,3,2
+Newcastle United,Wolverhampton,1,0
+Everton,Manchester United,1,0
+Watford,Leeds United,0,3
+Arsenal,Brighton & Hove Albion,1,2
+Southampton,Chelsea,0,6
+Aston Villa,Tottenham Hotspur,0,4
+Norwich City,Burnley,2,0
+Brentford,West Ham United,2,0
+Leicester City,Crystal Palace,2,1
+Manchester City,Liverpool,2,2
+Tottenham Hotspur,Brighton & Hove Albion,0,1
+Watford,Brentford,1,2
+Southampton,Arsenal,1,0
+Manchester United,Norwich City,3,2
+West Ham United,Burnley,1,1
+Newcastle United,Leicester City,2,1
+Liverpool,Manchester United,4,0
+Newcastle United,Crystal Palace,1,0
+Everton,Leicester City,1,1
+Chelsea,Arsenal,2,4
+Manchester City,Brighton & Hove Albion,3,0
+Norwich City,Chelsea,1,3
+Leeds United,Aston Villa,0,3
+Brighton & Hove Albion,Liverpool,0,2
+Brentford,Burnley,2,0
+Manchester United,Tottenham Hotspur,3,2
+Southampton,Watford,1,2
+Leeds United,Norwich City,2,1
+West Ham United,Aston Villa,2,1
+Everton,Wolverhampton,0,1
+Chelsea,Newcastle United,1,0
+Arsenal,Leicester City,2,0
+Crystal Palace,Manchester City,0,0
+Brighton & Hove Albion,Tottenham Hotspur,0,2
+Arsenal,Liverpool,0,2
+Everton,Newcastle United,1,0
+Wolverhampton,Leeds United,2,3
+Aston Villa,Arsenal,0,1
+Leicester City,Brentford,2,1
+Tottenham Hotspur,West Ham United,3,1
+Liverpool,Watford,2,0
+Brighton & Hove Albion,Norwich City,0,0
+Leeds United,Southampton,1,1
+Wolverhampton,Aston Villa,2,1
+Burnley,Manchester City,0,2
+Chelsea,Brentford,1,4
+Manchester City,Tottenham Hotspur,2,3
+Leeds United,Manchester United,2,4
+Wolverhampton,Leicester City,2,1
+Watford,Crystal Palace,1,4
+Burnley,Tottenham Hotspur,1,0
+Liverpool,Leeds United,6,0
+Arsenal,Wolverhampton,2,1
+Southampton,Norwich City,2,0
+Leeds United,Tottenham Hotspur,0,4
+Crystal Palace,Burnley,1,1
+Brentford,Newcastle United,0,2
+Manchester United,Watford,0,0
+Brighton & Hove Albion,Aston Villa,0,2
+Everton,Manchester City,0,1
+West Ham United,Wolverhampton,1,0
+Burnley,Leicester City,0,2
+Leicester City,Leeds United,1,0
+Norwich City,Brentford,1,3
+Newcastle United,Brighton & Hove Albion,2,1
+Wolverhampton,Crystal Palace,0,2
+Aston Villa,Southampton,4,0
+Burnley,Chelsea,0,4
+Liverpool,West Ham United,1,0
+Watford,Arsenal,2,3
+Manchester City,Manchester United,4,1
+Tottenham Hotspur,Everton,5,0
+Southampton,Newcastle United,1,2
+Wolverhampton,Watford,4,0
+Crystal Palace,Liverpool,1,3
+Chelsea,Tottenham Hotspur,2,0
+Burnley,Watford,0,0
+West Ham United,Watford,1,0
+Newcastle United,Everton,3,1
+Burnley,Manchester United,1,1
+Norwich City,Crystal Palace,1,1
+Tottenham Hotspur,Southampton,2,3
+Manchester City,Brentford,2,0
+Aston Villa,Leeds United,3,3
+Wolverhampton,Arsenal,0,1
+Liverpool,Leicester City,2,0
+Manchester United,Southampton,1,1
+Watford,Brighton & Hove Albion,0,2
+Brentford,Crystal Palace,0,0
+Everton,Leeds United,3,0
+Norwich City,Manchester City,0,4
+Newcastle United,Aston Villa,1,0
+Tottenham Hotspur,Wolverhampton,0,2
+Burnley,Liverpool,0,1
+Leicester City,West Ham United,2,2
+Manchester United,Brighton & Hove Albion,2,0
+West Ham United,Newcastle United,1,1
+Brighton & Hove Albion,Burnley,0,3
+Aston Villa,Watford,0,1
+Southampton,Everton,2,0
+Arsenal,Brentford,2,1
+Crystal Palace,Chelsea,0,1
+Liverpool,Norwich City,3,1
+Brentford,Aston Villa,2,1
+Leeds United,Burnley,3,1
+Everton,Brighton & Hove Albion,2,3
+Chelsea,Liverpool,2,2
+Manchester United,Wolverhampton,0,1
+Southampton,Brentford,4,1
+West Ham United,Norwich City,2,0
+Brighton & Hove Albion,Crystal Palace,1,1
+Manchester City,Chelsea,1,0
+Newcastle United,Watford,1,1
+Wolverhampton,Southampton,3,1
+Norwich City,Everton,2,1
+Aston Villa,Manchester United,2,2
+West Ham United,Leeds United,2,3
+Liverpool,Brentford,3,0
+Brighton & Hove Albion,Chelsea,1,1
+Leicester City,Tottenham Hotspur,2,3
+Brentford,Manchester United,1,3
+Watford,Norwich City,0,3
+Everton,Aston Villa,0,1
+Brentford,Wolverhampton,1,2
+Leeds United,Newcastle United,0,1
+Manchester United,West Ham United,1,0
+Southampton,Manchester City,1,1
+Leicester City,Brighton & Hove Albion,1,1
+Arsenal,Burnley,0,0
+Leeds United,Arsenal,1,4
+Newcastle United,Manchester City,0,4
+Wolverhampton,Chelsea,0,0
+Tottenham Hotspur,Liverpool,2,2
+West Ham United,Southampton,2,3
+Tottenham Hotspur,Crystal Palace,3,0
+Norwich City,Arsenal,0,5
+Manchester City,Leicester City,6,3
+Aston Villa,Chelsea,1,3
+Brighton & Hove Albion,Brentford,2,0
+Newcastle United,Manchester United,1,1
+Crystal Palace,Norwich City,3,0
+Watford,West Ham United,1,4
+Southampton,Tottenham Hotspur,1,1
+Leicester City,Liverpool,1,0
+Chelsea,Brighton & Hove Albion,1,1
+Brentford,Manchester City,0,1
+Manchester United,Burnley,3,1
+Arsenal,Manchester City,1,2
+Watford,Tottenham Hotspur,0,1
+Crystal Palace,West Ham United,2,3
+Leeds United,Brentford,2,2
+Tottenham Hotspur,Norwich City,3,0
+Manchester United,Crystal Palace,1,0
+Aston Villa,Leicester City,2,1
+Everton,Arsenal,2,1
+Brentford,Watford,2,1
+Manchester City,Wolverhampton,1,0
+Arsenal,Southampton,3,0
+Chelsea,Leeds United,3,2
+Liverpool,Aston Villa,1,0
+Norwich City,Manchester United,0,1
+Burnley,West Ham United,0,0
+Leicester City,Newcastle United,4,0
+Crystal Palace,Everton,3,1
+Norwich City,Aston Villa,0,2
+Manchester City,Leeds United,7,0
+Crystal Palace,Southampton,2,2
+Brighton & Hove Albion,Wolverhampton,0,1
+Arsenal,West Ham United,2,0
+Chelsea,Everton,1,1
+Liverpool,Newcastle United,3,1
+Wolverhampton,West Ham United,1,0
+Watford,Manchester United,4,1
+Liverpool,Arsenal,4,0
+Manchester City,Everton,3,0
+Tottenham Hotspur,Leeds United,2,1
+Arsenal,Newcastle United,2,0
+Crystal Palace,Aston Villa,1,2
+Norwich City,Wolverhampton,0,0
+Liverpool,Southampton,4,0
+Brighton & Hove Albion,Leeds United,0,0
+Brentford,Everton,1,0
+Leicester City,Watford,4,2
+Manchester City,West Ham United,2,1
+Chelsea,Manchester United,1,1
+Newcastle United,Norwich City,1,1
+Leeds United,Crystal Palace,1,0
+Wolverhampton,Burnley,0,0
+West Ham United,Brighton & Hove Albion,1,1
+Southampton,Leicester City,2,2
+Watford,Chelsea,1,2
+Aston Villa,Manchester City,1,2
+Everton,Liverpool,1,4
+Tottenham Hotspur,Brentford,2,0
+Manchester United,Arsenal,3,2
+West Ham United,Chelsea,3,2
+Newcastle United,Burnley,1,0
+Southampton,Brighton & Hove Albion,1,1
+Wolverhampton,Liverpool,0,1
+Watford,Manchester City,1,3
+Everton,Watford,2,5
+Brighton & Hove Albion,Manchester City,1,4
+Brentford,Leicester City,1,2
+West Ham United,Tottenham Hotspur,1,0
+Manchester United,Liverpool,0,5
+Leicester City,Arsenal,0,2
+Burnley,Brentford,3,1
+Watford,Southampton,0,1
+Manchester City,Crystal Palace,0,2
+Newcastle United,Chelsea,0,3
+Liverpool,Brighton & Hove Albion,2,2
+Tottenham Hotspur,Manchester United,0,3
+Norwich City,Leeds United,1,2
+Aston Villa,West Ham United,1,4
+Wolverhampton,Everton,2,1
+Southampton,Aston Villa,1,0
+Manchester United,Manchester City,0,2
+Brentford,Norwich City,1,2
+Crystal Palace,Wolverhampton,2,0
+Chelsea,Burnley,1,1
+Brighton & Hove Albion,Newcastle United,1,1
+Leeds United,Leicester City,1,1
+Everton,Tottenham Hotspur,0,0
+Arsenal,Watford,1,0
+West Ham United,Liverpool,3,2
+Leicester City,Chelsea,0,3
+Burnley,Crystal Palace,3,3
+Newcastle United,Brentford,3,3
+Norwich City,Southampton,2,1
+Aston Villa,Brighton & Hove Albion,2,0
+Leicester City,Burnley,2,2
+Brentford,Liverpool,3,3
+Southampton,Wolverhampton,0,1
+Arsenal,Tottenham Hotspur,3,1
+Crystal Palace,Brighton & Hove Albion,1,1
+Manchester United,Everton,1,1
+Burnley,Norwich City,0,0
+Wolverhampton,Newcastle United,2,1
+Leeds United,Watford,1,0
+Chelsea,Southampton,3,1
+Brighton & Hove Albion,Arsenal,0,0
+West Ham United,Brentford,1,2
+Crystal Palace,Leicester City,2,2
+Tottenham Hotspur,Aston Villa,2,1
+Liverpool,Manchester City,2,2
+Watford,Liverpool,0,5
+Norwich City,Brighton & Hove Albion,0,0
+Southampton,Leeds United,1,0
+Aston Villa,Wolverhampton,2,3
+Manchester City,Burnley,2,0
+Leicester City,Manchester United,4,2
+Brentford,Chelsea,0,1
+Everton,West Ham United,0,1
+Newcastle United,Tottenham Hotspur,2,3
+Arsenal,Crystal Palace,2,2
+Arsenal,Aston Villa,3,1
+Chelsea,Norwich City,7,0
+Southampton,Burnley,2,2
+Crystal Palace,Newcastle United,1,1
+Leeds United,Wolverhampton,1,1
+Hertha BSC,VfB Stuttgart,2,0
+1. FC Union Berlin,SpVgg Greuther Fürth,1,1
+Arminia Bielefeld,Hertha BSC,1,1
+FC Augsburg,1. FC Köln,1,4
+VfB Stuttgart,VfL Wolfsburg,1,1
+Borussia Dortmund,VfL Bochum,3,4
+1. FSV Mainz 05,Bayern München,3,1
+1899 Hoffenheim,SC Freiburg,3,4
+Bayer 04 Leverkusen,Eintracht Frankfurt,2,0
+Borussia M'gladbach,RB Leipzig,3,1
+VfL Bochum,Arminia Bielefeld,2,1
+SC Freiburg,1. FC Union Berlin,1,4
+1. FC Köln,VfL Wolfsburg,0,1
+1899 Hoffenheim,Bayer 04 Leverkusen,2,4
+SpVgg Greuther Fürth,Borussia Dortmund,1,3
+Hertha BSC,1. FSV Mainz 05,1,2
+Eintracht Frankfurt,Borussia M'gladbach,1,1
+Bayern München,VfB Stuttgart,2,2
+RB Leipzig,FC Augsburg,4,0
+FC Augsburg,SpVgg Greuther Fürth,2,1
+VfB Stuttgart,1. FC Köln,2,1
+1. FC Union Berlin,VfL Bochum,3,2
+1. FSV Mainz 05,Eintracht Frankfurt,2,2
+Borussia M'gladbach,1899 Hoffenheim,5,1
+Bayer 04 Leverkusen,SC Freiburg,2,1
+Arminia Bielefeld,RB Leipzig,1,1
+Borussia Dortmund,Hertha BSC,2,1
+VfL Wolfsburg,Bayern München,2,2
+Hertha BSC,Hamburger SV,0,1
+Hamburger SV,Hertha BSC,0,2
+Borussia Dortmund,RB Leipzig,1,4
+FC Augsburg,VfL Wolfsburg,3,0
+Borussia M'gladbach,1. FSV Mainz 05,1,1
+FC Augsburg,1. FSV Mainz 05,2,1
+VfB Stuttgart,Borussia Dortmund,0,2
+1. FC Köln,1. FSV Mainz 05,3,2
+VfL Wolfsburg,Arminia Bielefeld,4,0
+SpVgg Greuther Fürth,Borussia M'gladbach,0,2
+Bayern München,FC Augsburg,1,0
+Hertha BSC,1. FC Union Berlin,1,4
+VfL Bochum,Bayer 04 Leverkusen,0,0
+Eintracht Frankfurt,SC Freiburg,1,2
+RB Leipzig,1899 Hoffenheim,3,0
+FC Augsburg,Hertha BSC,0,1
+1. FSV Mainz 05,VfB Stuttgart,0,0
+SC Freiburg,VfL Bochum,3,0
+Borussia Dortmund,VfL Wolfsburg,6,1
+Borussia M'gladbach,1. FC Köln,1,3
+Arminia Bielefeld,Bayern München,0,3
+1899 Hoffenheim,SpVgg Greuther Fürth,0,0
+1. FC Union Berlin,Eintracht Frankfurt,2,0
+Bayer 04 Leverkusen,RB Leipzig,0,1
+VfL Wolfsburg,1. FSV Mainz 05,5,0
+1. FC Köln,Arminia Bielefeld,3,1
+Eintracht Frankfurt,1899 Hoffenheim,2,2
+SC Freiburg,Borussia M'gladbach,3,3
+SpVgg Greuther Fürth,Bayer 04 Leverkusen,1,4
+RB Leipzig,1. FC Union Berlin,1,2
+Bayern München,Borussia Dortmund,3,1
+VfL Bochum,FC Augsburg,0,2
+RB Leipzig,SC Freiburg,1,1
+Bayern München,Bayer 04 Leverkusen,1,1
+VfB Stuttgart,Borussia M'gladbach,3,2
+1. FC Köln,1899 Hoffenheim,0,1
+1. FC Union Berlin,VfB Stuttgart,1,1
+SC Freiburg,VfL Wolfsburg,3,2
+1899 Hoffenheim,Bayern München,1,1
+Borussia M'gladbach,Hertha BSC,2,0
+Bayer 04 Leverkusen,1. FC Köln,0,1
+Eintracht Frankfurt,VfL Bochum,2,1
+Borussia Dortmund,Arminia Bielefeld,1,0
+SpVgg Greuther Fürth,RB Leipzig,1,6
+1. FSV Mainz 05,Borussia Dortmund,0,1
+VfL Bochum,Borussia M'gladbach,0,2
+1. FSV Mainz 05,Arminia Bielefeld,4,0
+VfB Stuttgart,FC Augsburg,3,2
+SpVgg Greuther Fürth,SC Freiburg,0,0
+Hertha BSC,1899 Hoffenheim,3,0
+Bayern München,1. FC Union Berlin,4,0
+RB Leipzig,Eintracht Frankfurt,0,0
+VfL Wolfsburg,Bayer 04 Leverkusen,0,2
+1. FC Köln,Borussia Dortmund,1,1
+1. FC Union Berlin,1. FC Köln,1,0
+Arminia Bielefeld,VfB Stuttgart,1,1
+1899 Hoffenheim,VfL Bochum,1,2
+Eintracht Frankfurt,SpVgg Greuther Fürth,0,0
+Bayer 04 Leverkusen,Hertha BSC,2,1
+SC Freiburg,Bayern München,1,4
+SpVgg Greuther Fürth,Hertha BSC,2,1
+SC Freiburg,1. FSV Mainz 05,1,1
+Borussia M'gladbach,FC Augsburg,3,2
+Eintracht Frankfurt,VfL Wolfsburg,0,2
+VfL Bochum,Bayern München,4,2
+Bayer 04 Leverkusen,VfB Stuttgart,4,2
+1. FC Union Berlin,Borussia Dortmund,0,3
+1899 Hoffenheim,Arminia Bielefeld,2,0
+1. FSV Mainz 05,Bayer 04 Leverkusen,3,2
+FC Augsburg,SC Freiburg,1,2
+Arminia Bielefeld,1. FC Union Berlin,1,0
+VfB Stuttgart,VfL Bochum,1,1
+VfL Wolfsburg,1899 Hoffenheim,1,2
+1. FC Köln,Eintracht Frankfurt,1,0
+Bayern München,SpVgg Greuther Fürth,4,1
+Borussia Dortmund,Borussia M'gladbach,6,0
+Hertha BSC,RB Leipzig,1,6
+1899 Hoffenheim,VfB Stuttgart,2,1
+SpVgg Greuther Fürth,1. FC Köln,1,1
+1. FC Union Berlin,1. FSV Mainz 05,3,1
+SC Freiburg,Hertha BSC,3,0
+Borussia M'gladbach,VfL Wolfsburg,2,2
+Bayer 04 Leverkusen,Arminia Bielefeld,3,0
+Eintracht Frankfurt,Bayern München,0,1
+VfL Bochum,RB Leipzig,0,1
+FC Augsburg,Borussia Dortmund,1,1
+Arminia Bielefeld,FC Augsburg,0,1
+VfL Bochum,SpVgg Greuther Fürth,2,1
+VfL Wolfsburg,1. FC Union Berlin,1,0
+Hertha BSC,Eintracht Frankfurt,1,4
+Hertha BSC,1. FC Köln,1,3
+VfL Bochum,VfL Wolfsburg,1,0
+Borussia Dortmund,SC Freiburg,5,1
+1. FSV Mainz 05,VfL Bochum,1,0
+1. FC Union Berlin,1899 Hoffenheim,2,1
+VfL Wolfsburg,Hertha BSC,0,0
+VfB Stuttgart,RB Leipzig,0,2
+1. FC Köln,Bayern München,0,4
+Borussia M'gladbach,Bayer 04 Leverkusen,1,2
+FC Augsburg,Eintracht Frankfurt,1,1
+Arminia Bielefeld,SpVgg Greuther Fürth,2,2
+Eintracht Frankfurt,Arminia Bielefeld,0,2
+SpVgg Greuther Fürth,1. FSV Mainz 05,2,1
+SC Freiburg,VfB Stuttgart,2,0
+Borussia M'gladbach,1. FC Union Berlin,1,2
+Bayer 04 Leverkusen,FC Augsburg,5,1
+1899 Hoffenheim,Borussia Dortmund,2,3
+VfL Bochum,1. FC Köln,2,2
+RB Leipzig,VfL Wolfsburg,2,0
+Hertha BSC,Bayern München,1,4
+Hertha BSC,VfL Bochum,1,1
+FC Augsburg,1. FC Union Berlin,2,0
+1. FC Köln,SC Freiburg,1,0
+1. FSV Mainz 05,1899 Hoffenheim,2,0
+VfB Stuttgart,Eintracht Frankfurt,2,3
+Arminia Bielefeld,Borussia M'gladbach,1,1
+Bayern München,RB Leipzig,3,2
+Borussia Dortmund,Bayer 04 Leverkusen,2,5
+VfL Wolfsburg,SpVgg Greuther Fürth,4,1
+RB Leipzig,1. FC Köln,3,1
+VfL Bochum,Borussia Dortmund,1,1
+Bayern München,1. FSV Mainz 05,2,1
+VfL Wolfsburg,VfB Stuttgart,0,2
+SpVgg Greuther Fürth,1. FC Union Berlin,1,0
+Eintracht Frankfurt,Bayer 04 Leverkusen,5,2
+VfB Stuttgart,Bayern München,0,5
+Arminia Bielefeld,VfL Bochum,2,0
+1. FSV Mainz 05,Hertha BSC,4,0
+VfL Wolfsburg,1. FC Köln,2,3
+Borussia M'gladbach,Eintracht Frankfurt,2,3
+1. FC Union Berlin,SC Freiburg,0,0
+Bayer 04 Leverkusen,1899 Hoffenheim,2,2
+FC Augsburg,RB Leipzig,1,1
+Borussia Dortmund,SpVgg Greuther Fürth,3,0
+Bayern München,VfL Wolfsburg,4,0
+SpVgg Greuther Fürth,FC Augsburg,0,0
+VfL Bochum,1. FC Union Berlin,0,1
+Eintracht Frankfurt,1. FSV Mainz 05,1,0
+1899 Hoffenheim,Borussia M'gladbach,1,1
+RB Leipzig,Arminia Bielefeld,0,2
+Hertha BSC,Borussia Dortmund,3,2
+SC Freiburg,Bayer 04 Leverkusen,2,1
+1. FC Köln,VfB Stuttgart,1,0
+Bayern München,Borussia M'gladbach,1,2
+SC Freiburg,Arminia Bielefeld,2,2
+SpVgg Greuther Fürth,VfB Stuttgart,0,0
+1899 Hoffenheim,FC Augsburg,3,1
+Bayer 04 Leverkusen,1. FC Union Berlin,2,2
+RB Leipzig,1. FSV Mainz 05,4,1
+Eintracht Frankfurt,Borussia Dortmund,2,3
+Arminia Bielefeld,VfL Wolfsburg,2,2
+Borussia M'gladbach,SpVgg Greuther Fürth,4,0
+Bayer 04 Leverkusen,VfL Bochum,1,0
+1899 Hoffenheim,RB Leipzig,2,0
+Borussia Dortmund,VfB Stuttgart,2,1
+1. FC Union Berlin,Hertha BSC,2,0
+SC Freiburg,Eintracht Frankfurt,0,2
+1. FSV Mainz 05,1. FC Köln,1,1
+VfB Stuttgart,1. FSV Mainz 05,2,1
+VfL Bochum,SC Freiburg,2,1
+Hertha BSC,FC Augsburg,1,1
+SpVgg Greuther Fürth,1899 Hoffenheim,3,6
+1. FC Köln,Borussia M'gladbach,4,1
+VfL Wolfsburg,Borussia Dortmund,1,3
+Bayern München,Arminia Bielefeld,1,0
+Eintracht Frankfurt,1. FC Union Berlin,2,1
+RB Leipzig,Bayer 04 Leverkusen,1,3
+1. FC Union Berlin,RB Leipzig,2,1
+FC Augsburg,VfL Bochum,2,3
+Arminia Bielefeld,1. FC Köln,1,1
+1. FSV Mainz 05,VfL Wolfsburg,3,0
+1899 Hoffenheim,Eintracht Frankfurt,3,2
+Bayer 04 Leverkusen,SpVgg Greuther Fürth,7,1
+Borussia Dortmund,Bayern München,2,3
+VfB Stuttgart,Hertha BSC,2,2
+Borussia M'gladbach,SC Freiburg,0,6
+1. FC Köln,FC Augsburg,0,2
+Hertha BSC,Arminia Bielefeld,2,0
+SC Freiburg,1899 Hoffenheim,1,2
+RB Leipzig,Borussia M'gladbach,4,1
+Bayer 04 Leverkusen,Bayern München,1,5
+FC Augsburg,Arminia Bielefeld,1,1
+1. FSV Mainz 05,FC Augsburg,4,1
+VfL Wolfsburg,SC Freiburg,0,2
+RB Leipzig,SpVgg Greuther Fürth,4,1
+Arminia Bielefeld,Borussia Dortmund,1,3
+Bayern München,1899 Hoffenheim,4,0
+Hertha BSC,Borussia M'gladbach,1,0
+1. FC Köln,Bayer 04 Leverkusen,2,2
+VfB Stuttgart,1. FC Union Berlin,1,1
+VfL Bochum,Eintracht Frankfurt,2,0
+1899 Hoffenheim,Hertha BSC,2,0
+Arminia Bielefeld,1. FSV Mainz 05,1,2
+SC Freiburg,SpVgg Greuther Fürth,3,1
+Bayer 04 Leverkusen,VfL Wolfsburg,0,2
+Borussia Dortmund,1. FC Köln,2,0
+1. FC Union Berlin,Bayern München,2,5
+Eintracht Frankfurt,RB Leipzig,1,1
+FC Augsburg,VfB Stuttgart,4,1
+Borussia M'gladbach,VfL Bochum,2,1
+1. FSV Mainz 05,Borussia M'gladbach,1,1
+VfB Stuttgart,Arminia Bielefeld,0,1
+VfL Bochum,1899 Hoffenheim,2,0
+VfL Wolfsburg,FC Augsburg,1,0
+Bayern München,SC Freiburg,2,1
+RB Leipzig,Borussia Dortmund,2,1
+Hertha BSC,Bayer 04 Leverkusen,1,1
+1. FC Köln,1. FC Union Berlin,2,2
+SpVgg Greuther Fürth,Eintracht Frankfurt,1,2
+FC Augsburg,Bayern München,2,1
+Bayern München,VfL Bochum,7,0
+1. FC Köln,RB Leipzig,1,1
+VfB Stuttgart,Bayer 04 Leverkusen,1,3
+Borussia Dortmund,1. FC Union Berlin,4,2
+VfL Wolfsburg,Eintracht Frankfurt,1,1
+SpVgg Greuther Fürth,Bayern München,1,3
+1. FC Union Berlin,Arminia Bielefeld,1,0
+Eintracht Frankfurt,1. FC Köln,1,1
+1899 Hoffenheim,VfL Wolfsburg,3,1
+Bayer 04 Leverkusen,1. FSV Mainz 05,1,0
+RB Leipzig,Hertha BSC,6,0
+Borussia M'gladbach,Borussia Dortmund,1,0
+VfL Bochum,VfB Stuttgart,0,0
+SC Freiburg,FC Augsburg,3,0
+1. FC Köln,SpVgg Greuther Fürth,3,1
+Hertha BSC,SC Freiburg,1,2
+VfB Stuttgart,1899 Hoffenheim,3,1
+VfL Wolfsburg,Borussia M'gladbach,1,3
+Borussia Dortmund,FC Augsburg,2,1
+RB Leipzig,VfL Bochum,3,0
+1. FSV Mainz 05,1. FC Union Berlin,1,2
+Bayern München,Eintracht Frankfurt,1,2
+Arminia Bielefeld,Bayer 04 Leverkusen,0,4
+1899 Hoffenheim,1. FC Köln,5,0
+SpVgg Greuther Fürth,VfL Bochum,0,1
+1. FC Union Berlin,VfL Wolfsburg,2,0
+Eintracht Frankfurt,Hertha BSC,1,2
+SC Freiburg,RB Leipzig,1,1
+Borussia Dortmund,1. FSV Mainz 05,3,1
+Borussia M'gladbach,VfB Stuttgart,1,1
+SpVgg Greuther Fürth,Arminia Bielefeld,1,1
+VfL Bochum,1. FSV Mainz 05,2,0
+Hertha BSC,VfL Wolfsburg,1,2
+Eintracht Frankfurt,FC Augsburg,0,0
+SC Freiburg,Borussia Dortmund,2,1
+Bayer 04 Leverkusen,Borussia M'gladbach,4,0
+1899 Hoffenheim,1. FC Union Berlin,2,2
+Bayern München,1. FC Köln,3,2
+Borussia Dortmund,1899 Hoffenheim,3,2
+1. FSV Mainz 05,SpVgg Greuther Fürth,3,0
+1. FC Köln,VfL Bochum,2,1
+VfB Stuttgart,SC Freiburg,2,3
+Arminia Bielefeld,Eintracht Frankfurt,1,1
+FC Augsburg,Bayer 04 Leverkusen,1,4
+Bayern München,Hertha BSC,5,0
+1. FC Union Berlin,Borussia M'gladbach,2,1
+VfL Wolfsburg,RB Leipzig,1,0
+SC Freiburg,1. FC Köln,1,1
+1. FC Union Berlin,FC Augsburg,0,0
+1899 Hoffenheim,1. FSV Mainz 05,0,2
+SpVgg Greuther Fürth,VfL Wolfsburg,0,2
+Bayer 04 Leverkusen,Borussia Dortmund,3,4
+RB Leipzig,Bayern München,1,4
+Eintracht Frankfurt,VfB Stuttgart,1,1
+VfL Bochum,Hertha BSC,1,3
+Borussia M'gladbach,Arminia Bielefeld,3,1
+Hertha BSC,SpVgg Greuther Fürth,2,1
+1. FSV Mainz 05,SC Freiburg,0,0
+Arminia Bielefeld,1899 Hoffenheim,0,0
+FC Augsburg,Borussia M'gladbach,1,0
+Borussia M'gladbach,Bayern München,1,1
+Arminia Bielefeld,SC Freiburg,0,0
+VfB Stuttgart,SpVgg Greuther Fürth,5,1
+FC Augsburg,1899 Hoffenheim,0,4
+VfL Wolfsburg,VfL Bochum,1,0
+1. FC Union Berlin,Bayer 04 Leverkusen,1,1
+Borussia Dortmund,Eintracht Frankfurt,5,2
+1. FSV Mainz 05,RB Leipzig,1,0
+1. FC Köln,Hertha BSC,3,1
+RB Leipzig,VfB Stuttgart,4,0
+Valencia,Real Betis Balompié,0,3
+Granada,Athletic Club,1,0
+Barcelona,Celta Vigo,3,1
+Osasuna,Getafe,1,1
+Deportivo Alavés,Espanyol,2,1
+Sevilla,RCD Mallorca,0,0
+Elche CF,Atlético Madrid,0,2
+Real Sociedad,Cádiz CF,3,0
+Rayo Vallecano,Villarreal,1,5
+Real Madrid,Levante UD,6,0
+Espanyol,Valencia,1,1
+Levante UD,Deportivo Alavés,3,1
+RCD Mallorca,Rayo Vallecano,2,1
+Celta Vigo,Elche CF,1,0
+Athletic Club,Osasuna,2,0
+Real Betis Balompié,Granada,2,0
+Villarreal,Real Sociedad,1,2
+Atlético Madrid,Sevilla,1,1
+Getafe,Barcelona,0,0
+Cádiz CF,Real Madrid,1,1
+Rayo Vallecano,Levante UD,2,4
+Real Madrid,Real Betis Balompié,0,0
+Valencia,Celta Vigo,2,0
+Elche CF,Getafe,3,1
+Deportivo Alavés,Cádiz CF,0,1
+Osasuna,RCD Mallorca,0,2
+Granada,Espanyol,0,0
+Sevilla,Athletic Club,1,0
+Real Sociedad,Atlético Madrid,1,2
+Barcelona,Villarreal,0,2
+Real Betis Balompié,Elche CF,0,1
+Villarreal,Valencia,2,0
+Atlético Madrid,Granada,0,0
+Celta Vigo,Getafe,0,2
+Osasuna,Real Madrid,1,3
+Espanyol,Rayo Vallecano,0,1
+Levante UD,Sevilla,2,3
+Cádiz CF,Athletic Club,2,3
+Real Sociedad,Barcelona,0,1
+Barcelona,Rayo Vallecano,0,1
+Sevilla,Cádiz CF,1,1
+Deportivo Alavés,Villarreal,2,1
+Real Madrid,Espanyol,4,0
+Valencia,Levante UD,1,1
+Athletic Club,Atlético Madrid,2,0
+Elche CF,Osasuna,1,1
+Granada,Celta Vigo,1,1
+Rayo Vallecano,Real Sociedad,1,1
+Barcelona,RCD Mallorca,2,1
+Getafe,Real Betis Balompié,0,0
+Levante UD,Real Sociedad,2,1
+RCD Mallorca,Granada,2,6
+Athletic Club,Valencia,0,0
+Cádiz CF,Elche CF,3,0
+Celta Vigo,Deportivo Alavés,4,0
+Real Betis Balompié,Barcelona,1,2
+Getafe,Rayo Vallecano,0,0
+Villarreal,Sevilla,1,1
+Espanyol,Osasuna,1,1
+Atlético Madrid,Real Madrid,1,0
+Levante UD,Villarreal,2,0
+Celta Vigo,Real Madrid,1,2
+Atlético Madrid,Deportivo Alavés,4,1
+Athletic Club,Elche CF,2,1
+Real Betis Balompié,Osasuna,4,1
+Granada,Rayo Vallecano,2,2
+Valencia,Cádiz CF,0,0
+Barcelona,Sevilla,1,0
+Real Sociedad,Espanyol,1,0
+Sevilla,Granada,4,2
+Cádiz CF,Real Betis Balompié,1,2
+RCD Mallorca,Atlético Madrid,1,0
+Villarreal,Athletic Club,1,1
+Real Madrid,Getafe,2,0
+Osasuna,Deportivo Alavés,1,0
+Espanyol,Celta Vigo,1,0
+Elche CF,Real Sociedad,1,2
+Levante UD,Barcelona,2,3
+Rayo Vallecano,Valencia,1,1
+Real Sociedad,Real Betis Balompié,0,0
+Elche CF,RCD Mallorca,3,0
+Deportivo Alavés,Rayo Vallecano,1,0
+Valencia,Osasuna,1,2
+Getafe,Villarreal,1,2
+Granada,Levante UD,1,4
+Atlético Madrid,Espanyol,2,1
+Athletic Club,Celta Vigo,0,2
+Sevilla,Real Madrid,2,3
+Barcelona,Cádiz CF,0,1
+RCD Mallorca,Deportivo Alavés,2,1
+Osasuna,Villarreal,1,0
+Espanyol,Getafe,2,0
+Valencia,Granada,3,1
+Real Madrid,Real Sociedad,4,1
+Cádiz CF,Rayo Vallecano,2,0
+Elche CF,Barcelona,1,2
+Celta Vigo,RCD Mallorca,4,3
+Real Betis Balompié,Atlético Madrid,1,3
+Athletic Club,Levante UD,3,1
+Atlético Madrid,Cádiz CF,2,1
+Levante UD,Espanyol,1,1
+Granada,Elche CF,0,1
+Villarreal,Celta Vigo,1,0
+Getafe,Valencia,0,0
+Rayo Vallecano,Sevilla,1,1
+Real Betis Balompié,Athletic Club,1,0
+Real Sociedad,Deportivo Alavés,1,0
+Barcelona,Osasuna,4,0
+RCD Mallorca,Real Madrid,0,3
+Athletic Club,Getafe,1,1
+Deportivo Alavés,Granada,2,3
+Elche CF,Valencia,0,1
+Osasuna,Levante UD,3,1
+Rayo Vallecano,Atlético Madrid,0,1
+Espanyol,RCD Mallorca,1,0
+Celta Vigo,Real Betis Balompié,0,0
+Cádiz CF,Villarreal,1,0
+Sevilla,Real Sociedad,0,0
+Real Madrid,Barcelona,0,4
+Getafe,RCD Mallorca,1,0
+Rayo Vallecano,Osasuna,0,3
+Atlético Madrid,Getafe,4,3
+Deportivo Alavés,Valencia,2,1
+Levante UD,Real Betis Balompié,2,4
+Real Sociedad,Granada,2,0
+Espanyol,Barcelona,2,2
+RCD Mallorca,Athletic Club,3,2
+Atlético Madrid,Levante UD,0,1
+Elche CF,Rayo Vallecano,2,1
+Granada,Villarreal,1,4
+Osasuna,Atlético Madrid,0,3
+Cádiz CF,Getafe,1,1
+Real Madrid,Deportivo Alavés,3,0
+Espanyol,Sevilla,1,1
+Valencia,Barcelona,1,4
+Real Betis Balompié,RCD Mallorca,2,1
+Athletic Club,Real Sociedad,4,0
+Celta Vigo,Levante UD,1,1
+Levante UD,Elche CF,3,0
+RCD Mallorca,Valencia,0,1
+Getafe,Deportivo Alavés,2,2
+Rayo Vallecano,Real Madrid,0,1
+Atlético Madrid,Celta Vigo,2,0
+Villarreal,Espanyol,5,1
+Sevilla,Real Betis Balompié,2,1
+Real Sociedad,Osasuna,1,0
+Barcelona,Athletic Club,4,0
+Granada,Cádiz CF,0,0
+RCD Mallorca,Real Sociedad,0,2
+Deportivo Alavés,Sevilla,0,0
+Real Betis Balompié,Deportivo Alavés,4,0
+Cádiz CF,Espanyol,2,2
+Celta Vigo,Osasuna,2,0
+Valencia,Sevilla,1,1
+Getafe,Granada,4,2
+Espanyol,Real Betis Balompié,1,4
+Levante UD,Cádiz CF,0,2
+Villarreal,RCD Mallorca,3,0
+Sevilla,Celta Vigo,2,2
+Atlético Madrid,Valencia,3,2
+Granada,Osasuna,0,2
+Real Madrid,Elche CF,2,2
+Rayo Vallecano,Athletic Club,0,1
+Real Sociedad,Getafe,0,0
+Deportivo Alavés,Barcelona,0,1
+Getafe,Levante UD,3,0
+Elche CF,Deportivo Alavés,3,1
+RCD Mallorca,Cádiz CF,2,1
+Celta Vigo,Rayo Vallecano,2,0
+Osasuna,Sevilla,0,0
+Valencia,Real Sociedad,0,0
+Barcelona,Atlético Madrid,4,2
+Real Betis Balompié,Villarreal,0,2
+Real Madrid,Granada,1,0
+Athletic Club,Espanyol,2,1
+Sevilla,Elche CF,2,0
+Cádiz CF,Celta Vigo,0,0
+Villarreal,Real Madrid,0,0
+Granada,RCD Mallorca,4,1
+Athletic Club,Real Betis Balompié,3,2
+Getafe,Osasuna,1,0
+Real Madrid,Cádiz CF,0,0
+Levante UD,Valencia,3,4
+Villarreal,Deportivo Alavés,5,2
+Sevilla,Barcelona,1,1
+Granada,Atlético Madrid,2,1
+Athletic Club,Real Madrid,1,2
+Valencia,Espanyol,1,2
+Getafe,Real Madrid,1,0
+Elche CF,Granada,0,0
+Atlético Madrid,Rayo Vallecano,2,0
+Deportivo Alavés,Real Sociedad,1,1
+Real Betis Balompié,Celta Vigo,0,2
+RCD Mallorca,Barcelona,0,1
+Villarreal,Levante UD,5,0
+Osasuna,Athletic Club,1,3
+Cádiz CF,Sevilla,0,1
+Levante UD,RCD Mallorca,2,0
+Real Sociedad,Celta Vigo,1,0
+Granada,Barcelona,1,1
+Real Madrid,Valencia,4,1
+Rayo Vallecano,Real Betis Balompié,1,1
+Sevilla,Getafe,1,0
+Osasuna,Cádiz CF,2,0
+Deportivo Alavés,Athletic Club,0,0
+Villarreal,Atlético Madrid,2,2
+Espanyol,Elche CF,1,2
+Elche CF,Villarreal,1,0
+Espanyol,Real Sociedad,1,0
+Cádiz CF,Atlético Madrid,1,4
+Real Madrid,Sevilla,2,1
+Osasuna,Elche CF,1,1
+Real Madrid,Athletic Club,1,0
+Granada,Deportivo Alavés,2,1
+Sevilla,Villarreal,1,0
+Barcelona,Real Betis Balompié,0,1
+Atlético Madrid,RCD Mallorca,1,2
+Real Sociedad,Real Madrid,0,2
+Rayo Vallecano,Espanyol,1,0
+Elche CF,Cádiz CF,3,1
+Levante UD,Osasuna,0,0
+Celta Vigo,Valencia,1,2
+Getafe,Athletic Club,0,0
+RCD Mallorca,Celta Vigo,0,0
+Espanyol,Levante UD,4,3
+Deportivo Alavés,Getafe,1,1
+Valencia,Elche CF,2,1
+Athletic Club,Sevilla,0,1
+Villarreal,Rayo Vallecano,2,0
+Osasuna,Barcelona,2,2
+Real Betis Balompié,Real Sociedad,4,0
+Real Madrid,Atlético Madrid,2,0
+Cádiz CF,Granada,1,1
+Celta Vigo,Espanyol,3,1
+Rayo Vallecano,Deportivo Alavés,2,0
+Real Sociedad,Villarreal,1,3
+Barcelona,Elche CF,3,2
+Sevilla,Atlético Madrid,2,1
+Getafe,Espanyol,2,1
+Real Sociedad,Athletic Club,1,1
+Rayo Vallecano,Celta Vigo,0,0
+Levante UD,Granada,0,3
+Athletic Club,Cádiz CF,0,1
+Espanyol,Granada,2,0
+Celta Vigo,Barcelona,3,3
+Deportivo Alavés,Levante UD,2,1
+Real Madrid,Rayo Vallecano,2,1
+Villarreal,Getafe,1,0
+Valencia,Atlético Madrid,3,3
+RCD Mallorca,Elche CF,2,2
+Osasuna,Real Sociedad,0,2
+Real Betis Balompié,Sevilla,0,2
+Levante UD,Athletic Club,0,0
+Celta Vigo,Villarreal,1,1
+Sevilla,Deportivo Alavés,2,2
+Atlético Madrid,Osasuna,1,0
+Barcelona,Espanyol,1,0
+Getafe,Cádiz CF,4,0
+Granada,Real Madrid,1,4
+Elche CF,Real Betis Balompié,0,3
+Real Sociedad,Valencia,0,0
+Rayo Vallecano,RCD Mallorca,3,1
+Athletic Club,Granada,2,2
+Deportivo Alavés,Celta Vigo,1,2
+Valencia,Rayo Vallecano,1,1
+RCD Mallorca,Getafe,0,0
+Villarreal,Barcelona,1,3
+Real Betis Balompié,Levante UD,3,1
+Barcelona,Valencia,3,1
+Deportivo Alavés,Real Betis Balompié,0,1
+Espanyol,Cádiz CF,2,0
+Osasuna,Granada,1,1
+Valencia,RCD Mallorca,2,2
+Cádiz CF,Deportivo Alavés,0,2
+Elche CF,Espanyol,2,2
+Athletic Club,Villarreal,2,1
+Sevilla,Levante UD,5,3
+Barcelona,Real Madrid,1,2
+Real Betis Balompié,Rayo Vallecano,3,2
+Atlético Madrid,Real Sociedad,2,2
+Getafe,Celta Vigo,0,3
+Deportivo Alavés,Elche CF,1,0
+Espanyol,Athletic Club,1,1
+Villarreal,Cádiz CF,3,3
+RCD Mallorca,Sevilla,1,1
+Rayo Vallecano,Barcelona,1,0
+Real Betis Balompié,Valencia,4,1
+Real Madrid,Osasuna,0,0
+Celta Vigo,Real Sociedad,0,2
+Granada,Getafe,1,1
+Levante UD,Atlético Madrid,2,2
+Elche CF,Real Madrid,1,2
+Sevilla,Osasuna,2,0
+Valencia,Villarreal,2,0
+Barcelona,Deportivo Alavés,1,1
+Cádiz CF,RCD Mallorca,1,1
+Atlético Madrid,Real Betis Balompié,3,0
+Real Madrid,RCD Mallorca,6,1
+Osasuna,Real Betis Balompié,1,3
+Granada,Real Sociedad,2,3
+Cádiz CF,Barcelona,0,0
+Deportivo Alavés,Atlético Madrid,1,0
+Valencia,Athletic Club,1,1
+Sevilla,Espanyol,2,0
+Real Madrid,Villarreal,0,0
+RCD Mallorca,Osasuna,2,3
+Barcelona,Levante UD,3,0
+Rayo Vallecano,Cádiz CF,3,1
+Real Sociedad,Elche CF,1,0
+Real Betis Balompié,Getafe,2,0
+Celta Vigo,Granada,1,0
+Athletic Club,Deportivo Alavés,1,0
+Osasuna,Rayo Vallecano,1,0
+RCD Mallorca,Levante UD,1,0
+Cádiz CF,Valencia,0,0
+Atlético Madrid,Barcelona,2,0
+Elche CF,Celta Vigo,1,0
+Espanyol,Real Madrid,2,1
+Getafe,Real Sociedad,1,1
+Villarreal,Real Betis Balompié,2,0
+Granada,Sevilla,1,0
+Levante UD,Getafe,0,0
+Real Sociedad,RCD Mallorca,1,0
+Rayo Vallecano,Elche CF,2,1
+Celta Vigo,Sevilla,0,1
+Villarreal,Osasuna,1,2
+Barcelona,Getafe,2,1
+Cádiz CF,Osasuna,2,3
+Rayo Vallecano,Granada,4,0
+Atlético Madrid,Villarreal,2,2
+Levante UD,Rayo Vallecano,1,1
+Athletic Club,RCD Mallorca,2,0
+Espanyol,Atlético Madrid,1,2
+Osasuna,Valencia,1,4
+Cádiz CF,Real Sociedad,0,2
+Real Madrid,Celta Vigo,5,2
+Getafe,Elche CF,0,1
+Granada,Real Betis Balompié,1,2
+Celta Vigo,Cádiz CF,1,2
+Rayo Vallecano,Getafe,3,0
+Atlético Madrid,Athletic Club,0,0
+Elche CF,Levante UD,1,1
+Deportivo Alavés,Osasuna,0,2
+RCD Mallorca,Villarreal,0,0
+Real Sociedad,Sevilla,0,0
+Real Betis Balompié,Espanyol,2,2
+Valencia,Real Madrid,1,2
+Barcelona,Granada,1,1
+Getafe,Atlético Madrid,1,2
+Levante UD,Celta Vigo,0,2
+Athletic Club,Rayo Vallecano,1,2
+Espanyol,Deportivo Alavés,1,0
+Sevilla,Valencia,3,1
+Villarreal,Elche CF,4,1
+Angers,Bordeaux,4,1
+Stade de Reims,RC Lens,1,2
+Lorient,Olympique de Marseille,0,3
+Paris Saint-Germain,Troyes,2,2
+OGC Nice,Saint-Étienne,4,2
+FC Nantes,Stade Rennais,2,1
+Metz,Angers,1,0
+Bordeaux,Lorient,0,0
+RC Strasbourg,Clermont Foot 63,1,0
+Troyes,RC Lens,1,3
+Saint-Étienne,Stade de Reims,1,2
+OGC Nice,Lille OSC,1,3
+AS Monaco,Stade Brestois 29,4,2
+Olympique Lyonnais,FC Nantes,3,2
+Stade Rennais,Olympique de Marseille,2,0
+Montpellier,Paris Saint-Germain,0,4
+Paris FC,Sochaux,1,2
+AJ Auxerre,Sochaux,5,4
+Lorient,Troyes,1,1
+Angers,Montpellier,2,0
+Stade Brestois 29,Bordeaux,2,4
+FC Nantes,Saint-Étienne,1,1
+Stade de Reims,OGC Nice,2,3
+Lille OSC,Stade Rennais,2,2
+RC Lens,AS Monaco,2,2
+Clermont Foot 63,Olympique Lyonnais,1,2
+Olympique de Marseille,RC Strasbourg,4,0
+Paris Saint-Germain,Metz,5,0
+AJ Auxerre,Saint-Étienne,1,1
+Saint-Étienne,AJ Auxerre,5,6
+AS Monaco,OGC Nice,1,0
+RC Lens,Montpellier,2,0
+RC Strasbourg,Stade Rennais,2,1
+Stade Brestois 29,Olympique Lyonnais,2,1
+Olympique de Marseille,FC Nantes,3,2
+Angers,Paris Saint-Germain,0,3
+Olympique Lyonnais,Montpellier,5,2
+Saint-Étienne,AS Monaco,1,4
+Paris Saint-Germain,RC Lens,1,1
+Stade Rennais,Lorient,5,0
+Clermont Foot 63,Angers,2,2
+Metz,Stade Brestois 29,0,1
+FC Nantes,Bordeaux,5,3
+OGC Nice,Troyes,1,0
+Lille OSC,RC Strasbourg,1,0
+Stade de Reims,Olympique de Marseille,0,1
+RC Strasbourg,Paris Saint-Germain,3,3
+RC Lens,FC Nantes,2,2
+Stade Rennais,Saint-Étienne,2,0
+Troyes,Lille OSC,3,0
+Lorient,Stade de Reims,1,2
+Stade Brestois 29,Clermont Foot 63,2,0
+Montpellier,Metz,2,2
+AS Monaco,Angers,2,0
+Bordeaux,OGC Nice,0,1
+Olympique de Marseille,Olympique Lyonnais,0,3
+Lille OSC,AS Monaco,1,2
+Stade Brestois 29,RC Strasbourg,0,1
+Metz,Olympique Lyonnais,3,2
+Clermont Foot 63,Montpellier,2,1
+Clermont Foot 63,FC Nantes,2,3
+Montpellier,Stade Brestois 29,1,2
+Metz,AS Monaco,1,2
+Saint-Étienne,Olympique de Marseille,2,4
+Olympique Lyonnais,Angers,3,2
+Paris Saint-Germain,Lorient,5,1
+Lorient,Saint-Étienne,6,2
+Stade de Reims,Stade Rennais,2,3
+Clermont Foot 63,Paris Saint-Germain,1,6
+Bordeaux,Metz,3,1
+Stade Brestois 29,FC Nantes,1,1
+Angers,Lille OSC,1,1
+AS Monaco,Troyes,2,1
+RC Lens,OGC Nice,3,0
+RC Strasbourg,Olympique Lyonnais,1,1
+Olympique de Marseille,Montpellier,2,0
+Stade Rennais,AS Monaco,2,3
+Saint-Étienne,Stade Brestois 29,2,1
+Lille OSC,RC Lens,1,2
+OGC Nice,Lorient,2,1
+Metz,Clermont Foot 63,1,1
+Montpellier,Stade de Reims,0,0
+Troyes,RC Strasbourg,1,1
+FC Nantes,Angers,1,1
+Olympique Lyonnais,Bordeaux,6,1
+Paris Saint-Germain,Olympique de Marseille,2,1
+Troyes,Clermont Foot 63,0,1
+Lorient,Metz,1,0
+Bordeaux,Saint-Étienne,2,2
+Stade de Reims,Lille OSC,2,1
+Bordeaux,Troyes,0,2
+Stade de Reims,RC Strasbourg,1,1
+FC Nantes,Montpellier,2,0
+Stade Rennais,Angers,2,0
+Lille OSC,Clermont Foot 63,4,0
+Olympique de Marseille,AS Monaco,0,1
+Lille OSC,Saint-Étienne,0,0
+Montpellier,OGC Nice,0,0
+Troyes,FC Nantes,1,0
+Paris Saint-Germain,Bordeaux,3,0
+Clermont Foot 63,Lorient,0,2
+Angers,Stade de Reims,0,1
+Metz,RC Lens,0,0
+RC Strasbourg,AS Monaco,1,0
+Olympique Lyonnais,Stade Rennais,2,4
+Stade Brestois 29,Olympique de Marseille,1,4
+Saint-Étienne,Troyes,1,1
+RC Lens,Clermont Foot 63,3,1
+FC Nantes,Lille OSC,0,1
+AS Monaco,Paris Saint-Germain,3,0
+Lorient,RC Strasbourg,0,0
+Angers,Stade Brestois 29,1,0
+Bordeaux,Montpellier,0,2
+Stade Rennais,Metz,6,1
+Stade de Reims,Olympique Lyonnais,0,0
+Olympique de Marseille,OGC Nice,2,1
+OGC Nice,Stade Rennais,1,1
+Lille OSC,Bordeaux,0,0
+RC Strasbourg,RC Lens,1,0
+Troyes,Stade de Reims,1,0
+Stade Brestois 29,Troyes,5,1
+FC Nantes,Stade de Reims,1,0
+Angers,RC Strasbourg,0,1
+Clermont Foot 63,Saint-Étienne,1,2
+RC Lens,Bordeaux,3,2
+Metz,Olympique de Marseille,1,2
+Lille OSC,Metz,0,0
+RC Lens,Olympique Lyonnais,1,1
+FC Nantes,Paris Saint-Germain,3,1
+OGC Nice,Angers,1,0
+Stade de Reims,Stade Brestois 29,1,1
+Lorient,Montpellier,0,1
+Saint-Étienne,RC Strasbourg,2,2
+Stade Rennais,Troyes,4,1
+Bordeaux,AS Monaco,1,1
+Olympique de Marseille,Clermont Foot 63,0,2
+Montpellier,Stade Rennais,2,4
+RC Strasbourg,OGC Nice,0,0
+Paris Saint-Germain,Saint-Étienne,3,1
+AS Monaco,Stade de Reims,1,2
+Stade Brestois 29,Lorient,0,1
+Clermont Foot 63,Bordeaux,1,1
+Metz,FC Nantes,0,0
+Angers,RC Lens,1,2
+Troyes,Olympique de Marseille,1,1
+Olympique Lyonnais,Lille OSC,0,1
+Lorient,Olympique Lyonnais,1,4
+RC Lens,Stade Brestois 29,0,1
+OGC Nice,Paris Saint-Germain,1,0
+Saint-Étienne,Metz,1,0
+Olympique de Marseille,Lille OSC,1,1
+Clermont Foot 63,RC Strasbourg,0,2
+Montpellier,Troyes,0,1
+Lille OSC,Lorient,3,1
+Olympique Lyonnais,Saint-Étienne,1,0
+Stade Brestois 29,Lille OSC,2,0
+RC Lens,Olympique de Marseille,0,2
+Metz,OGC Nice,0,2
+Angers,Troyes,2,1
+FC Nantes,Lorient,4,2
+Bordeaux,RC Strasbourg,4,3
+Clermont Foot 63,Stade Rennais,2,1
+Montpellier,AS Monaco,3,2
+Paris Saint-Germain,Stade de Reims,4,0
+Angers,Saint-Étienne,0,1
+Olympique Lyonnais,Olympique de Marseille,2,1
+Olympique de Marseille,Angers,5,2
+Saint-Étienne,Montpellier,3,1
+AS Monaco,Olympique Lyonnais,2,0
+Lorient,RC Lens,2,0
+Troyes,Metz,0,0
+Stade de Reims,Bordeaux,5,0
+RC Strasbourg,FC Nantes,1,0
+OGC Nice,Clermont Foot 63,0,1
+Stade Rennais,Stade Brestois 29,2,0
+Lille OSC,Paris Saint-Germain,1,5
+Paris Saint-Germain,Stade Rennais,1,0
+Montpellier,Lille OSC,0,1
+Olympique Lyonnais,OGC Nice,2,0
+AS Monaco,Lorient,0,0
+Paris Saint-Germain,AS Monaco,2,0
+Troyes,Stade Brestois 29,1,1
+Montpellier,Angers,4,1
+Saint-Étienne,FC Nantes,0,1
+OGC Nice,RC Lens,2,1
+Bordeaux,Lille OSC,2,3
+AS Monaco,Stade Rennais,2,1
+Olympique de Marseille,Stade de Reims,1,1
+Olympique Lyonnais,Metz,1,1
+Lorient,Paris Saint-Germain,1,1
+Bordeaux,Olympique de Marseille,0,1
+RC Lens,Stade Rennais,1,0
+Stade Brestois 29,OGC Nice,0,3
+Clermont Foot 63,Stade de Reims,0,0
+Metz,RC Strasbourg,0,2
+FC Nantes,AS Monaco,0,0
+Olympique Lyonnais,Paris Saint-Germain,1,1
+OGC Nice,FC Nantes,2,1
+Saint-Étienne,RC Lens,1,2
+Paris Saint-Germain,Stade Brestois 29,2,0
+Stade Rennais,Bordeaux,6,0
+Lorient,Angers,0,0
+Stade de Reims,Metz,0,1
+RC Strasbourg,Montpellier,3,1
+AS Monaco,Clermont Foot 63,4,0
+Troyes,Olympique Lyonnais,0,1
+Olympique de Marseille,Troyes,1,0
+Troyes,Lorient,2,0
+RC Strasbourg,Bordeaux,5,2
+Metz,Montpellier,1,3
+Stade Brestois 29,Saint-Étienne,1,0
+Angers,AS Monaco,1,3
+Clermont Foot 63,RC Lens,2,2
+Stade Rennais,Lille OSC,1,2
+FC Nantes,Olympique de Marseille,0,1
+Olympique Lyonnais,Stade de Reims,1,2
+Paris Saint-Germain,OGC Nice,0,0
+Olympique de Marseille,Stade Brestois 29,1,2
+Lille OSC,Troyes,2,1
+RC Lens,Paris Saint-Germain,1,1
+Saint-Étienne,Stade Rennais,0,5
+Stade de Reims,Angers,1,2
+Lorient,FC Nantes,0,1
+Montpellier,Clermont Foot 63,1,0
+AS Monaco,Metz,4,0
+OGC Nice,RC Strasbourg,0,3
+Bordeaux,Olympique Lyonnais,2,2
+FC Nantes,RC Lens,3,2
+Stade Brestois 29,Montpellier,0,4
+Stade de Reims,Saint-Étienne,2,0
+Lille OSC,Olympique Lyonnais,0,0
+Metz,Lorient,4,1
+Troyes,Bordeaux,1,2
+Angers,Clermont Foot 63,0,1
+Stade Rennais,OGC Nice,1,2
+RC Strasbourg,Olympique de Marseille,0,2
+Clermont Foot 63,Olympique de Marseille,0,1
+RC Lens,Troyes,4,0
+Lille OSC,Angers,1,1
+Bordeaux,Paris Saint-Germain,2,3
+Olympique de Marseille,Metz,0,0
+Lorient,Stade Brestois 29,1,2
+FC Nantes,RC Strasbourg,2,2
+Saint-Étienne,Clermont Foot 63,3,2
+Stade de Reims,AS Monaco,0,0
+OGC Nice,Montpellier,0,1
+Stade Rennais,Olympique Lyonnais,4,1
+AS Monaco,Lille OSC,2,2
+Paris Saint-Germain,FC Nantes,3,1
+Stade Rennais,Montpellier,2,0
+Stade Brestois 29,RC Lens,4,0
+Angers,Lorient,1,0
+RC Strasbourg,Stade de Reims,1,1
+Metz,Bordeaux,3,3
+Troyes,Saint-Étienne,0,1
+Clermont Foot 63,OGC Nice,1,2
+RC Lens,Angers,2,2
+Lille OSC,FC Nantes,1,1
+OGC Nice,Metz,0,1
+Saint-Étienne,Paris Saint-Germain,1,3
+Stade de Reims,Clermont Foot 63,1,0
+Bordeaux,Stade Brestois 29,1,2
+Lorient,Stade Rennais,0,2
+AS Monaco,RC Strasbourg,1,1
+Montpellier,Olympique Lyonnais,0,1
+Paris Saint-Germain,Angers,2,1
+Clermont Foot 63,Lille OSC,1,0
+Olympique Lyonnais,AS Monaco,2,0
+Troyes,OGC Nice,1,0
+Stade Brestois 29,Stade de Reims,1,1
+Bordeaux,FC Nantes,1,1
+RC Strasbourg,Saint-Étienne,5,1
+Metz,Stade Rennais,0,3
+Montpellier,RC Lens,1,0
+Olympique de Marseille,Lorient,4,1
+Saint-Étienne,Angers,2,2
+FC Nantes,Clermont Foot 63,2,1
+Lille OSC,Stade Brestois 29,1,1
+OGC Nice,Olympique Lyonnais,3,2
+Stade de Reims,Troyes,1,2
+Lorient,Bordeaux,1,1
+RC Lens,Metz,4,1
+Stade Rennais,RC Strasbourg,1,0
+AS Monaco,Montpellier,3,1
+Olympique de Marseille,Paris Saint-Germain,0,0
+OGC Nice,Olympique de Marseille,1,1
+Paris Saint-Germain,Lille OSC,2,1
+Metz,Saint-Étienne,1,1
+Olympique Lyonnais,RC Lens,2,1
+Angers,OGC Nice,1,2
+RC Strasbourg,Lorient,4,0
+Bordeaux,Stade de Reims,3,2
+Montpellier,FC Nantes,2,0
+Troyes,Stade Rennais,2,2
+Stade Brestois 29,AS Monaco,2,0
+FC Nantes,Stade Brestois 29,3,1
+Montpellier,Bordeaux,3,3
+Stade Rennais,Clermont Foot 63,6,0
+Lille OSC,Stade de Reims,2,1
+AS Monaco,Saint-Étienne,3,1
+RC Lens,RC Strasbourg,0,1
+Lorient,OGC Nice,1,0
+Angers,Olympique de Marseille,0,0
+Olympique Lyonnais,Troyes,3,1
+Metz,Paris Saint-Germain,1,2
+Saint-Étienne,OGC Nice,0,3
+RC Strasbourg,Lille OSC,1,2
+Olympique Lyonnais,Lorient,1,1
+Paris Saint-Germain,Montpellier,2,0
+Bordeaux,Stade Rennais,1,1
+Stade Brestois 29,Metz,1,2
+Troyes,Angers,1,1
+Stade de Reims,FC Nantes,3,1
+Clermont Foot 63,AS Monaco,1,3
+Olympique de Marseille,RC Lens,2,3
+RC Lens,Stade de Reims,2,0
+Montpellier,RC Strasbourg,1,1
+OGC Nice,Stade Brestois 29,2,1
+Stade Rennais,Paris Saint-Germain,2,0
+Lorient,Clermont Foot 63,1,1
+Angers,Metz,3,2
+FC Nantes,Troyes,2,0
+AS Monaco,Bordeaux,3,0
+Lille OSC,Olympique de Marseille,2,0
+Saint-Étienne,Olympique Lyonnais,1,1
+FC Nantes,Olympique Lyonnais,0,1
+OGC Nice,Bordeaux,4,0
+Olympique de Marseille,Saint-Étienne,3,1
+Troyes,AS Monaco,1,2
+RC Strasbourg,Stade Brestois 29,3,1
+Clermont Foot 63,Metz,2,2
+RC Lens,Lorient,2,2
+Angers,Stade Rennais,2,0
+Lille OSC,Montpellier,2,1
+Stade de Reims,Paris Saint-Germain,0,2
+Lorient,Lille OSC,2,1
+Paris Saint-Germain,Clermont Foot 63,4,0
+AS Monaco,Olympique de Marseille,0,2
+Montpellier,Saint-Étienne,2,0
+Stade Brestois 29,Angers,1,1
+Metz,Troyes,0,2
+Bordeaux,RC Lens,2,3
+Stade Rennais,Stade de Reims,0,2
+FC Nantes,OGC Nice,0,2
+Olympique Lyonnais,RC Strasbourg,3,1
+RC Strasbourg,Metz,3,0
+RC Lens,Lille OSC,1,0
+Saint-Étienne,Bordeaux,1,2
+OGC Nice,AS Monaco,2,2
+Clermont Foot 63,Stade Brestois 29,1,1
+Stade de Reims,Lorient,0,0
+Troyes,Montpellier,1,1
+Angers,FC Nantes,1,4
+Olympique de Marseille,Stade Rennais,2,0
+Paris Saint-Germain,Olympique Lyonnais,2,1
+FC Twente,FC Groningen,3,0
+Fortuna Sittard,Vitesse,1,2
+FC Utrecht,AZ Alkmaar,2,2
+Go Ahead Eagles,Feyenoord,0,1
+PSV Eindhoven,NEC Nijmegen,3,2
+Ajax,SC Heerenveen,5,0
+FC Eindhoven,De Graafschap,3,1
+ADO Den Haag,NAC Breda,2,1
+Roda JC Kerkrade,Excelsior,0,2
+Heracles Almelo,Sparta Rotterdam,1,3
+NEC Nijmegen,Fortuna Sittard,0,1
+SC Heerenveen,Go Ahead Eagles,3,1
+FC Groningen,SC Cambuur,2,3
+Willem II Tilburg,FC Utrecht,3,0
+AZ Alkmaar,RKC Waalwijk,1,3
+Feyenoord,FC Twente,1,2
+PEC Zwolle,PSV Eindhoven,1,2
+Vitesse,Ajax,2,2
+ADO Den Haag,FC Eindhoven,2,1
+Excelsior,Heracles Almelo,3,0
+SC Heerenveen,AZ Alkmaar,3,2
+FC Utrecht,Vitesse,3,1
+FC Eindhoven,ADO Den Haag,1,2
+Heracles Almelo,Excelsior,1,3
+AZ Alkmaar,SC Heerenveen,2,0
+Vitesse,FC Utrecht,3,0
+Excelsior,ADO Den Haag,1,1
+Vitesse,AZ Alkmaar,2,1
+AZ Alkmaar,Vitesse,6,1
+ADO Den Haag,Excelsior,11,12
+RKC Waalwijk,PEC Zwolle,0,2
+SC Cambuur,PSV Eindhoven,1,2
+Willem II Tilburg,Vitesse,1,0
+FC Groningen,Heracles Almelo,0,1
+Feyenoord,FC Utrecht,2,1
+Fortuna Sittard,Go Ahead Eagles,1,0
+FC Utrecht,NEC Nijmegen,1,0
+Ajax,PEC Zwolle,3,0
+Heracles Almelo,FC Twente,1,1
+Sparta Rotterdam,AZ Alkmaar,1,1
+SC Heerenveen,SC Cambuur,3,3
+Go Ahead Eagles,Vitesse,1,2
+PSV Eindhoven,Willem II Tilburg,4,2
+Fortuna Sittard,Feyenoord,1,3
+RKC Waalwijk,FC Groningen,3,1
+SC Cambuur,RKC Waalwijk,1,1
+FC Twente,Fortuna Sittard,1,2
+Willem II Tilburg,Heracles Almelo,2,0
+PEC Zwolle,FC Utrecht,1,1
+FC Groningen,Sparta Rotterdam,1,2
+NEC Nijmegen,Go Ahead Eagles,1,0
+Vitesse,SC Heerenveen,1,2
+AZ Alkmaar,Ajax,2,2
+Feyenoord,PSV Eindhoven,2,2
+De Graafschap,FC Eindhoven,1,1
+NAC Breda,ADO Den Haag,1,2
+Excelsior,Roda JC Kerkrade,2,2
+RKC Waalwijk,Heracles Almelo,2,0
+Sparta Rotterdam,PEC Zwolle,2,0
+SC Cambuur,Willem II Tilburg,1,1
+Go Ahead Eagles,SC Cambuur,3,0
+FC Twente,PEC Zwolle,1,0
+NEC Nijmegen,Sparta Rotterdam,0,0
+FC Utrecht,FC Groningen,1,3
+Ajax,Feyenoord,3,2
+Vitesse,RKC Waalwijk,1,2
+PSV Eindhoven,Fortuna Sittard,5,0
+Willem II Tilburg,AZ Alkmaar,2,2
+FC Groningen,Ajax,1,3
+FC Twente,PSV Eindhoven,3,3
+RKC Waalwijk,FC Utrecht,1,1
+AZ Alkmaar,Vitesse,3,1
+Feyenoord,Willem II Tilburg,2,0
+PEC Zwolle,Go Ahead Eagles,0,1
+Fortuna Sittard,Heracles Almelo,0,2
+Sparta Rotterdam,SC Heerenveen,1,1
+SC Cambuur,NEC Nijmegen,1,2
+Go Ahead Eagles,Willem II Tilburg,4,0
+FC Utrecht,Fortuna Sittard,1,1
+Ajax,Sparta Rotterdam,2,1
+NEC Nijmegen,FC Twente,0,2
+SC Heerenveen,FC Groningen,3,1
+Vitesse,SC Cambuur,1,0
+PSV Eindhoven,RKC Waalwijk,2,0
+Heracles Almelo,Feyenoord,1,4
+PEC Zwolle,AZ Alkmaar,2,1
+Fortuna Sittard,Sparta Rotterdam,3,0
+FC Twente,Sparta Rotterdam,2,0
+NEC Nijmegen,Ajax,0,1
+AZ Alkmaar,SC Heerenveen,2,1
+FC Utrecht,Vitesse,1,1
+PSV Eindhoven,SC Heerenveen,3,1
+RKC Waalwijk,FC Twente,1,2
+Heracles Almelo,PEC Zwolle,2,0
+FC Groningen,Willem II Tilburg,1,0
+SC Cambuur,Fortuna Sittard,2,1
+Vitesse,NEC Nijmegen,4,1
+AZ Alkmaar,Feyenoord,2,1
+Sparta Rotterdam,PSV Eindhoven,1,2
+Go Ahead Eagles,Ajax,2,1
+SC Heerenveen,FC Utrecht,1,2
+Vitesse,Sparta Rotterdam,0,1
+Willem II Tilburg,SC Heerenveen,0,0
+Go Ahead Eagles,FC Utrecht,1,1
+Feyenoord,FC Groningen,1,1
+PSV Eindhoven,Heracles Almelo,3,1
+FC Twente,SC Cambuur,1,0
+NEC Nijmegen,AZ Alkmaar,1,3
+Ajax,RKC Waalwijk,3,2
+Fortuna Sittard,PEC Zwolle,0,1
+SC Cambuur,Ajax,2,3
+Sparta Rotterdam,Go Ahead Eagles,1,0
+FC Groningen,NEC Nijmegen,4,3
+RKC Waalwijk,SC Heerenveen,0,0
+Fortuna Sittard,Willem II Tilburg,1,0
+Heracles Almelo,Vitesse,0,0
+FC Utrecht,PSV Eindhoven,0,1
+PEC Zwolle,Feyenoord,1,2
+AZ Alkmaar,FC Twente,0,1
+SC Heerenveen,Heracles Almelo,2,0
+NEC Nijmegen,Feyenoord,1,4
+Heracles Almelo,Go Ahead Eagles,1,1
+PSV Eindhoven,Ajax,1,2
+Sparta Rotterdam,FC Utrecht,0,3
+RKC Waalwijk,Fortuna Sittard,2,1
+FC Utrecht,SC Cambuur,3,2
+Fortuna Sittard,SC Heerenveen,2,0
+PEC Zwolle,NEC Nijmegen,1,1
+PSV Eindhoven,AZ Alkmaar,1,2
+FC Twente,Vitesse,3,0
+Feyenoord,Sparta Rotterdam,4,0
+Willem II Tilburg,RKC Waalwijk,3,1
+FC Groningen,Go Ahead Eagles,2,1
+Ajax,Heracles Almelo,3,0
+Heracles Almelo,FC Utrecht,1,0
+FC Groningen,Fortuna Sittard,0,1
+SC Cambuur,PEC Zwolle,3,4
+Vitesse,PSV Eindhoven,0,5
+Sparta Rotterdam,Willem II Tilburg,1,0
+Go Ahead Eagles,AZ Alkmaar,1,4
+SC Heerenveen,NEC Nijmegen,0,1
+RKC Waalwijk,Feyenoord,0,2
+Ajax,FC Twente,5,0
+NEC Nijmegen,RKC Waalwijk,1,1
+Willem II Tilburg,Ajax,0,1
+AZ Alkmaar,Heracles Almelo,2,1
+PEC Zwolle,FC Groningen,1,1
+FC Twente,Go Ahead Eagles,2,2
+Feyenoord,SC Cambuur,3,1
+Sparta Rotterdam,Vitesse,2,2
+Heracles Almelo,FC Groningen,4,2
+AZ Alkmaar,Willem II Tilburg,4,1
+PEC Zwolle,FC Twente,1,3
+SC Cambuur,SC Heerenveen,1,2
+Go Ahead Eagles,NEC Nijmegen,0,2
+Feyenoord,Ajax,0,2
+RKC Waalwijk,PSV Eindhoven,1,4
+Vitesse,PEC Zwolle,1,0
+AZ Alkmaar,FC Groningen,1,0
+Willem II Tilburg,NEC Nijmegen,0,1
+SC Heerenveen,Feyenoord,0,3
+Heracles Almelo,SC Cambuur,1,1
+FC Utrecht,FC Twente,1,1
+Ajax,Fortuna Sittard,5,0
+PSV Eindhoven,Go Ahead Eagles,2,0
+Sparta Rotterdam,RKC Waalwijk,1,1
+PEC Zwolle,Willem II Tilburg,2,0
+NEC Nijmegen,Heracles Almelo,0,0
+FC Twente,SC Heerenveen,2,0
+Feyenoord,Vitesse,0,1
+Go Ahead Eagles,RKC Waalwijk,0,2
+FC Utrecht,Ajax,0,3
+SC Cambuur,Sparta Rotterdam,1,1
+FC Groningen,PSV Eindhoven,0,1
+Fortuna Sittard,AZ Alkmaar,1,2
+Vitesse,FC Groningen,1,3
+SC Heerenveen,PEC Zwolle,0,1
+AZ Alkmaar,SC Cambuur,0,0
+Willem II Tilburg,FC Twente,0,1
+NEC Nijmegen,SC Cambuur,2,3
+Fortuna Sittard,FC Groningen,1,4
+PEC Zwolle,RKC Waalwijk,0,0
+Willem II Tilburg,Go Ahead Eagles,0,1
+Sparta Rotterdam,Ajax,0,1
+FC Utrecht,Heracles Almelo,1,0
+FC Twente,Feyenoord,0,0
+SC Heerenveen,PSV Eindhoven,1,1
+Vitesse,AZ Alkmaar,0,0
+Feyenoord,Heracles Almelo,2,1
+AZ Alkmaar,Fortuna Sittard,2,1
+Ajax,Willem II Tilburg,5,0
+FC Groningen,PEC Zwolle,1,1
+PSV Eindhoven,FC Utrecht,4,1
+SC Cambuur,Vitesse,1,6
+Heracles Almelo,SC Heerenveen,0,1
+RKC Waalwijk,NEC Nijmegen,2,1
+Go Ahead Eagles,FC Twente,1,2
+AZ Alkmaar,Sparta Rotterdam,3,1
+Feyenoord,Fortuna Sittard,5,0
+Willem II Tilburg,SC Cambuur,1,3
+FC Utrecht,Go Ahead Eagles,0,0
+SC Heerenveen,Sparta Rotterdam,0,0
+PEC Zwolle,Fortuna Sittard,0,1
+FC Twente,RKC Waalwijk,2,1
+Vitesse,Heracles Almelo,2,1
+FC Groningen,Feyenoord,1,1
+Ajax,AZ Alkmaar,1,2
+NEC Nijmegen,PSV Eindhoven,1,2
+Fortuna Sittard,FC Utrecht,2,2
+SC Cambuur,Feyenoord,2,3
+Ajax,PSV Eindhoven,5,0
+FC Groningen,AZ Alkmaar,2,0
+PSV Eindhoven,FC Twente,5,2
+Heracles Almelo,Ajax,0,0
+SC Heerenveen,Vitesse,1,2
+AZ Alkmaar,PEC Zwolle,3,2
+Sparta Rotterdam,Feyenoord,0,1
+NEC Nijmegen,FC Groningen,3,0
+RKC Waalwijk,SC Cambuur,0,1
+FC Utrecht,Willem II Tilburg,5,1
+Go Ahead Eagles,Fortuna Sittard,4,3
+FC Twente,Heracles Almelo,1,0
+NEC Nijmegen,SC Heerenveen,1,1
+Willem II Tilburg,Sparta Rotterdam,0,3
+PEC Zwolle,SC Cambuur,1,2
+FC Groningen,RKC Waalwijk,1,1
+Fortuna Sittard,PSV Eindhoven,1,4
+Vitesse,FC Utrecht,2,1
+Feyenoord,AZ Alkmaar,1,0
+Ajax,Go Ahead Eagles,0,0
+PSV Eindhoven,Vitesse,2,0
+Sparta Rotterdam,FC Twente,0,1
+AZ Alkmaar,NEC Nijmegen,1,1
+Heracles Almelo,Fortuna Sittard,3,1
+Go Ahead Eagles,FC Groningen,0,1
+SC Heerenveen,Willem II Tilburg,2,1
+Feyenoord,PEC Zwolle,4,0
+RKC Waalwijk,Ajax,0,5
+SC Cambuur,FC Utrecht,2,1
+FC Utrecht,PEC Zwolle,5,1
+Feyenoord,NEC Nijmegen,5,3
+Sparta Rotterdam,SC Cambuur,0,4
+SC Heerenveen,FC Twente,2,3
+AZ Alkmaar,Go Ahead Eagles,5,0
+Heracles Almelo,RKC Waalwijk,1,0
+FC Groningen,FC Twente,1,1
+RKC Waalwijk,Go Ahead Eagles,1,1
+Heracles Almelo,Willem II Tilburg,3,2
+PEC Zwolle,SC Heerenveen,0,1
+Fortuna Sittard,NEC Nijmegen,1,3
+SC Cambuur,AZ Alkmaar,1,3
+Ajax,FC Utrecht,0,1
+Vitesse,Feyenoord,2,1
+PSV Eindhoven,Sparta Rotterdam,2,1
+Feyenoord,RKC Waalwijk,2,2
+Go Ahead Eagles,Heracles Almelo,4,2
+SC Heerenveen,Ajax,0,2
+Fortuna Sittard,SC Cambuur,1,0
+PSV Eindhoven,PEC Zwolle,3,1
+AZ Alkmaar,FC Utrecht,5,1
+Sparta Rotterdam,FC Groningen,1,1
+NEC Nijmegen,Vitesse,0,1
+FC Twente,Willem II Tilburg,1,1
+Willem II Tilburg,Fortuna Sittard,1,1
+FC Utrecht,SC Heerenveen,2,1
+PEC Zwolle,Heracles Almelo,1,0
+RKC Waalwijk,Sparta Rotterdam,1,0
+FC Twente,NEC Nijmegen,1,2
+Vitesse,Go Ahead Eagles,1,2
+FC Twente,FC Utrecht,1,0
+SC Cambuur,Go Ahead Eagles,5,2
+PEC Zwolle,Ajax,0,2
+AZ Alkmaar,PSV Eindhoven,0,3
+NEC Nijmegen,Willem II Tilburg,0,0
+Sparta Rotterdam,Fortuna Sittard,3,1
+FC Groningen,SC Heerenveen,1,1
+RKC Waalwijk,Vitesse,1,2
+Sparta Rotterdam,NEC Nijmegen,1,1
+SC Heerenveen,Fortuna Sittard,1,0
+Willem II Tilburg,FC Groningen,2,1
+Ajax,SC Cambuur,9,0
+FC Utrecht,RKC Waalwijk,2,2
+Go Ahead Eagles,PEC Zwolle,1,0
+PSV Eindhoven,Feyenoord,0,4
+Vitesse,FC Twente,1,4
+Heracles Almelo,AZ Alkmaar,3,2
+Fortuna Sittard,Ajax,0,5
+RKC Waalwijk,Willem II Tilburg,1,2
+NEC Nijmegen,FC Utrecht,0,3
+Go Ahead Eagles,PSV Eindhoven,1,2
+FC Groningen,Vitesse,0,1
+PEC Zwolle,Sparta Rotterdam,1,1
+Feyenoord,SC Heerenveen,3,1
+SC Cambuur,Heracles Almelo,2,1
+FC Twente,AZ Alkmaar,3,1
+Willem II Tilburg,PSV Eindhoven,2,1
+Vitesse,Fortuna Sittard,1,1
+Ajax,FC Groningen,3,0
+Go Ahead Eagles,SC Heerenveen,0,1
+RKC Waalwijk,AZ Alkmaar,1,0
+Heracles Almelo,PSV Eindhoven,0,2
+Fortuna Sittard,FC Twente,2,1
+Ajax,NEC Nijmegen,5,0
+SC Cambuur,FC Groningen,1,2
+FC Utrecht,Sparta Rotterdam,4,0
+PEC Zwolle,Vitesse,0,1
+Willem II Tilburg,Feyenoord,0,4
+NEC Nijmegen,PEC Zwolle,2,0
+SC Heerenveen,RKC Waalwijk,3,2
+Sparta Rotterdam,Heracles Almelo,1,1
+PSV Eindhoven,SC Cambuur,4,1
+FC Groningen,FC Utrecht,0,0
+FC Twente,Ajax,1,1
+Feyenoord,Go Ahead Eagles,2,0
+Vitesse,Willem II Tilburg,0,3
+Fortuna Sittard,RKC Waalwijk,2,2
+SC Cambuur,FC Twente,2,0
+Go Ahead Eagles,Sparta Rotterdam,2,0
+PSV Eindhoven,FC Groningen,5,2
+Willem II Tilburg,PEC Zwolle,1,0
+FC Utrecht,Feyenoord,3,1
+Heracles Almelo,NEC Nijmegen,0,1
+Ajax,Vitesse,5,0
+SC Heerenveen,AZ Alkmaar,1,3
+Boavista,Sporting CP,0,3
+FC Famalicão,Estoril Praia,3,1
+Arouca,Portimonense,1,0
+CS Marítimo,SL Benfica,0,1
+FC Porto,FC Vizela,4,2
+B-SAD,Sporting Braga,0,1
+Vitória SC,CD Santa Clara,1,1
+Moreirense,Boavista,1,2
+Sporting CP,Gil Vicente FC,4,1
+Paços de Ferreira,Tondela,1,1
+Boavista,Vitória SC,1,1
+Estoril Praia,Moreirense,1,0
+SL Benfica,FC Porto,0,1
+Portimonense,Sporting CP,2,3
+FC Vizela,CS Marítimo,1,1
+Gil Vicente FC,Tondela,3,0
+Sporting Braga,Arouca,1,0
+CD Santa Clara,Paços de Ferreira,2,0
+B-SAD,FC Famalicão,2,3
+Paços de Ferreira,SL Benfica,0,2
+Moreirense,FC Vizela,4,1
+Arouca,B-SAD,0,0
+Tondela,Boavista,2,2
+CS Marítimo,Portimonense,0,1
+FC Porto,Estoril Praia,2,0
+Sporting CP,CD Santa Clara,4,0
+FC Famalicão,Sporting Braga,3,2
+Vitória SC,Gil Vicente FC,5,0
+GD Chaves,Moreirense,2,0
+Moreirense,GD Chaves,1,0
+CS Marítimo,Tondela,1,3
+Moreirense,Vitória SC,0,1
+Sporting CP,Paços de Ferreira,2,0
+FC Porto,CD Santa Clara,3,0
+Gil Vicente FC,Moreirense,1,2
+Paços de Ferreira,CS Marítimo,2,0
+Boavista,Arouca,1,0
+SL Benfica,B-SAD,3,1
+Tondela,Sporting CP,1,3
+Portimonense,FC Famalicão,1,0
+CD Santa Clara,Estoril Praia,2,0
+Vitória SC,FC Porto,0,1
+FC Vizela,Sporting Braga,0,1
+Arouca,CD Santa Clara,1,1
+FC Famalicão,Gil Vicente FC,2,2
+Vitória SC,Paços de Ferreira,4,0
+Moreirense,Tondela,2,0
+B-SAD,FC Vizela,1,0
+CS Marítimo,Boavista,4,0
+FC Porto,Portimonense,7,0
+Sporting CP,SL Benfica,0,2
+Estoril Praia,Sporting Braga,0,0
+FC Vizela,Arouca,2,1
+Portimonense,Moreirense,1,0
+CD Santa Clara,CS Marítimo,2,2
+SL Benfica,FC Famalicão,0,0
+Gil Vicente FC,Paços de Ferreira,1,1
+Estoril Praia,B-SAD,2,2
+Tondela,Vitória SC,1,1
+Sporting Braga,FC Porto,1,0
+Portimonense,SL Benfica,1,2
+Sporting CP,Arouca,2,0
+Moreirense,CS Marítimo,0,1
+Paços de Ferreira,FC Porto,2,4
+CD Santa Clara,FC Vizela,3,1
+Vitória SC,FC Famalicão,2,1
+Tondela,B-SAD,1,1
+SL Benfica,FC Vizela,1,1
+Estoril Praia,Portimonense,2,0
+FC Famalicão,CD Santa Clara,0,0
+Arouca,Paços de Ferreira,0,1
+B-SAD,Boavista,0,0
+CS Marítimo,Vitória SC,0,1
+FC Porto,Tondela,4,0
+Sporting Braga,Gil Vicente FC,0,1
+Moreirense,Sporting CP,0,2
+FC Vizela,FC Famalicão,1,1
+Tondela,Arouca,2,2
+CD Santa Clara,B-SAD,0,0
+Vitória SC,Sporting CP,1,3
+Paços de Ferreira,Moreirense,2,1
+Gil Vicente FC,CS Marítimo,1,1
+SL Benfica,Estoril Praia,2,1
+Portimonense,Sporting Braga,1,2
+Boavista,FC Porto,0,1
+Sporting Braga,SL Benfica,3,2
+B-SAD,Portimonense,2,0
+Arouca,Gil Vicente FC,2,1
+Estoril Praia,FC Vizela,1,2
+FC Famalicão,Boavista,1,2
+Moreirense,B-SAD,4,1
+FC Porto,Sporting CP,2,2
+Sporting Braga,Paços de Ferreira,2,1
+Portimonense,Boavista,1,1
+SL Benfica,CD Santa Clara,2,1
+Estoril Praia,Tondela,1,0
+FC Famalicão,Moreirense,5,0
+B-SAD,Vitória SC,1,0
+FC Vizela,Gil Vicente FC,0,1
+Arouca,CS Marítimo,0,3
+Boavista,SL Benfica,2,2
+Gil Vicente FC,B-SAD,2,0
+Paços de Ferreira,FC Vizela,2,1
+Vitória SC,Arouca,1,3
+CS Marítimo,FC Famalicão,0,1
+Sporting CP,Estoril Praia,3,0
+Moreirense,FC Porto,0,1
+Tondela,Sporting Braga,0,1
+CD Santa Clara,Portimonense,1,1
+B-SAD,Paços de Ferreira,0,2
+FC Famalicão,Tondela,2,1
+CS Marítimo,Sporting CP,1,1
+Arouca,Moreirense,1,1
+FC Vizela,Portimonense,1,1
+Estoril Praia,Boavista,2,3
+SL Benfica,Vitória SC,3,0
+FC Porto,Gil Vicente FC,1,1
+Sporting Braga,CD Santa Clara,0,0
+Gil Vicente FC,Estoril Praia,0,0
+Boavista,Sporting Braga,1,1
+FC Famalicão,Paços de Ferreira,0,0
+B-SAD,FC Porto,1,4
+Portimonense,Vitória SC,1,1
+Arouca,SL Benfica,0,2
+Paços de Ferreira,Boavista,1,1
+Moreirense,CD Santa Clara,0,2
+Tondela,FC Vizela,2,3
+Sporting CP,Sporting Braga,1,2
+CS Marítimo,B-SAD,1,1
+Vitória SC,Estoril Praia,3,1
+Gil Vicente FC,Portimonense,1,0
+FC Porto,FC Famalicão,3,1
+Estoril Praia,Arouca,1,2
+Portimonense,Tondela,1,2
+FC Vizela,Vitória SC,3,2
+Sporting Braga,Moreirense,2,0
+FC Porto,CS Marítimo,2,1
+Estoril Praia,Paços de Ferreira,0,0
+FC Famalicão,Arouca,0,0
+CD Santa Clara,Boavista,2,1
+SL Benfica,Gil Vicente FC,1,2
+B-SAD,Sporting CP,1,4
+CS Marítimo,Estoril Praia,0,0
+Paços de Ferreira,Portimonense,1,1
+Vitória SC,Sporting Braga,2,1
+Boavista,FC Vizela,2,2
+Gil Vicente FC,CD Santa Clara,2,2
+Arouca,FC Porto,0,2
+Sporting CP,FC Famalicão,2,0
+Tondela,SL Benfica,1,3
+SL Benfica,CS Marítimo,7,1
+FC Vizela,FC Porto,0,4
+Sporting Braga,B-SAD,1,0
+Tondela,Gil Vicente FC,0,3
+CS Marítimo,FC Vizela,2,0
+Moreirense,Estoril Praia,1,0
+Vitória SC,Boavista,1,1
+Sporting CP,Portimonense,3,2
+Paços de Ferreira,CD Santa Clara,2,1
+Arouca,Sporting Braga,0,6
+FC Porto,SL Benfica,3,1
+FC Vizela,B-SAD,2,0
+Tondela,Moreirense,2,1
+CD Santa Clara,Sporting CP,3,2
+FC Vizela,Moreirense,0,1
+Estoril Praia,FC Porto,2,3
+Boavista,Tondela,1,1
+Portimonense,CS Marítimo,1,2
+Sporting Braga,FC Famalicão,2,2
+SL Benfica,Paços de Ferreira,2,0
+B-SAD,Arouca,2,1
+Gil Vicente FC,Vitória SC,3,2
+FC Famalicão,B-SAD,1,0
+Boavista,Gil Vicente FC,1,1
+Sporting Braga,CS Marítimo,0,1
+SL Benfica,Moreirense,1,1
+CD Santa Clara,Tondela,2,2
+FC Vizela,Sporting CP,0,2
+B-SAD,SL Benfica,0,7
+CS Marítimo,Paços de Ferreira,2,0
+Sporting CP,Tondela,2,0
+FC Porto,Vitória SC,2,1
+Estoril Praia,CD Santa Clara,2,2
+Sporting Braga,FC Vizela,4,1
+Portimonense,FC Porto,0,3
+SL Benfica,Sporting CP,1,3
+Boavista,CS Marítimo,1,1
+Paços de Ferreira,Vitória SC,1,2
+CD Santa Clara,Arouca,2,1
+Gil Vicente FC,FC Famalicão,4,0
+Sporting Braga,Estoril Praia,2,0
+Paços de Ferreira,Gil Vicente FC,0,1
+CS Marítimo,CD Santa Clara,4,1
+Vitória SC,Tondela,5,2
+Sporting CP,Boavista,2,0
+Moreirense,Portimonense,0,1
+B-SAD,Estoril Praia,0,1
+FC Famalicão,SL Benfica,1,4
+FC Porto,Sporting Braga,1,0
+Arouca,FC Vizela,1,4
+CD Santa Clara,Vitória SC,1,0
+Estoril Praia,FC Famalicão,2,2
+Portimonense,Arouca,1,1
+Tondela,Paços de Ferreira,0,1
+Gil Vicente FC,Sporting CP,0,3
+Boavista,Moreirense,1,0
+Vitória SC,CS Marítimo,2,1
+CD Santa Clara,FC Famalicão,0,2
+Tondela,FC Porto,1,3
+Sporting CP,Moreirense,1,0
+Paços de Ferreira,Arouca,0,0
+FC Vizela,SL Benfica,0,1
+Portimonense,Estoril Praia,0,2
+Gil Vicente FC,Sporting Braga,0,1
+Boavista,B-SAD,0,0
+Arouca,Tondela,2,0
+FC Porto,Boavista,4,1
+Estoril Praia,SL Benfica,1,1
+Sporting CP,Vitória SC,1,0
+CS Marítimo,Gil Vicente FC,1,2
+B-SAD,CD Santa Clara,2,1
+FC Famalicão,FC Vizela,1,1
+Sporting Braga,Portimonense,3,0
+Moreirense,Paços de Ferreira,1,1
+Gil Vicente FC,Arouca,1,1
+Boavista,FC Famalicão,2,5
+FC Vizela,Estoril Praia,1,1
+Portimonense,B-SAD,2,0
+Vitória SC,Moreirense,2,1
+Tondela,CS Marítimo,4,2
+CD Santa Clara,FC Porto,0,3
+Paços de Ferreira,Sporting CP,0,2
+SL Benfica,Sporting Braga,6,1
+Moreirense,Gil Vicente FC,2,2
+FC Famalicão,Portimonense,0,3
+Arouca,Boavista,2,1
+Vitória SC,B-SAD,0,0
+CS Marítimo,Arouca,2,2
+Tondela,Estoril Praia,1,2
+Portimonense,CD Santa Clara,2,1
+FC Famalicão,CS Marítimo,0,0
+B-SAD,Gil Vicente FC,1,1
+Arouca,Vitória SC,2,2
+FC Vizela,Paços de Ferreira,1,1
+FC Porto,Moreirense,5,0
+Estoril Praia,Sporting CP,0,1
+SL Benfica,Boavista,3,1
+Sporting Braga,Tondela,3,1
+Sporting CP,CS Marítimo,1,0
+Gil Vicente FC,FC Porto,1,2
+Moreirense,Arouca,2,1
+Vitória SC,SL Benfica,1,3
+Tondela,FC Famalicão,3,2
+CD Santa Clara,Sporting Braga,1,1
+Portimonense,FC Vizela,0,0
+Paços de Ferreira,B-SAD,2,2
+Boavista,Estoril Praia,1,1
+CS Marítimo,Moreirense,0,0
+FC Famalicão,Vitória SC,1,2
+FC Vizela,CD Santa Clara,1,1
+FC Porto,Paços de Ferreira,2,1
+Arouca,Sporting CP,1,2
+B-SAD,Tondela,0,2
+Estoril Praia,Gil Vicente FC,2,2
+SL Benfica,Portimonense,0,1
+Sporting Braga,Boavista,2,2
+Sporting Braga,Sporting CP,1,2
+Portimonense,Gil Vicente FC,0,1
+FC Famalicão,FC Porto,1,2
+CD Santa Clara,Moreirense,2,2
+Boavista,Paços de Ferreira,3,0
+B-SAD,CS Marítimo,1,2
+Arouca,FC Famalicão,2,1
+Moreirense,Sporting Braga,2,3
+Gil Vicente FC,SL Benfica,0,2
+Sporting CP,B-SAD,2,0
+Tondela,Portimonense,0,3
+CS Marítimo,FC Porto,1,1
+Vitória SC,FC Vizela,4,0
+Paços de Ferreira,Estoril Praia,1,3
+Boavista,CD Santa Clara,2,0
+B-SAD,Moreirense,1,1
+Estoril Praia,CS Marítimo,2,1
+FC Vizela,Boavista,1,1
+FC Porto,Arouca,3,0
+FC Famalicão,Sporting CP,1,1
+Sporting Braga,Vitória SC,0,0
+SL Benfica,Tondela,2,1
+CD Santa Clara,Gil Vicente FC,1,0
+Portimonense,Paços de Ferreira,0,1
+Paços de Ferreira,Sporting Braga,0,0
+CD Santa Clara,SL Benfica,0,5
+Sporting CP,FC Porto,1,1
+Moreirense,FC Famalicão,2,2
+Gil Vicente FC,FC Vizela,2,2
+Boavista,Portimonense,1,1
+Sporting CP,FC Vizela,3,0
+Arouca,Estoril Praia,0,2
+Moreirense,SL Benfica,1,2
+CS Marítimo,Sporting Braga,0,2
+Tondela,CD Santa Clara,3,0
+Vitória SC,Portimonense,0,1
+FC Porto,B-SAD,2,0
+Paços de Ferreira,FC Famalicão,2,0
+Gil Vicente FC,Boavista,3,0
+Estoril Praia,Vitória SC,0,0
+FC Vizela,Tondela,2,1
+SL Benfica,Arouca,2,0
+RFC Seraing,KRC Genk,0,2
+KV Kortrijk,RSC Anderlecht,2,3
+Royale Union Saint-Gilloise,K. Beerschot V.A.,5,0
+Club Brugge,KV Mechelen,2,0
+RWD Molenbeek,RFC Seraing,0,1
+KV Mechelen,RC Sporting Charleroi,1,0
+Club Brugge,Royal Antwerp FC,1,0
+KAA Gent,KRC Genk,0,1
+Royale Union Saint-Gilloise,RSC Anderlecht,3,1
+KRC Genk,KV Mechelen,4,2
+RC Sporting Charleroi,KAA Gent,1,3
+RFC Seraing,RWD Molenbeek,0,0
+Royal Antwerp FC,Royale Union Saint-Gilloise,0,0
+RSC Anderlecht,Club Brugge,0,0
+RC Sporting Charleroi,KRC Genk,2,2
+KAA Gent,KV Mechelen,1,0
+Royale Union Saint-Gilloise,Club Brugge,0,2
+Royal Antwerp FC,RSC Anderlecht,0,4
+KV Mechelen,KAA Gent,1,2
+KRC Genk,RC Sporting Charleroi,3,2
+Club Brugge,Royale Union Saint-Gilloise,1,0
+RSC Anderlecht,Royal Antwerp FC,2,1
+RC Sporting Charleroi,KV Mechelen,3,2
+Royal Antwerp FC,Club Brugge,1,3
+KRC Genk,KAA Gent,0,2
+RSC Anderlecht,Royale Union Saint-Gilloise,0,2
+KAA Gent,RC Sporting Charleroi,1,2
+KV Mechelen,KRC Genk,0,0
+Royale Union Saint-Gilloise,Royal Antwerp FC,0,1
+Club Brugge,RSC Anderlecht,1,1
+SV Zulte Waregem,KAS Eupen,3,0
+Cercle Brugge,KV Kortrijk,2,0
+KV Oostende,Club Brugge,1,3
+RSC Anderlecht,Royal Antwerp FC,2,1
+KRC Genk,Sint-Truidense VV,0,1
+K. Beerschot V.A.,KAA Gent,0,2
+Standard Liège,RFC Seraing,0,1
+Royale Union Saint-Gilloise,KV Oostende,1,1
+KAS Eupen,KV Mechelen,1,1
+RFC Seraing,Oud-Heverlee Leuven,1,1
+RC Sporting Charleroi,Cercle Brugge,5,0
+Royal Antwerp FC,SV Zulte Waregem,1,0
+Club Brugge,KRC Genk,3,1
+KV Kortrijk,Standard Liège,0,1
+KAA Gent,RSC Anderlecht,1,0
+Sint-Truidense VV,K. Beerschot V.A.,3,2
+K. Beerschot V.A.,Club Brugge,1,3
+SV Zulte Waregem,Sint-Truidense VV,0,2
+KV Oostende,RFC Seraing,2,2
+KV Mechelen,KV Kortrijk,3,2
+Oud-Heverlee Leuven,Royal Antwerp FC,0,1
+Standard Liège,Royale Union Saint-Gilloise,1,3
+Cercle Brugge,KAA Gent,2,2
+RSC Anderlecht,RC Sporting Charleroi,4,0
+KRC Genk,KAS Eupen,5,0
+KAS Eupen,KV Oostende,0,2
+Royal Antwerp FC,Cercle Brugge,1,1
+RC Sporting Charleroi,SV Zulte Waregem,3,0
+Sint-Truidense VV,Standard Liège,3,0
+KAA Gent,Oud-Heverlee Leuven,5,0
+Cercle Brugge,K. Beerschot V.A.,2,0
+KV Kortrijk,SV Zulte Waregem,5,0
+KV Oostende,Standard Liège,1,0
+RC Sporting Charleroi,Royale Union Saint-Gilloise,0,3
+Royal Antwerp FC,KV Mechelen,1,2
+KAS Eupen,Club Brugge,1,3
+RSC Anderlecht,KRC Genk,2,0
+Sint-Truidense VV,Oud-Heverlee Leuven,2,0
+KAA Gent,RFC Seraing,4,0
+K. Beerschot V.A.,RC Sporting Charleroi,2,3
+Royale Union Saint-Gilloise,KAS Eupen,0,0
+KV Oostende,Sint-Truidense VV,0,0
+KV Mechelen,Cercle Brugge,2,2
+Oud-Heverlee Leuven,RSC Anderlecht,0,0
+Club Brugge,Royal Antwerp FC,4,1
+KRC Genk,KV Kortrijk,2,0
+Standard Liège,KAA Gent,0,1
+SV Zulte Waregem,RFC Seraing,1,0
+Standard Liège,K. Beerschot V.A.,1,0
+Sint-Truidense VV,KV Mechelen,1,1
+Cercle Brugge,KRC Genk,2,2
+KV Kortrijk,Royale Union Saint-Gilloise,2,3
+RFC Seraing,Club Brugge,0,5
+Royal Antwerp FC,K. Beerschot V.A.,2,1
+RSC Anderlecht,KV Oostende,3,0
+RC Sporting Charleroi,Standard Liège,0,0
+KAS Eupen,Oud-Heverlee Leuven,3,1
+KAA Gent,SV Zulte Waregem,2,1
+Oud-Heverlee Leuven,Royale Union Saint-Gilloise,1,4
+KV Mechelen,RC Sporting Charleroi,2,2
+K. Beerschot V.A.,SV Zulte Waregem,3,3
+RFC Seraing,KAS Eupen,0,0
+Cercle Brugge,KV Oostende,0,1
+Royale Union Saint-Gilloise,RSC Anderlecht,1,0
+KAA Gent,Royal Antwerp FC,0,1
+Standard Liège,KV Mechelen,1,2
+KV Kortrijk,Club Brugge,0,1
+KV Kortrijk,Royal Antwerp FC,0,2
+RC Sporting Charleroi,RFC Seraing,2,0
+KV Kortrijk,Sint-Truidense VV,1,3
+KV Oostende,Oud-Heverlee Leuven,1,3
+Standard Liège,Cercle Brugge,1,1
+Royal Antwerp FC,Royale Union Saint-Gilloise,0,2
+Club Brugge,KAA Gent,1,2
+KV Mechelen,K. Beerschot V.A.,3,2
+RSC Anderlecht,KAS Eupen,4,1
+KRC Genk,SV Zulte Waregem,2,0
+SV Zulte Waregem,KV Oostende,0,0
+Oud-Heverlee Leuven,KRC Genk,2,1
+RFC Seraing,Royal Antwerp FC,0,1
+KAS Eupen,KAA Gent,0,1
+Oud-Heverlee Leuven,Cercle Brugge,3,2
+KV Mechelen,KV Oostende,3,0
+SV Zulte Waregem,RSC Anderlecht,1,2
+KRC Genk,Standard Liège,2,0
+Royale Union Saint-Gilloise,Sint-Truidense VV,0,1
+Club Brugge,RC Sporting Charleroi,2,0
+K. Beerschot V.A.,KV Kortrijk,2,1
+KRC Genk,KV Mechelen,4,1
+Sint-Truidense VV,KAS Eupen,2,0
+K. Beerschot V.A.,RSC Anderlecht,0,7
+KAA Gent,KV Kortrijk,2,2
+Oud-Heverlee Leuven,KV Mechelen,5,0
+RFC Seraing,Royale Union Saint-Gilloise,0,4
+Club Brugge,Sint-Truidense VV,2,0
+Royal Antwerp FC,RC Sporting Charleroi,3,0
+KAS Eupen,Cercle Brugge,0,2
+RSC Anderlecht,Standard Liège,1,1
+KRC Genk,K. Beerschot V.A.,4,1
+KV Oostende,Royal Antwerp FC,1,2
+KV Kortrijk,KAS Eupen,1,1
+Sint-Truidense VV,RFC Seraing,3,1
+K. Beerschot V.A.,Oud-Heverlee Leuven,3,1
+RC Sporting Charleroi,KAA Gent,0,0
+Standard Liège,Club Brugge,2,2
+Royale Union Saint-Gilloise,KRC Genk,2,1
+KV Mechelen,RSC Anderlecht,0,1
+Cercle Brugge,SV Zulte Waregem,3,1
+Royal Antwerp FC,Sint-Truidense VV,1,1
+RC Sporting Charleroi,KV Kortrijk,1,1
+KAA Gent,KV Oostende,1,1
+SV Zulte Waregem,Oud-Heverlee Leuven,1,1
+KAS Eupen,Standard Liège,0,2
+RFC Seraing,K. Beerschot V.A.,2,1
+RSC Anderlecht,Cercle Brugge,0,2
+Club Brugge,Royale Union Saint-Gilloise,0,0
+Sint-Truidense VV,RC Sporting Charleroi,0,1
+RFC Seraing,RSC Anderlecht,0,5
+Royal Antwerp FC,Standard Liège,2,3
+Royale Union Saint-Gilloise,KV Mechelen,2,0
+KAA Gent,KRC Genk,1,0
+Club Brugge,SV Zulte Waregem,3,0
+Cercle Brugge,RFC Seraing,2,0
+KV Oostende,KV Kortrijk,0,2
+RSC Anderlecht,Sint-Truidense VV,2,0
+SV Zulte Waregem,Royale Union Saint-Gilloise,0,2
+KV Mechelen,KAA Gent,4,3
+Oud-Heverlee Leuven,Club Brugge,1,4
+Royal Antwerp FC,KAS Eupen,4,2
+KRC Genk,RC Sporting Charleroi,4,2
+RFC Seraing,KV Kortrijk,0,2
+K. Beerschot V.A.,KV Oostende,0,2
+SV Zulte Waregem,KV Mechelen,3,2
+Royale Union Saint-Gilloise,Cercle Brugge,3,2
+KAA Gent,Sint-Truidense VV,2,1
+Club Brugge,RSC Anderlecht,2,2
+KAS Eupen,RC Sporting Charleroi,0,4
+KRC Genk,Royal Antwerp FC,1,1
+Oud-Heverlee Leuven,Standard Liège,2,1
+Cercle Brugge,Club Brugge,2,0
+Standard Liège,SV Zulte Waregem,0,1
+Royale Union Saint-Gilloise,KAA Gent,0,0
+KV Oostende,KRC Genk,0,4
+KV Mechelen,RFC Seraing,2,0
+RC Sporting Charleroi,Oud-Heverlee Leuven,0,3
+Cercle Brugge,RC Sporting Charleroi,1,2
+Oud-Heverlee Leuven,RFC Seraing,1,3
+SV Zulte Waregem,KAA Gent,1,2
+Standard Liège,KAS Eupen,1,0
+RSC Anderlecht,KV Kortrijk,1,1
+Sint-Truidense VV,Royal Antwerp FC,2,1
+KV Oostende,Royale Union Saint-Gilloise,1,7
+K. Beerschot V.A.,KRC Genk,2,0
+Royale Union Saint-Gilloise,Oud-Heverlee Leuven,1,3
+RFC Seraing,Sint-Truidense VV,2,0
+KAS Eupen,KV Kortrijk,2,2
+Cercle Brugge,KV Mechelen,3,1
+RC Sporting Charleroi,RSC Anderlecht,1,3
+KRC Genk,Club Brugge,2,3
+SV Zulte Waregem,K. Beerschot V.A.,2,0
+KAA Gent,Standard Liège,3,1
+Royal Antwerp FC,KV Oostende,3,0
+Sint-Truidense VV,Royale Union Saint-Gilloise,1,2
+Oud-Heverlee Leuven,KAA Gent,0,1
+KV Kortrijk,Cercle Brugge,0,2
+KV Oostende,KAS Eupen,2,1
+Club Brugge,RFC Seraing,3,2
+K. Beerschot V.A.,Royal Antwerp FC,0,1
+RSC Anderlecht,SV Zulte Waregem,3,2
+Standard Liège,RC Sporting Charleroi,0,3
+KV Mechelen,KRC Genk,1,1
+RC Sporting Charleroi,KV Oostende,1,0
+KV Kortrijk,Oud-Heverlee Leuven,2,1
+Sint-Truidense VV,Cercle Brugge,1,2
+KAS Eupen,K. Beerschot V.A.,1,0
+RC Sporting Charleroi,KRC Genk,2,0
+KAA Gent,KAS Eupen,2,0
+RFC Seraing,RC Sporting Charleroi,1,3
+Cercle Brugge,Standard Liège,1,1
+KV Kortrijk,KV Oostende,1,0
+KV Mechelen,SV Zulte Waregem,2,2
+KAS Eupen,Royale Union Saint-Gilloise,2,3
+Royal Antwerp FC,Club Brugge,1,1
+RSC Anderlecht,K. Beerschot V.A.,4,2
+KRC Genk,KAA Gent,0,3
+Oud-Heverlee Leuven,Sint-Truidense VV,4,1
+KV Oostende,KV Mechelen,2,4
+RC Sporting Charleroi,KAS Eupen,3,0
+K. Beerschot V.A.,RFC Seraing,3,0
+Standard Liège,KV Kortrijk,1,1
+Sint-Truidense VV,Club Brugge,1,2
+SV Zulte Waregem,KRC Genk,2,6
+Cercle Brugge,Royal Antwerp FC,0,1
+RSC Anderlecht,Oud-Heverlee Leuven,2,2
+KAA Gent,Royale Union Saint-Gilloise,0,2
+Oud-Heverlee Leuven,KV Oostende,1,0
+KAS Eupen,SV Zulte Waregem,1,1
+KV Kortrijk,K. Beerschot V.A.,1,1
+KV Mechelen,Sint-Truidense VV,0,1
+Royale Union Saint-Gilloise,RC Sporting Charleroi,4,0
+Club Brugge,Standard Liège,2,2
+RFC Seraing,KAA Gent,0,0
+Royal Antwerp FC,RSC Anderlecht,2,0
+KRC Genk,Cercle Brugge,1,1
+KV Mechelen,Club Brugge,2,1
+Royal Antwerp FC,RFC Seraing,2,1
+Standard Liège,RSC Anderlecht,0,1
+KV Kortrijk,KAA Gent,1,0
+Royal Antwerp FC,KRC Genk,4,2
+RSC Anderlecht,KAA Gent,1,1
+Club Brugge,Oud-Heverlee Leuven,1,1
+K. Beerschot V.A.,KAS Eupen,0,3
+SV Zulte Waregem,KV Kortrijk,2,2
+Standard Liège,Sint-Truidense VV,1,2
+Royale Union Saint-Gilloise,Royal Antwerp FC,1,2
+KAA Gent,Cercle Brugge,2,1
+KV Oostende,RSC Anderlecht,2,2
+RC Sporting Charleroi,KV Mechelen,0,2
+KRC Genk,RFC Seraing,3,0
+KV Mechelen,Standard Liège,3,1
+KV Kortrijk,RC Sporting Charleroi,2,2
+Sint-Truidense VV,KV Oostende,1,1
+Cercle Brugge,Royale Union Saint-Gilloise,0,3
+Oud-Heverlee Leuven,K. Beerschot V.A.,0,0
+RSC Anderlecht,Club Brugge,1,1
+RFC Seraing,SV Zulte Waregem,5,1
+Royal Antwerp FC,KAA Gent,1,0
+KAS Eupen,KRC Genk,3,2
+Club Brugge,KV Kortrijk,2,0
+Royale Union Saint-Gilloise,RFC Seraing,4,2
+KV Oostende,Cercle Brugge,2,1
+SV Zulte Waregem,Royal Antwerp FC,2,1
+Standard Liège,Oud-Heverlee Leuven,2,2
+Sint-Truidense VV,RSC Anderlecht,2,2
+K. Beerschot V.A.,KV Mechelen,0,1
+Oud-Heverlee Leuven,KAS Eupen,1,4
+Sint-Truidense VV,KV Kortrijk,0,2
+SV Zulte Waregem,RC Sporting Charleroi,2,2
+Club Brugge,K. Beerschot V.A.,3,2
+KV Mechelen,Royale Union Saint-Gilloise,3,1
+KV Kortrijk,KV Mechelen,2,2
+RC Sporting Charleroi,K. Beerschot V.A.,5,2
+Cercle Brugge,Sint-Truidense VV,0,1
+KAS Eupen,RFC Seraing,1,2
+Royale Union Saint-Gilloise,Standard Liège,4,0
+KAA Gent,Club Brugge,6,1
+Royal Antwerp FC,Oud-Heverlee Leuven,2,2
+KRC Genk,RSC Anderlecht,1,0
+KV Oostende,SV Zulte Waregem,0,2
+Club Brugge,KV Oostende,3,0
+KAS Eupen,Royal Antwerp FC,0,1
+SV Zulte Waregem,Cercle Brugge,2,4
+RSC Anderlecht,KV Mechelen,7,2
+KAA Gent,RC Sporting Charleroi,2,3
+RFC Seraing,Standard Liège,0,1
+Oud-Heverlee Leuven,KV Kortrijk,2,1
+KRC Genk,Royale Union Saint-Gilloise,1,1
+K. Beerschot V.A.,Sint-Truidense VV,0,1
+Cercle Brugge,KAS Eupen,1,2
+KV Oostende,K. Beerschot V.A.,3,1
+KV Mechelen,Oud-Heverlee Leuven,2,0
+Royale Union Saint-Gilloise,SV Zulte Waregem,2,1
+RC Sporting Charleroi,Club Brugge,0,1
+Sint-Truidense VV,KRC Genk,1,2
+KRC Genk,KV Oostende,3,4
+RC Sporting Charleroi,Sint-Truidense VV,0,0
+RFC Seraing,KV Mechelen,1,0
+Cercle Brugge,Oud-Heverlee Leuven,1,1
+KAS Eupen,RSC Anderlecht,1,1
+Royale Union Saint-Gilloise,Club Brugge,0,1
+SV Zulte Waregem,Standard Liège,1,2
+KAA Gent,K. Beerschot V.A.,2,2
+Royal Antwerp FC,KV Kortrijk,0,1
+Club Brugge,Cercle Brugge,1,1
+K. Beerschot V.A.,Royale Union Saint-Gilloise,0,3
+Sint-Truidense VV,SV Zulte Waregem,1,3
+KV Mechelen,KAS Eupen,1,3
+KV Kortrijk,KRC Genk,1,2
+Standard Liège,Royal Antwerp FC,2,5
+Oud-Heverlee Leuven,RC Sporting Charleroi,1,1
+RSC Anderlecht,RFC Seraing,3,0
+KV Oostende,KAA Gent,1,0
+RC Sporting Charleroi,Royal Antwerp FC,1,1
+Royale Union Saint-Gilloise,KV Kortrijk,2,0
+RFC Seraing,KV Oostende,2,3
+KAS Eupen,Sint-Truidense VV,2,1
+KRC Genk,Oud-Heverlee Leuven,4,0
+K. Beerschot V.A.,Standard Liège,0,1
+KAA Gent,KV Mechelen,2,0
+Cercle Brugge,RSC Anderlecht,1,2
+SV Zulte Waregem,Club Brugge,0,4
+Standard Liège,KV Oostende,1,0
+RFC Seraing,Cercle Brugge,2,1
+Standard Liège,KRC Genk,1,1
+Oud-Heverlee Leuven,SV Zulte Waregem,1,1
+KV Kortrijk,RFC Seraing,2,0
+K. Beerschot V.A.,Cercle Brugge,0,1
+KV Oostende,RC Sporting Charleroi,0,3
+KV Mechelen,Royal Antwerp FC,3,2
+Club Brugge,KAS Eupen,2,2
+RSC Anderlecht,Royale Union Saint-Gilloise,1,3
+Sint-Truidense VV,KAA Gent,2,1
+SC Paderborn 07,Hannover 96,3,0
+1. FC Heidenheim,Fortuna Düsseldorf,1,3
+Hannover 96,Karlsruher SC,2,0
+FC St. Pauli,1. FC Nürnberg,1,1
+Werder Bremen,Holstein Kiel,2,3
+SV Sandhausen,FC Schalke 04,1,2
+SG Dynamo Dresden,SSV Jahn Regensburg,1,1
+F.C. Hansa Rostock,SC Paderborn 07,0,0
+FC Ingolstadt 04,Hamburger SV,0,4
+Darmstadt 98,Erzgebirge Aue,6,0
+SC Paderborn 07,SV Sandhausen,2,0
+Fortuna Düsseldorf,Darmstadt 98,2,1
+FC Ingolstadt 04,F.C. Hansa Rostock,0,0
+SSV Jahn Regensburg,1. FC Heidenheim,0,2
+Hamburger SV,Hannover 96,2,1
+FC Schalke 04,FC St. Pauli,3,2
+Karlsruher SC,SG Dynamo Dresden,2,2
+Holstein Kiel,1. FC Nürnberg,3,0
+Erzgebirge Aue,Werder Bremen,0,3
+SG Dynamo Dresden,Erzgebirge Aue,0,1
+1. FC Heidenheim,Karlsruher SC,2,0
+SV Sandhausen,Holstein Kiel,3,1
+Hannover 96,FC Ingolstadt 04,3,2
+Darmstadt 98,SC Paderborn 07,3,0
+FC St. Pauli,Fortuna Düsseldorf,2,0
+F.C. Hansa Rostock,Hamburger SV,2,3
+Werder Bremen,SSV Jahn Regensburg,2,0
+1. FC Nürnberg,FC Schalke 04,1,2
+1. FC Kaiserslautern,SG Dynamo Dresden,0,0
+SG Dynamo Dresden,1. FC Kaiserslautern,0,2
+1. FC Heidenheim,1. FC Nürnberg,3,1
+Karlsruher SC,Fortuna Düsseldorf,2,2
+Werder Bremen,SV Sandhausen,1,1
+Hamburger SV,Erzgebirge Aue,4,0
+SSV Jahn Regensburg,FC Ingolstadt 04,1,1
+Fortuna Düsseldorf,F.C. Hansa Rostock,3,0
+Erzgebirge Aue,Hannover 96,1,3
+FC St. Pauli,Werder Bremen,1,1
+FC Schalke 04,1. FC Heidenheim,3,0
+1. FC Nürnberg,Darmstadt 98,3,1
+SV Sandhausen,SG Dynamo Dresden,2,1
+SC Paderborn 07,Karlsruher SC,2,2
+Holstein Kiel,Hamburger SV,1,0
+Hannover 96,Fortuna Düsseldorf,0,0
+SG Dynamo Dresden,Holstein Kiel,0,0
+SV Sandhausen,FC St. Pauli,1,1
+Hamburger SV,Karlsruher SC,3,0
+F.C. Hansa Rostock,SSV Jahn Regensburg,1,1
+1. FC Heidenheim,Erzgebirge Aue,0,2
+FC Ingolstadt 04,SC Paderborn 07,0,1
+Werder Bremen,1. FC Nürnberg,1,1
+Darmstadt 98,FC Schalke 04,2,5
+Karlsruher SC,FC Ingolstadt 04,2,2
+Fortuna Düsseldorf,SG Dynamo Dresden,2,2
+Holstein Kiel,1. FC Heidenheim,1,1
+SSV Jahn Regensburg,Hamburger SV,2,4
+FC Schalke 04,Werder Bremen,1,4
+FC St. Pauli,Darmstadt 98,1,2
+Erzgebirge Aue,F.C. Hansa Rostock,2,2
+1. FC Nürnberg,SV Sandhausen,2,4
+FC St. Pauli,Karlsruher SC,3,1
+FC Schalke 04,F.C. Hansa Rostock,3,4
+1. FC Nürnberg,Hamburger SV,2,1
+Erzgebirge Aue,SSV Jahn Regensburg,1,0
+Fortuna Düsseldorf,FC Ingolstadt 04,3,0
+Werder Bremen,SG Dynamo Dresden,2,1
+F.C. Hansa Rostock,Holstein Kiel,3,2
+Darmstadt 98,SV Sandhausen,1,1
+SC Paderborn 07,Fortuna Düsseldorf,1,1
+SG Dynamo Dresden,FC St. Pauli,1,1
+1. FC Heidenheim,Werder Bremen,2,1
+Karlsruher SC,SSV Jahn Regensburg,1,1
+Hannover 96,1. FC Nürnberg,0,3
+FC Ingolstadt 04,FC Schalke 04,0,3
+Erzgebirge Aue,Karlsruher SC,0,3
+FC St. Pauli,1. FC Heidenheim,1,0
+SV Sandhausen,F.C. Hansa Rostock,0,1
+Fortuna Düsseldorf,Hamburger SV,1,1
+FC Schalke 04,Hannover 96,2,1
+Werder Bremen,Darmstadt 98,1,0
+SSV Jahn Regensburg,SC Paderborn 07,1,0
+Holstein Kiel,FC Ingolstadt 04,1,0
+1. FC Nürnberg,SG Dynamo Dresden,1,1
+FC Ingolstadt 04,Erzgebirge Aue,3,2
+SG Dynamo Dresden,FC Schalke 04,1,2
+Hannover 96,SSV Jahn Regensburg,1,1
+Darmstadt 98,Holstein Kiel,3,1
+Hamburger SV,SC Paderborn 07,1,2
+F.C. Hansa Rostock,FC St. Pauli,1,0
+Erzgebirge Aue,Holstein Kiel,2,3
+F.C. Hansa Rostock,Werder Bremen,1,2
+Karlsruher SC,1. FC Nürnberg,4,1
+SC Paderborn 07,SG Dynamo Dresden,0,0
+Hamburger SV,1. FC Heidenheim,2,0
+SSV Jahn Regensburg,FC St. Pauli,2,3
+FC Ingolstadt 04,SV Sandhausen,0,0
+Hannover 96,Darmstadt 98,2,2
+Fortuna Düsseldorf,FC Schalke 04,2,1
+SG Dynamo Dresden,1. FC Heidenheim,1,1
+FC Schalke 04,SC Paderborn 07,2,0
+Holstein Kiel,Karlsruher SC,0,2
+SV Sandhausen,Hamburger SV,1,1
+Werder Bremen,FC Ingolstadt 04,1,1
+1. FC Nürnberg,SSV Jahn Regensburg,2,0
+Fortuna Düsseldorf,Erzgebirge Aue,3,1
+Darmstadt 98,F.C. Hansa Rostock,1,1
+FC St. Pauli,Hannover 96,0,3
+SC Paderborn 07,Erzgebirge Aue,3,3
+Hannover 96,Holstein Kiel,2,0
+F.C. Hansa Rostock,1. FC Nürnberg,0,2
+FC Ingolstadt 04,FC St. Pauli,1,3
+Karlsruher SC,FC Schalke 04,1,1
+SG Dynamo Dresden,Darmstadt 98,0,1
+1. FC Heidenheim,SV Sandhausen,1,1
+SSV Jahn Regensburg,Fortuna Düsseldorf,0,0
+Hamburger SV,Werder Bremen,2,3
+Darmstadt 98,1. FC Heidenheim,3,2
+Holstein Kiel,SC Paderborn 07,3,4
+SV Sandhausen,Hannover 96,3,1
+SSV Jahn Regensburg,Darmstadt 98,0,2
+Hannover 96,Werder Bremen,1,4
+F.C. Hansa Rostock,Hannover 96,0,1
+SG Dynamo Dresden,Hamburger SV,1,1
+1. FC Nürnberg,SC Paderborn 07,1,2
+FC St. Pauli,Erzgebirge Aue,2,2
+Werder Bremen,Fortuna Düsseldorf,3,0
+Darmstadt 98,Karlsruher SC,2,2
+SV Sandhausen,SSV Jahn Regensburg,0,3
+1. FC Heidenheim,FC Ingolstadt 04,2,1
+FC Schalke 04,Holstein Kiel,1,1
+Fortuna Düsseldorf,1. FC Nürnberg,0,1
+Hamburger SV,FC St. Pauli,2,1
+F.C. Hansa Rostock,1. FC Heidenheim,0,0
+FC Ingolstadt 04,Darmstadt 98,0,2
+SC Paderborn 07,Werder Bremen,3,4
+Erzgebirge Aue,FC Schalke 04,0,5
+Hannover 96,SG Dynamo Dresden,0,0
+SSV Jahn Regensburg,Holstein Kiel,1,2
+1. FC Heidenheim,Hannover 96,3,1
+1. FC Nürnberg,FC Ingolstadt 04,0,5
+SV Sandhausen,Erzgebirge Aue,2,0
+Werder Bremen,Karlsruher SC,2,1
+FC Schalke 04,SSV Jahn Regensburg,2,1
+FC St. Pauli,SC Paderborn 07,2,2
+SG Dynamo Dresden,F.C. Hansa Rostock,1,4
+Holstein Kiel,Fortuna Düsseldorf,1,0
+Darmstadt 98,Hamburger SV,0,5
+Karlsruher SC,SV Sandhausen,0,2
+FC Schalke 04,SV Sandhausen,5,2
+Holstein Kiel,Werder Bremen,2,1
+SC Paderborn 07,F.C. Hansa Rostock,1,1
+1. FC Nürnberg,FC St. Pauli,2,3
+Hamburger SV,FC Ingolstadt 04,3,0
+Darmstadt 98,Fortuna Düsseldorf,1,3
+Werder Bremen,Erzgebirge Aue,4,0
+F.C. Hansa Rostock,FC Ingolstadt 04,1,1
+SV Sandhausen,SC Paderborn 07,1,1
+1. FC Nürnberg,Holstein Kiel,2,1
+FC St. Pauli,FC Schalke 04,2,1
+1. FC Heidenheim,SSV Jahn Regensburg,3,0
+SG Dynamo Dresden,Karlsruher SC,3,1
+Hannover 96,Hamburger SV,1,0
+SSV Jahn Regensburg,Werder Bremen,2,3
+FC Schalke 04,1. FC Nürnberg,4,1
+FC Ingolstadt 04,Hannover 96,1,2
+Holstein Kiel,SV Sandhausen,2,2
+SC Paderborn 07,Darmstadt 98,0,1
+Fortuna Düsseldorf,FC St. Pauli,1,1
+Karlsruher SC,1. FC Heidenheim,3,2
+Erzgebirge Aue,SG Dynamo Dresden,0,1
+Hamburger SV,F.C. Hansa Rostock,3,0
+Fortuna Düsseldorf,SV Sandhausen,0,1
+Holstein Kiel,FC St. Pauli,3,0
+Erzgebirge Aue,1. FC Nürnberg,1,3
+SC Paderborn 07,1. FC Heidenheim,1,2
+FC Ingolstadt 04,SG Dynamo Dresden,3,0
+Hamburger SV,FC Schalke 04,1,1
+Karlsruher SC,F.C. Hansa Rostock,2,2
+SG Dynamo Dresden,SV Sandhausen,0,1
+Hannover 96,Erzgebirge Aue,1,1
+Werder Bremen,FC St. Pauli,1,1
+Hamburger SV,Holstein Kiel,1,1
+Karlsruher SC,SC Paderborn 07,2,4
+F.C. Hansa Rostock,Fortuna Düsseldorf,2,1
+FC Ingolstadt 04,SSV Jahn Regensburg,0,3
+Holstein Kiel,SG Dynamo Dresden,2,1
+1. FC Nürnberg,Werder Bremen,1,2
+SSV Jahn Regensburg,F.C. Hansa Rostock,2,3
+Fortuna Düsseldorf,Hannover 96,1,1
+SC Paderborn 07,FC Ingolstadt 04,2,1
+Karlsruher SC,Hamburger SV,1,1
+Erzgebirge Aue,1. FC Heidenheim,2,0
+FC Schalke 04,Darmstadt 98,2,4
+SV Sandhausen,1. FC Nürnberg,1,2
+Hannover 96,SC Paderborn 07,0,0
+F.C. Hansa Rostock,Erzgebirge Aue,1,2
+Darmstadt 98,FC St. Pauli,4,0
+Hamburger SV,SSV Jahn Regensburg,4,1
+Werder Bremen,FC Schalke 04,1,1
+FC Ingolstadt 04,Karlsruher SC,1,1
+1. FC Heidenheim,Holstein Kiel,2,1
+SG Dynamo Dresden,Fortuna Düsseldorf,1,0
+FC St. Pauli,SV Sandhausen,3,1
+Fortuna Düsseldorf,1. FC Heidenheim,0,1
+SSV Jahn Regensburg,SG Dynamo Dresden,3,1
+Erzgebirge Aue,Darmstadt 98,1,2
+Karlsruher SC,Hannover 96,4,0
+Hamburger SV,1. FC Nürnberg,2,2
+Werder Bremen,1. FC Heidenheim,3,0
+Erzgebirge Aue,Hamburger SV,1,1
+SSV Jahn Regensburg,Karlsruher SC,2,2
+Holstein Kiel,F.C. Hansa Rostock,0,2
+Fortuna Düsseldorf,SC Paderborn 07,2,3
+1. FC Nürnberg,Hannover 96,0,0
+SV Sandhausen,Darmstadt 98,1,6
+FC St. Pauli,SG Dynamo Dresden,3,0
+FC Schalke 04,FC Ingolstadt 04,3,0
+SC Paderborn 07,SSV Jahn Regensburg,1,1
+Hannover 96,FC Schalke 04,0,1
+Karlsruher SC,Erzgebirge Aue,2,1
+FC Ingolstadt 04,Holstein Kiel,1,1
+1. FC Heidenheim,FC St. Pauli,2,4
+Hamburger SV,Fortuna Düsseldorf,1,1
+F.C. Hansa Rostock,SV Sandhausen,1,1
+SG Dynamo Dresden,1. FC Nürnberg,0,1
+Darmstadt 98,Werder Bremen,3,0
+Erzgebirge Aue,FC Ingolstadt 04,1,0
+SC Paderborn 07,Hamburger SV,1,2
+1. FC Nürnberg,1. FC Heidenheim,4,0
+Fortuna Düsseldorf,Karlsruher SC,3,1
+Holstein Kiel,Darmstadt 98,1,1
+FC Schalke 04,SG Dynamo Dresden,3,0
+SSV Jahn Regensburg,Hannover 96,3,1
+FC St. Pauli,F.C. Hansa Rostock,4,0
+SV Sandhausen,Werder Bremen,2,2
+Darmstadt 98,1. FC Nürnberg,2,0
+1. FC Heidenheim,FC Schalke 04,1,0
+FC Schalke 04,Fortuna Düsseldorf,3,1
+FC St. Pauli,SSV Jahn Regensburg,2,0
+SG Dynamo Dresden,SC Paderborn 07,0,3
+Werder Bremen,F.C. Hansa Rostock,3,0
+Karlsruher SC,Holstein Kiel,2,2
+Hannover 96,FC St. Pauli,1,0
+FC Ingolstadt 04,Werder Bremen,0,3
+Hamburger SV,SV Sandhausen,2,1
+F.C. Hansa Rostock,Darmstadt 98,2,1
+SSV Jahn Regensburg,1. FC Nürnberg,2,2
+1. FC Heidenheim,SG Dynamo Dresden,2,1
+Erzgebirge Aue,Fortuna Düsseldorf,0,1
+SC Paderborn 07,FC Schalke 04,0,1
+1. FC Nürnberg,F.C. Hansa Rostock,1,0
+FC Schalke 04,Karlsruher SC,1,2
+SV Sandhausen,1. FC Heidenheim,1,3
+Fortuna Düsseldorf,SSV Jahn Regensburg,1,1
+Holstein Kiel,Hannover 96,0,3
+Werder Bremen,Hamburger SV,0,2
+Erzgebirge Aue,SC Paderborn 07,1,4
+Darmstadt 98,SG Dynamo Dresden,1,0
+FC St. Pauli,FC Ingolstadt 04,4,1
+1. FC Heidenheim,Darmstadt 98,2,1
+SSV Jahn Regensburg,Erzgebirge Aue,3,2
+FC Ingolstadt 04,Fortuna Düsseldorf,1,2
+Karlsruher SC,FC St. Pauli,1,3
+SC Paderborn 07,Holstein Kiel,1,2
+F.C. Hansa Rostock,FC Schalke 04,0,2
+Hannover 96,SV Sandhausen,1,2
+SG Dynamo Dresden,Werder Bremen,3,0
+SSV Jahn Regensburg,SV Sandhausen,3,0
+FC Ingolstadt 04,1. FC Heidenheim,1,2
+Hannover 96,F.C. Hansa Rostock,0,3
+Fortuna Düsseldorf,Werder Bremen,2,3
+Erzgebirge Aue,FC St. Pauli,0,0
+Hamburger SV,SG Dynamo Dresden,1,1
+Holstein Kiel,FC Schalke 04,0,3
+FC St. Pauli,Hamburger SV,3,2
+FC Schalke 04,Erzgebirge Aue,1,1
+SV Sandhausen,Karlsruher SC,0,0
+1. FC Nürnberg,Fortuna Düsseldorf,2,0
+Holstein Kiel,SSV Jahn Regensburg,0,3
+SG Dynamo Dresden,Hannover 96,2,0
+Darmstadt 98,FC Ingolstadt 04,6,1
+1. FC Heidenheim,F.C. Hansa Rostock,1,1
+Werder Bremen,SC Paderborn 07,1,4
+Hannover 96,1. FC Heidenheim,1,0
+Fortuna Düsseldorf,Holstein Kiel,2,2
+SC Paderborn 07,FC St. Pauli,3,1
+Karlsruher SC,Werder Bremen,0,0
+SSV Jahn Regensburg,FC Schalke 04,4,1
+F.C. Hansa Rostock,SG Dynamo Dresden,1,3
+Erzgebirge Aue,SV Sandhausen,1,3
+FC Ingolstadt 04,1. FC Nürnberg,0,0
+Hamburger SV,Darmstadt 98,2,2
+SV Sandhausen,FC Ingolstadt 04,0,2
+1. FC Nürnberg,Karlsruher SC,2,1
+Darmstadt 98,Hannover 96,4,0
+Holstein Kiel,Erzgebirge Aue,3,0
+1. FC Heidenheim,Hamburger SV,0,0
+FC Schalke 04,Hamburger SV,1,3
+Darmstadt 98,SSV Jahn Regensburg,0,2
+F.C. Hansa Rostock,Karlsruher SC,1,3
+1. FC Heidenheim,SC Paderborn 07,0,0
+SG Dynamo Dresden,FC Ingolstadt 04,3,0
+Werder Bremen,Hannover 96,1,1
+1. FC Nürnberg,Erzgebirge Aue,0,0
+SV Sandhausen,Fortuna Düsseldorf,0,2
+FC St. Pauli,Holstein Kiel,3,0
+Karlsruher SC,Darmstadt 98,3,0
+SC Paderborn 07,1. FC Nürnberg,2,2
+Tenerife,Málaga,0,2
+Real Oviedo,Real Zaragoza,3,3
+Real Zaragoza,CD Lugo,1,0
+FC Cartagena,SD Amorebieta,5,0
+Málaga,Burgos,0,1
+CF Fuenlabrada,Sporting Gijón,0,0
+Huesca,Real Sociedad B,3,2
+Las Palmas,Real Oviedo,2,1
+SD Ponferradina,Leganés,0,3
+Girona FC,Mirandés,2,0
+UD Ibiza,Real Valladolid,1,2
+UD Almería,AD Alcorcón,1,1
+Eibar,Tenerife,2,0
+Mirandés,CF Fuenlabrada,5,1
+Real Sociedad B,Real Zaragoza,1,2
+SD Amorebieta,SD Ponferradina,1,0
+CD Lugo,Málaga,1,0
+Real Oviedo,UD Ibiza,3,2
+Tenerife,FC Cartagena,1,2
+Burgos,Girona FC,0,0
+Sporting Gijón,Las Palmas,0,1
+AD Alcorcón,Eibar,1,0
+Real Valladolid,Huesca,3,0
+Leganés,UD Almería,2,2
+Tenerife,Las Palmas,1,0
+Girona FC,Eibar,0,1
+Las Palmas,Tenerife,1,2
+Eibar,Girona FC,0,2
+Girona FC,Tenerife,0,0
+Tenerife,Girona FC,1,3
+Real Oviedo,Mirandés,3,0
+Eibar,Real Zaragoza,2,0
+Burgos,UD Almería,0,2
+SD Amorebieta,CF Fuenlabrada,2,1
+Sporting Gijón,UD Ibiza,0,1
+AD Alcorcón,Girona FC,0,1
+SD Ponferradina,FC Cartagena,4,2
+CD Lugo,Tenerife,0,2
+Leganés,Huesca,2,1
+Real Valladolid,Real Sociedad B,1,2
+Las Palmas,Mirandés,1,0
+CF Fuenlabrada,Real Sociedad B,1,2
+Huesca,Sporting Gijón,1,1
+Málaga,Real Oviedo,0,0
+UD Almería,SD Amorebieta,3,0
+SD Ponferradina,Burgos,3,1
+FC Cartagena,Leganés,0,0
+Eibar,Real Valladolid,0,2
+UD Ibiza,CD Lugo,1,1
+Real Zaragoza,AD Alcorcón,0,3
+Girona FC,Tenerife,0,1
+Real Sociedad B,UD Almería,0,2
+SD Amorebieta,Huesca,1,0
+Burgos,FC Cartagena,1,1
+CD Lugo,CF Fuenlabrada,1,3
+Real Valladolid,SD Ponferradina,2,0
+Leganés,Eibar,2,3
+AD Alcorcón,Las Palmas,0,2
+Mirandés,UD Ibiza,4,0
+Sporting Gijón,Girona FC,2,1
+Las Palmas,SD Amorebieta,1,0
+CF Fuenlabrada,Huesca,2,3
+Real Zaragoza,Girona FC,1,0
+Mirandés,Burgos,3,1
+Real Oviedo,Leganés,1,0
+UD Ibiza,Eibar,2,0
+UD Almería,SD Ponferradina,3,0
+Eibar,Las Palmas,2,2
+SD Amorebieta,Mirandés,1,0
+Leganés,Málaga,0,3
+Real Valladolid,UD Almería,2,2
+Sporting Gijón,Real Oviedo,0,1
+FC Cartagena,AD Alcorcón,3,1
+SD Ponferradina,CD Lugo,3,1
+Burgos,UD Ibiza,2,1
+Tenerife,CF Fuenlabrada,3,1
+Huesca,Real Zaragoza,1,1
+Girona FC,Real Sociedad B,2,0
+Tenerife,Huesca,0,0
+Real Sociedad B,SD Amorebieta,2,1
+CF Fuenlabrada,SD Ponferradina,2,3
+FC Cartagena,Girona FC,3,0
+Málaga,Eibar,1,3
+AD Alcorcón,Real Oviedo,1,2
+UD Ibiza,Las Palmas,1,1
+Mirandés,Real Valladolid,0,1
+Real Zaragoza,Burgos,0,0
+CD Lugo,Leganés,0,0
+UD Almería,Sporting Gijón,1,0
+Las Palmas,Málaga,2,1
+SD Amorebieta,AD Alcorcón,0,0
+SD Ponferradina,Eibar,2,2
+Leganés,Sporting Gijón,1,1
+Tenerife,UD Almería,0,1
+Real Zaragoza,SD Amorebieta,1,1
+UD Ibiza,Real Sociedad B,2,2
+Eibar,CD Lugo,1,0
+Sporting Gijón,FC Cartagena,4,1
+Real Oviedo,CF Fuenlabrada,3,0
+Mirandés,SD Ponferradina,3,1
+Burgos,Tenerife,1,0
+Málaga,Huesca,0,2
+AD Alcorcón,Real Valladolid,1,2
+UD Almería,Girona FC,0,1
+Las Palmas,Leganés,4,2
+Girona FC,Málaga,1,0
+Real Sociedad B,AD Alcorcón,2,4
+Real Valladolid,CD Lugo,4,1
+SD Amorebieta,UD Ibiza,3,1
+Tenerife,Real Zaragoza,1,1
+FC Cartagena,Real Oviedo,1,2
+SD Ponferradina,Las Palmas,1,2
+Burgos,Sporting Gijón,0,0
+Eibar,Mirandés,1,1
+Huesca,UD Almería,1,1
+Leganés,CF Fuenlabrada,3,2
+CD Lugo,FC Cartagena,1,0
+Real Sociedad B,Tenerife,1,2
+AD Alcorcón,Sporting Gijón,1,1
+Málaga,Real Valladolid,2,2
+Málaga,FC Cartagena,1,1
+Real Zaragoza,UD Almería,2,0
+CF Fuenlabrada,Burgos,1,2
+Huesca,Las Palmas,0,0
+Tenerife,Real Valladolid,1,4
+CD Lugo,AD Alcorcón,1,0
+SD Ponferradina,UD Ibiza,1,1
+SD Amorebieta,Málaga,1,2
+Leganés,Mirandés,2,0
+FC Cartagena,Eibar,4,1
+Girona FC,Real Oviedo,2,1
+Real Sociedad B,Sporting Gijón,2,1
+Real Zaragoza,CF Fuenlabrada,2,1
+Mirandés,FC Cartagena,2,1
+UD Ibiza,Leganés,1,1
+Las Palmas,Girona FC,1,3
+UD Almería,CD Lugo,3,3
+Málaga,SD Ponferradina,0,0
+Burgos,Real Sociedad B,0,0
+Sporting Gijón,Tenerife,1,2
+Eibar,SD Amorebieta,1,0
+AD Alcorcón,Huesca,1,0
+Real Oviedo,Real Valladolid,3,0
+Huesca,Burgos,1,0
+Real Sociedad B,Mirandés,1,3
+CF Fuenlabrada,Málaga,1,0
+FC Cartagena,Real Zaragoza,3,0
+CD Lugo,Real Oviedo,1,1
+Real Valladolid,Las Palmas,0,1
+Girona FC,UD Ibiza,5,1
+UD Ibiza,FC Cartagena,2,1
+Real Valladolid,Girona FC,2,2
+Málaga,UD Almería,0,1
+Eibar,CF Fuenlabrada,0,0
+Real Oviedo,Huesca,3,3
+CD Lugo,SD Amorebieta,1,1
+AD Alcorcón,Tenerife,0,2
+Las Palmas,Burgos,0,2
+SD Ponferradina,Real Sociedad B,3,2
+FC Cartagena,Real Valladolid,2,3
+Real Zaragoza,Las Palmas,2,1
+Tenerife,UD Ibiza,2,0
+Girona FC,Eibar,0,1
+Real Sociedad B,Málaga,2,0
+CF Fuenlabrada,AD Alcorcón,2,2
+Burgos,Real Oviedo,0,1
+Sporting Gijón,SD Ponferradina,2,3
+Huesca,CD Lugo,1,0
+UD Almería,Mirandés,2,1
+SD Amorebieta,Leganés,1,3
+UD Almería,CF Fuenlabrada,3,1
+Mirandés,Tenerife,2,1
+UD Ibiza,Huesca,2,1
+Real Oviedo,Real Sociedad B,0,1
+Las Palmas,CD Lugo,2,2
+Eibar,Burgos,2,0
+Sporting Gijón,Real Zaragoza,1,2
+Leganés,Girona FC,1,1
+Real Valladolid,SD Amorebieta,5,1
+AD Alcorcón,SD Ponferradina,2,2
+Sporting Gijón,SD Amorebieta,2,1
+Girona FC,CD Lugo,1,1
+Huesca,SD Ponferradina,1,2
+AD Alcorcón,Mirandés,0,0
+Real Sociedad B,FC Cartagena,1,2
+UD Almería,Eibar,0,2
+Real Valladolid,Sporting Gijón,1,0
+SD Amorebieta,Girona FC,1,0
+CD Lugo,Burgos,1,0
+Eibar,Huesca,2,1
+Real Oviedo,UD Almería,2,0
+Leganés,AD Alcorcón,1,0
+FC Cartagena,CF Fuenlabrada,3,0
+Mirandés,Málaga,3,0
+Las Palmas,Real Sociedad B,0,0
+SD Ponferradina,Tenerife,1,2
+UD Ibiza,Real Zaragoza,2,2
+Burgos,AD Alcorcón,3,1
+UD Almería,UD Ibiza,2,0
+Real Sociedad B,CD Lugo,1,1
+Real Zaragoza,Málaga,1,1
+Girona FC,SD Ponferradina,3,0
+Sporting Gijón,Eibar,0,1
+SD Amorebieta,Real Oviedo,1,1
+CF Fuenlabrada,Real Valladolid,0,0
+FC Cartagena,Las Palmas,0,2
+Huesca,Mirandés,4,0
+Tenerife,Leganés,0,0
+Leganés,Real Zaragoza,2,1
+Mirandés,Sporting Gijón,0,3
+Real Sociedad B,Real Valladolid,0,2
+Real Oviedo,SD Ponferradina,2,0
+Burgos,SD Amorebieta,2,2
+Eibar,Real Sociedad B,3,2
+UD Almería,FC Cartagena,0,1
+Real Valladolid,Leganés,1,0
+Sporting Gijón,CD Lugo,1,1
+Mirandés,Real Zaragoza,2,0
+Huesca,Girona FC,0,1
+CF Fuenlabrada,UD Ibiza,1,2
+Tenerife,Las Palmas,0,1
+AD Alcorcón,Málaga,0,1
+SD Amorebieta,Tenerife,1,1
+UD Ibiza,AD Alcorcón,6,2
+FC Cartagena,Huesca,0,3
+Real Valladolid,Burgos,1,0
+Leganés,Real Sociedad B,1,1
+Girona FC,CF Fuenlabrada,2,1
+CD Lugo,Mirandés,2,1
+Málaga,Sporting Gijón,2,2
+SD Ponferradina,Real Zaragoza,0,0
+Las Palmas,UD Almería,1,1
+Real Oviedo,Eibar,1,1
+CD Lugo,UD Almería,2,1
+Tenerife,Real Oviedo,4,0
+Real Zaragoza,Real Valladolid,0,0
+CF Fuenlabrada,Las Palmas,3,2
+Málaga,UD Ibiza,0,5
+Burgos,Leganés,4,0
+CF Fuenlabrada,UD Almería,1,1
+SD Ponferradina,Mirandés,2,1
+Málaga,SD Amorebieta,1,2
+Real Sociedad B,Burgos,0,1
+CD Lugo,UD Ibiza,0,0
+Real Oviedo,AD Alcorcón,3,1
+Las Palmas,Sporting Gijón,1,0
+Real Zaragoza,Eibar,1,0
+FC Cartagena,Tenerife,1,1
+Girona FC,Leganés,3,0
+Sporting Gijón,Huesca,1,1
+Burgos,CF Fuenlabrada,2,0
+UD Ibiza,Girona FC,1,1
+UD Almería,Real Zaragoza,3,0
+Eibar,Málaga,2,2
+Tenerife,CD Lugo,1,1
+Leganés,SD Ponferradina,1,1
+Real Valladolid,Real Oviedo,2,1
+AD Alcorcón,FC Cartagena,1,1
+SD Amorebieta,Las Palmas,1,1
+Mirandés,Real Sociedad B,2,0
+Girona FC,Burgos,3,1
+UD Ibiza,Sporting Gijón,0,2
+Málaga,Leganés,0,2
+Las Palmas,Eibar,0,1
+CF Fuenlabrada,Real Oviedo,0,0
+SD Ponferradina,SD Amorebieta,1,1
+Real Zaragoza,Tenerife,0,2
+FC Cartagena,Mirandés,3,0
+Huesca,AD Alcorcón,0,0
+Las Palmas,Real Zaragoza,2,3
+SD Amorebieta,CD Lugo,1,3
+Girona FC,FC Cartagena,2,0
+UD Ibiza,UD Almería,0,1
+Burgos,SD Ponferradina,1,0
+Leganés,Real Oviedo,0,0
+Málaga,Tenerife,1,0
+CF Fuenlabrada,Mirandés,1,1
+Real Oviedo,SD Amorebieta,2,0
+Málaga,Las Palmas,2,1
+UD Almería,Real Valladolid,3,1
+FC Cartagena,Burgos,1,0
+CD Lugo,Eibar,2,2
+Tenerife,AD Alcorcón,1,0
+Huesca,UD Ibiza,0,0
+SD Ponferradina,Sporting Gijón,4,1
+Real Sociedad B,Girona FC,1,2
+Real Zaragoza,Leganés,0,2
+AD Alcorcón,CD Lugo,1,1
+Mirandés,Real Oviedo,1,1
+Burgos,Málaga,3,0
+Sporting Gijón,CF Fuenlabrada,1,1
+UD Almería,Huesca,0,0
+Real Valladolid,FC Cartagena,2,0
+Leganés,Las Palmas,4,1
+UD Ibiza,SD Ponferradina,0,1
+SD Amorebieta,Real Zaragoza,1,1
+Tenerife,Real Sociedad B,2,0
+Eibar,Girona FC,4,2
+Huesca,Real Valladolid,3,2
+Real Valladolid,Eibar,2,0
+Real Zaragoza,Mirandés,1,1
+AD Alcorcón,UD Ibiza,0,2
+Tenerife,Burgos,4,0
+SD Ponferradina,Huesca,1,1
+Sporting Gijón,UD Almería,0,1
+Leganés,FC Cartagena,1,1
+Mirandés,CD Lugo,3,2
+SD Amorebieta,Real Valladolid,4,1
+Las Palmas,CF Fuenlabrada,2,1
+Eibar,Real Oviedo,1,0
+Burgos,Real Zaragoza,0,1
+Girona FC,AD Alcorcón,3,1
+UD Ibiza,Tenerife,0,0
+Málaga,Real Sociedad B,2,1
+Huesca,Leganés,0,2
+CD Lugo,SD Ponferradina,1,2
+Real Oviedo,Las Palmas,1,1
+Real Valladolid,Mirandés,3,1
+CF Fuenlabrada,Eibar,0,0
+AD Alcorcón,SD Amorebieta,2,2
+Real Zaragoza,Sporting Gijón,2,0
+FC Cartagena,Málaga,3,1
+UD Almería,Burgos,2,0
+Real Sociedad B,UD Ibiza,0,1
+Tenerife,Girona FC,2,1
+Sporting Gijón,Real Sociedad B,0,1
+Real Valladolid,CF Fuenlabrada,3,0
+Mirandés,Huesca,0,1
+Eibar,AD Alcorcón,2,1
+SD Ponferradina,CF Fuenlabrada,0,0
+FC Cartagena,Sporting Gijón,1,0
+Huesca,Málaga,0,0
+Tenerife,Eibar,0,1
+CF Fuenlabrada,SD Amorebieta,0,0
+Real Valladolid,UD Ibiza,1,1
+CD Lugo,Las Palmas,2,0
+AD Alcorcón,Leganés,3,3
+UD Almería,Real Sociedad B,3,1
+Real Zaragoza,SD Ponferradina,1,1
+Real Oviedo,Burgos,1,3
+Mirandés,Girona FC,1,2
+Eibar,FC Cartagena,2,1
+UD Ibiza,CF Fuenlabrada,3,1
+Sporting Gijón,Real Valladolid,1,2
+Málaga,CD Lugo,1,0
+Leganés,Tenerife,1,2
+SD Amorebieta,Real Sociedad B,1,2
+Mirandés,UD Almería,1,4
+SD Ponferradina,Real Oviedo,1,2
+Burgos,Huesca,3,1
+Las Palmas,AD Alcorcón,3,0
+Girona FC,Real Zaragoza,1,1
+Real Sociedad B,Las Palmas,0,1
+UD Almería,Leganés,1,0
+Huesca,SD Amorebieta,1,1
+CD Lugo,Sporting Gijón,1,1
+FC Cartagena,SD Ponferradina,0,1
+CF Fuenlabrada,Girona FC,1,2
+Real Oviedo,Málaga,2,1
+Queens Park Rangers,Sheffield United,1,3
+Barnsley,Preston North End,1,3
+Millwall,Peterborough United,3,0
+Cardiff City,Birmingham City,1,1
+Bristol City,Hull City,5,0
+Coventry City,Huddersfield Town,1,2
+Middlesbrough,Stoke City,3,1
+Blackpool,Derby County,0,2
+Reading,West Bromwich Albion,0,1
+Nottingham Forest,Swansea City,5,1
+Blackburn Rovers,AFC Bournemouth,0,3
+Fulham,Luton Town,7,0
+AFC Bournemouth,Nottingham Forest,1,0
+Peterborough United,Blackpool,5,0
+Stoke City,Coventry City,1,1
+Birmingham City,Blackburn Rovers,1,2
+Preston North End,Middlesbrough,4,1
+Huddersfield Town,Bristol City,2,0
+Luton Town,Reading,1,0
+Derby County,Cardiff City,0,1
+Swansea City,Queens Park Rangers,0,1
+West Bromwich Albion,Barnsley,4,0
+Hull City,Nottingham Forest,1,1
+AFC Bournemouth,Millwall,1,0
+Sheffield United,Fulham,4,0
+Luton Town,Huddersfield Town,1,1
+Sheffield United,Nottingham Forest,1,2
+Huddersfield Town,Luton Town,1,0
+Nottingham Forest,Sheffield United,4,4
+Huddersfield Town,Nottingham Forest,0,1
+Huddersfield Town,Queens Park Rangers,2,2
+Derby County,Fulham,2,1
+Middlesbrough,Huddersfield Town,0,2
+Blackpool,Birmingham City,6,1
+Barnsley,Peterborough United,0,2
+Cardiff City,Luton Town,0,1
+Millwall,Hull City,2,1
+Reading,Swansea City,4,4
+Blackburn Rovers,Stoke City,0,1
+Queens Park Rangers,Derby County,1,0
+Coventry City,AFC Bournemouth,0,3
+Bristol City,Sheffield United,1,1
+Nottingham Forest,West Bromwich Albion,4,0
+Fulham,Preston North End,3,0
+Huddersfield Town,Barnsley,2,1
+Luton Town,Blackpool,1,1
+Birmingham City,Millwall,2,2
+Hull City,Reading,3,0
+Stoke City,Queens Park Rangers,1,0
+Derby County,Bristol City,1,3
+Swansea City,Middlesbrough,1,1
+Peterborough United,Nottingham Forest,0,1
+Sheffield United,Cardiff City,1,0
+West Bromwich Albion,Coventry City,0,0
+AFC Bournemouth,Fulham,1,1
+Preston North End,Blackburn Rovers,1,4
+Barnsley,Blackpool,0,2
+Swansea City,AFC Bournemouth,3,3
+Fulham,Nottingham Forest,0,1
+Middlesbrough,Cardiff City,2,0
+Preston North End,Blackpool,1,0
+Peterborough United,Luton Town,1,1
+Millwall,Swansea City,0,1
+Sheffield United,Queens Park Rangers,1,0
+Reading,Stoke City,2,1
+Nottingham Forest,Coventry City,2,0
+Middlesbrough,Fulham,0,1
+West Bromwich Albion,AFC Bournemouth,2,0
+Sheffield United,AFC Bournemouth,0,0
+Bristol City,Peterborough United,1,1
+Millwall,Barnsley,4,1
+Reading,Cardiff City,1,2
+Preston North End,Queens Park Rangers,2,1
+Blackburn Rovers,Blackpool,1,1
+Nottingham Forest,Birmingham City,2,0
+Middlesbrough,Hull City,0,1
+Swansea City,Derby County,2,1
+West Bromwich Albion,Stoke City,1,3
+Fulham,Coventry City,1,3
+Huddersfield Town,Luton Town,2,0
+Luton Town,Nottingham Forest,1,0
+Preston North End,Millwall,1,1
+Birmingham City,Coventry City,2,4
+Stoke City,Bristol City,0,1
+Peterborough United,Blackburn Rovers,2,1
+Hull City,Cardiff City,2,1
+Swansea City,Barnsley,1,1
+West Bromwich Albion,Blackpool,2,1
+Sheffield United,Reading,1,2
+AFC Bournemouth,Middlesbrough,0,0
+West Bromwich Albion,Fulham,1,0
+Luton Town,Preston North End,4,0
+Millwall,Huddersfield Town,2,0
+Cardiff City,Stoke City,2,1
+Coventry City,Hull City,0,2
+Peterborough United,Swansea City,2,3
+Nottingham Forest,Queens Park Rangers,3,1
+Blackpool,Sheffield United,0,0
+Derby County,Coventry City,1,1
+Sheffield United,Barnsley,2,0
+Stoke City,Millwall,2,0
+Swansea City,Birmingham City,0,0
+Reading,Blackburn Rovers,1,0
+Hull City,Luton Town,1,3
+Bristol City,West Bromwich Albion,2,2
+Huddersfield Town,AFC Bournemouth,0,3
+Queens Park Rangers,Peterborough United,1,3
+Hull City,Huddersfield Town,0,1
+Blackpool,Nottingham Forest,1,4
+Barnsley,Reading,1,1
+Luton Town,Millwall,2,2
+Coventry City,Blackburn Rovers,2,2
+Peterborough United,Middlesbrough,0,4
+Derby County,Preston North End,1,0
+Cardiff City,Swansea City,0,4
+Stoke City,Sheffield United,1,0
+AFC Bournemouth,Bristol City,3,2
+Queens Park Rangers,Fulham,0,2
+Birmingham City,West Bromwich Albion,1,0
+Reading,Millwall,0,1
+Stoke City,Blackpool,0,1
+Middlesbrough,Luton Town,2,1
+Swansea City,Coventry City,3,1
+Derby County,Barnsley,2,0
+Queens Park Rangers,Cardiff City,1,2
+Preston North End,AFC Bournemouth,2,1
+Hull City,West Bromwich Albion,0,2
+Coventry City,Luton Town,0,1
+Barnsley,Stoke City,1,1
+Blackburn Rovers,Millwall,0,0
+Sheffield United,Middlesbrough,4,1
+AFC Bournemouth,Peterborough United,1,1
+Swansea City,Fulham,1,5
+West Bromwich Albion,Huddersfield Town,2,2
+Barnsley,Fulham,1,1
+Cardiff City,Preston North End,0,0
+Millwall,Middlesbrough,0,0
+Peterborough United,Stoke City,2,2
+Birmingham City,Hull City,0,0
+Blackpool,Swansea City,1,0
+Blackburn Rovers,Bristol City,0,1
+Nottingham Forest,Reading,4,0
+Coventry City,Sheffield United,4,1
+AFC Bournemouth,Derby County,2,0
+Luton Town,Queens Park Rangers,1,2
+Barnsley,Bristol City,2,0
+Birmingham City,Middlesbrough,0,2
+Blackburn Rovers,Derby County,3,1
+AFC Bournemouth,Reading,1,1
+Sheffield United,Swansea City,4,0
+Bristol City,Coventry City,1,2
+Preston North End,Nottingham Forest,0,0
+Hull City,Barnsley,0,2
+Middlesbrough,West Bromwich Albion,2,1
+Reading,Birmingham City,2,1
+Huddersfield Town,Cardiff City,2,1
+Stoke City,Luton Town,1,2
+Queens Park Rangers,Blackpool,2,1
+Derby County,Millwall,1,2
+Sheffield United,Blackburn Rovers,1,0
+Fulham,Peterborough United,2,1
+Blackburn Rovers,Queens Park Rangers,1,0
+Coventry City,Preston North End,1,1
+Birmingham City,Huddersfield Town,0,2
+Blackpool,Reading,4,1
+Barnsley,Middlesbrough,3,2
+Peterborough United,Hull City,0,3
+Nottingham Forest,Bristol City,2,0
+Luton Town,Derby County,1,0
+Millwall,Sheffield United,1,0
+AFC Bournemouth,Stoke City,2,1
+Cardiff City,Fulham,0,1
+West Bromwich Albion,Swansea City,0,2
+Cardiff City,Derby County,1,0
+Huddersfield Town,Peterborough United,3,0
+Sheffield United,Nottingham Forest,1,1
+Fulham,Blackburn Rovers,2,0
+Bristol City,Birmingham City,1,2
+Blackburn Rovers,Nottingham Forest,0,2
+AFC Bournemouth,Birmingham City,3,1
+Sheffield United,West Bromwich Albion,2,0
+Huddersfield Town,Sheffield United,0,0
+Peterborough United,Preston North End,0,1
+Birmingham City,Luton Town,3,0
+Reading,Coventry City,2,3
+Millwall,Cardiff City,2,1
+Nottingham Forest,Stoke City,2,2
+Barnsley,Queens Park Rangers,1,0
+Middlesbrough,Derby County,4,1
+Blackpool,AFC Bournemouth,1,2
+Hull City,Fulham,0,1
+Swansea City,Bristol City,3,1
+West Bromwich Albion,Blackburn Rovers,0,0
+Cardiff City,Coventry City,2,0
+Millwall,Queens Park Rangers,2,0
+Sheffield United,Hull City,0,0
+Peterborough United,Reading,0,0
+Fulham,Huddersfield Town,1,2
+Preston North End,Reading,2,3
+Coventry City,Barnsley,1,0
+Stoke City,Birmingham City,2,2
+Cardiff City,Blackpool,1,1
+Bristol City,Middlesbrough,2,1
+Derby County,Peterborough United,1,0
+Queens Park Rangers,Hull City,1,1
+Luton Town,West Bromwich Albion,2,0
+Queens Park Rangers,Reading,4,0
+Hull City,Swansea City,2,0
+Millwall,West Bromwich Albion,2,0
+Barnsley,AFC Bournemouth,0,1
+Fulham,Blackpool,1,1
+Peterborough United,Sheffield United,0,2
+Derby County,Birmingham City,2,2
+Cardiff City,Nottingham Forest,2,1
+Millwall,Preston North End,0,0
+Swansea City,Luton Town,0,1
+Barnsley,Cardiff City,0,1
+Huddersfield Town,Derby County,2,0
+Birmingham City,Sheffield United,1,2
+Blackpool,Bristol City,3,1
+Hull City,Preston North End,0,1
+Swansea City,Blackburn Rovers,1,0
+Coventry City,Blackpool,1,1
+Luton Town,Barnsley,2,1
+Stoke City,Swansea City,3,0
+Derby County,Hull City,3,1
+Fulham,Millwall,3,0
+Preston North End,Huddersfield Town,0,0
+Bristol City,Reading,2,1
+Cardiff City,Peterborough United,4,0
+Queens Park Rangers,Middlesbrough,2,2
+Derby County,Sheffield United,2,0
+Queens Park Rangers,West Bromwich Albion,1,0
+Fulham,Bristol City,6,2
+Hull City,Stoke City,0,2
+Preston North End,Sheffield United,2,2
+Fulham,Birmingham City,6,2
+Hull City,Blackburn Rovers,2,0
+Reading,Luton Town,0,2
+Bristol City,Cardiff City,3,2
+Nottingham Forest,Derby County,2,1
+Blackpool,Millwall,1,0
+Birmingham City,Barnsley,2,1
+Reading,Huddersfield Town,3,4
+Coventry City,Queens Park Rangers,1,2
+Swansea City,Preston North End,1,0
+Sheffield United,Luton Town,2,0
+West Bromwich Albion,Peterborough United,3,0
+AFC Bournemouth,Hull City,0,1
+Stoke City,Fulham,2,3
+Blackburn Rovers,Middlesbrough,1,0
+Birmingham City,Peterborough United,2,2
+Luton Town,Bristol City,2,1
+Coventry City,Stoke City,1,0
+Nottingham Forest,Barnsley,3,0
+Queens Park Rangers,Swansea City,0,0
+West Bromwich Albion,Preston North End,0,2
+Huddersfield Town,Stoke City,1,1
+Preston North End,Bristol City,2,2
+Middlesbrough,Coventry City,1,0
+Luton Town,Blackburn Rovers,0,0
+Blackburn Rovers,Barnsley,2,1
+Nottingham Forest,Huddersfield Town,0,1
+Bristol City,Queens Park Rangers,1,2
+Stoke City,Derby County,1,2
+AFC Bournemouth,Cardiff City,3,0
+Blackpool,Hull City,1,0
+Bristol City,Millwall,3,2
+Birmingham City,Queens Park Rangers,1,2
+Blackburn Rovers,Huddersfield Town,0,0
+West Bromwich Albion,Cardiff City,1,1
+Stoke City,Preston North End,1,2
+Reading,Derby County,2,2
+Reading,Fulham,0,7
+Cardiff City,Blackburn Rovers,0,1
+Luton Town,AFC Bournemouth,3,2
+Preston North End,Birmingham City,1,1
+Peterborough United,Coventry City,1,4
+Millwall,Nottingham Forest,0,1
+Middlesbrough,Reading,2,1
+Huddersfield Town,Swansea City,1,1
+Luton Town,Fulham,1,1
+Barnsley,West Bromwich Albion,0,0
+Middlesbrough,AFC Bournemouth,1,0
+Blackpool,Peterborough United,3,1
+Bristol City,Huddersfield Town,2,3
+Blackburn Rovers,Birmingham City,4,0
+Nottingham Forest,Hull City,2,1
+Fulham,Sheffield United,0,1
+Huddersfield Town,Blackpool,3,2
+Middlesbrough,Nottingham Forest,2,0
+Derby County,West Bromwich Albion,1,0
+Queens Park Rangers,AFC Bournemouth,0,1
+Coventry City,Millwall,0,1
+Blackpool,Middlesbrough,1,2
+Peterborough United,Barnsley,0,0
+Luton Town,Cardiff City,1,2
+Hull City,Millwall,2,1
+Stoke City,Blackburn Rovers,0,1
+Swansea City,Reading,2,3
+AFC Bournemouth,Coventry City,2,2
+Sheffield United,Bristol City,2,0
+Derby County,Queens Park Rangers,1,2
+Fulham,AFC Bournemouth,1,1
+Coventry City,West Bromwich Albion,1,2
+Millwall,Birmingham City,3,1
+Blackpool,Luton Town,0,3
+Barnsley,Huddersfield Town,1,1
+Blackburn Rovers,Preston North End,1,0
+Nottingham Forest,Peterborough United,2,0
+Reading,Hull City,1,1
+Bristol City,Derby County,1,0
+Middlesbrough,Swansea City,1,0
+Cardiff City,Sheffield United,2,3
+Queens Park Rangers,Stoke City,0,2
+Huddersfield Town,Coventry City,1,1
+Preston North End,Barnsley,2,1
+Peterborough United,Millwall,2,1
+Birmingham City,Cardiff City,2,2
+Stoke City,Middlesbrough,0,0
+Hull City,Bristol City,2,2
+Derby County,Blackpool,1,0
+Swansea City,Nottingham Forest,1,4
+AFC Bournemouth,Blackburn Rovers,0,2
+West Bromwich Albion,Reading,1,0
+Ternana,Perugia,1,0
+Pordenone,Crotone,3,3
+SPAL,Frosinone,3,0
+Cremonese,Ascoli,0,1
+Pisa,Cosenza,1,1
+Cittadella,Brescia,1,0
+Parma,Alessandria,2,2
+L.R. Vicenza,Lecce,2,1
+Monza,Benevento,3,0
+Reggina,Como,1,4
+Crotone,Parma,0,1
+Alessandria,L.R. Vicenza,0,1
+Cosenza,Cittadella,1,0
+Ascoli,Ternana,4,1
+Como,Cremonese,1,2
+Frosinone,Pisa,1,2
+Perugia,Monza,1,0
+Brescia,Reggina,3,0
+Benevento,SPAL,1,2
+Lecce,Pordenone,1,0
+L.R. Vicenza,Cosenza,1,0
+Ascoli,Benevento,0,1
+Brescia,Perugia,3,2
+Benevento,Pisa,1,0
+Brescia,Monza,1,2
+Cosenza,L.R. Vicenza,2,0
+Pisa,Benevento,1,0
+Monza,Brescia,2,1
+Monza,Pisa,2,1
+Pisa,Monza,3,4
+Como,Cittadella,1,2
+Lecce,SPAL,1,0
+Frosinone,Cremonese,2,1
+Benevento,L.R. Vicenza,1,0
+Ascoli,Reggina,2,0
+Crotone,Ternana,1,2
+Cosenza,Monza,0,2
+Perugia,Pisa,1,1
+Brescia,Parma,1,0
+Cosenza,Benevento,1,0
+SPAL,Crotone,1,1
+L.R. Vicenza,Perugia,1,2
+Cremonese,Cosenza,3,1
+Pordenone,Benevento,1,4
+Reggina,Lecce,1,0
+Cittadella,Alessandria,1,2
+Ternana,Frosinone,4,4
+Pisa,Como,3,1
+Parma,Ascoli,0,1
+Monza,Brescia,1,1
+Ascoli,Cittadella,0,0
+Cosenza,Pordenone,3,1
+Alessandria,Reggina,0,0
+Frosinone,Monza,4,1
+Crotone,Cremonese,3,1
+Lecce,Pisa,2,0
+Como,L.R. Vicenza,0,2
+Brescia,SPAL,1,1
+Benevento,Ternana,1,2
+Perugia,Parma,2,1
+Reggina,Cosenza,1,0
+Monza,Crotone,1,0
+Parma,Lecce,0,0
+Frosinone,Benevento,2,0
+Perugia,Como,0,1
+L.R. Vicenza,Ascoli,2,0
+Pisa,Cittadella,1,0
+SPAL,Cremonese,0,2
+Pordenone,Brescia,1,1
+Ascoli,Pordenone,1,0
+Cittadella,Ternana,1,2
+Alessandria,SPAL,2,2
+Cremonese,Reggina,1,1
+Cosenza,Parma,1,3
+Lecce,Frosinone,1,0
+Benevento,Pisa,5,1
+Crotone,Perugia,1,1
+Como,Monza,2,0
+Brescia,L.R. Vicenza,2,0
+Pordenone,Frosinone,2,0
+SPAL,Cosenza,2,2
+Cremonese,Alessandria,2,1
+Reggina,Benevento,0,3
+Ternana,Lecce,1,4
+Parma,Como,4,3
+Cittadella,Perugia,0,0
+L.R. Vicenza,Crotone,1,1
+Monza,Ascoli,2,0
+Pisa,Brescia,0,0
+Alessandria,Pordenone,2,0
+Pordenone,Pisa,0,1
+Cittadella,Monza,1,2
+Parma,Reggina,1,1
+Cremonese,Brescia,2,1
+L.R. Vicenza,Ternana,3,1
+Ascoli,Frosinone,1,1
+Crotone,Alessandria,0,0
+Perugia,Lecce,1,1
+Parma,Cittadella,1,1
+Ternana,Cosenza,2,0
+Reggina,Perugia,0,1
+Lecce,Brescia,1,1
+Pordenone,Como,1,1
+Frosinone,Alessandria,3,0
+SPAL,Ascoli,1,2
+Monza,L.R. Vicenza,4,0
+Benevento,Crotone,3,1
+Pisa,Cremonese,3,0
+Como,Ternana,1,1
+Cittadella,Reggina,0,0
+Crotone,Frosinone,2,0
+L.R. Vicenza,Parma,0,1
+Cosenza,Lecce,2,2
+Brescia,Benevento,2,2
+Alessandria,Monza,0,3
+Perugia,SPAL,1,1
+Cremonese,Pordenone,2,1
+Ascoli,Pisa,2,0
+Ternana,Alessandria,3,0
+SPAL,Ternana,5,1
+Cremonese,L.R. Vicenza,0,0
+Pordenone,Monza,1,4
+Pisa,Parma,0,0
+Frosinone,Reggina,3,0
+Crotone,Cosenza,3,3
+Brescia,Ascoli,2,0
+Benevento,Como,5,0
+Lecce,Cittadella,1,2
+Cosenza,Alessandria,2,1
+L.R. Vicenza,Pordenone,1,0
+Como,Brescia,1,1
+Parma,SPAL,4,0
+Ternana,Cremonese,1,2
+Perugia,Benevento,0,1
+Cittadella,Frosinone,3,0
+Reggina,Pisa,1,0
+Ascoli,Crotone,2,1
+Monza,Lecce,0,1
+Ternana,Pordenone,1,0
+Brescia,Perugia,2,1
+Benevento,Cremonese,1,1
+Alessandria,Como,1,1
+Reggina,L.R. Vicenza,3,1
+Frosinone,Cosenza,1,0
+SPAL,Cittadella,0,0
+Pisa,Crotone,3,2
+Lecce,Ascoli,3,1
+Monza,Parma,1,1
+Como,SPAL,0,2
+Cittadella,Cremonese,0,2
+Pisa,Ternana,0,0
+Monza,SPAL,4,0
+Parma,Pordenone,4,1
+Perugia,Frosinone,3,0
+Reggina,Crotone,1,0
+Ascoli,Como,1,1
+Brescia,Alessandria,1,1
+Lecce,Benevento,1,1
+Cosenza,Perugia,1,2
+Pordenone,Cittadella,0,1
+SPAL,Reggina,1,3
+Ternana,Monza,0,1
+Pisa,L.R. Vicenza,2,2
+Cremonese,Parma,3,1
+Frosinone,Como,1,2
+Benevento,Ascoli,0,2
+Alessandria,Lecce,1,1
+Crotone,Brescia,0,1
+Ascoli,Alessandria,3,0
+Reggina,Pordenone,2,0
+L.R. Vicenza,SPAL,1,1
+Monza,Pisa,1,2
+Parma,Ternana,2,3
+Perugia,Cremonese,0,0
+Como,Cosenza,2,1
+Brescia,Frosinone,2,2
+Cittadella,Benevento,0,1
+Lecce,Crotone,3,0
+Alessandria,Perugia,1,2
+Pisa,Frosinone,1,3
+Monza,Perugia,2,2
+Pordenone,Lecce,0,1
+SPAL,Benevento,1,1
+Parma,Frosinone,0,1
+Cosenza,Ascoli,1,3
+Como,Crotone,1,1
+Monza,Reggina,1,0
+SPAL,Pisa,0,0
+Brescia,Ternana,1,1
+Alessandria,Benevento,2,0
+Perugia,Pordenone,0,1
+L.R. Vicenza,Cittadella,3,3
+Lecce,Cremonese,2,1
+Lecce,L.R. Vicenza,2,1
+L.R. Vicenza,Alessandria,2,1
+Cittadella,Cosenza,1,1
+Parma,Crotone,1,1
+Ternana,Reggina,2,0
+Alessandria,Pisa,1,1
+Crotone,Cittadella,0,0
+Cosenza,Brescia,0,0
+Como,Lecce,1,1
+Benevento,Parma,0,0
+Frosinone,L.R. Vicenza,2,0
+Ascoli,Perugia,0,1
+Pordenone,SPAL,1,1
+Cremonese,Monza,3,2
+L.R. Vicenza,Cosenza,0,0
+Perugia,Ternana,1,1
+Benevento,Monza,3,1
+Ternana,Ascoli,2,4
+Cremonese,Como,2,0
+Reggina,Brescia,0,2
+SPAL,Lecce,1,3
+Parma,Brescia,0,1
+Cittadella,Como,2,2
+Perugia,L.R. Vicenza,1,0
+Cosenza,Cremonese,0,2
+Frosinone,Ternana,1,1
+Crotone,SPAL,1,2
+Benevento,Pordenone,2,1
+Lecce,Reggina,2,0
+Como,Pisa,0,1
+Ascoli,Parma,0,0
+Brescia,Monza,0,2
+Alessandria,Cittadella,0,1
+Cremonese,Crotone,3,2
+Ternana,Benevento,0,2
+Pordenone,Cosenza,1,1
+Cittadella,Ascoli,2,0
+Monza,Frosinone,3,2
+SPAL,Brescia,0,2
+Pisa,Lecce,1,0
+Parma,Perugia,1,1
+L.R. Vicenza,Como,0,1
+Reggina,Alessandria,0,4
+Ascoli,Cremonese,1,4
+Como,Reggina,1,1
+Cosenza,Pisa,0,2
+Crotone,Pordenone,4,1
+Frosinone,SPAL,4,0
+Brescia,Cittadella,1,1
+Alessandria,Parma,0,2
+Lecce,Parma,4,0
+Crotone,Monza,1,1
+Cittadella,Pisa,2,0
+Pordenone,Ascoli,0,1
+Ternana,Cittadella,1,1
+SPAL,Alessandria,2,3
+Frosinone,Lecce,0,0
+Perugia,Crotone,2,0
+L.R. Vicenza,Brescia,2,3
+Reggina,Cremonese,1,2
+Parma,Cosenza,1,1
+Monza,Como,3,2
+Pisa,Benevento,1,0
+Crotone,L.R. Vicenza,0,1
+Lecce,Ternana,3,3
+Alessandria,Cremonese,1,0
+Frosinone,Pordenone,2,2
+Cosenza,SPAL,0,1
+Ascoli,Monza,1,1
+Benevento,Reggina,4,0
+Brescia,Pisa,0,1
+Perugia,Cittadella,1,1
+Como,Parma,1,1
+Ternana,Crotone,1,0
+Cremonese,Frosinone,1,1
+Pisa,Perugia,1,1
+Pordenone,Alessandria,2,0
+Reggina,Ascoli,1,2
+Monza,Cosenza,4,1
+L.R. Vicenza,Benevento,2,3
+Pisa,Pordenone,1,1
+Reggina,Parma,2,1
+SPAL,Como,1,1
+Cosenza,Ternana,3,1
+L.R. Vicenza,Monza,1,1
+Alessandria,Frosinone,1,1
+Ascoli,SPAL,0,1
+Brescia,Lecce,1,1
+Como,Pordenone,1,0
+Perugia,Reggina,0,2
+Cremonese,Pisa,1,1
+Cittadella,Parma,1,2
+Crotone,Benevento,0,2
+Benevento,Brescia,0,1
+Ternana,Como,1,2
+Reggina,Cittadella,0,1
+SPAL,Perugia,1,2
+Monza,Alessandria,1,0
+Frosinone,Crotone,2,1
+Lecce,Cosenza,3,1
+Pordenone,Cremonese,2,2
+Pisa,Ascoli,1,1
+Parma,L.R. Vicenza,1,0
+Cosenza,Reggina,0,1
+Alessandria,Ternana,0,2
+Como,Perugia,4,1
+Ascoli,L.R. Vicenza,2,1
+Cremonese,SPAL,1,1
+Brescia,Pordenone,1,0
+Benevento,Frosinone,1,4
+Parma,Pisa,1,1
+L.R. Vicenza,Cremonese,0,1
+Ternana,SPAL,1,0
+Lecce,Monza,3,0
+Alessandria,Cosenza,1,0
+Cremonese,Ternana,2,0
+Frosinone,Cittadella,0,1
+Crotone,Ascoli,2,2
+Pisa,Reggina,2,0
+SPAL,Parma,2,2
+Brescia,Como,2,4
+Pordenone,L.R. Vicenza,2,4
+Benevento,Perugia,0,0
+Pordenone,Ternana,1,3
+L.R. Vicenza,Reggina,0,1
+Ascoli,Lecce,1,1
+Crotone,Pisa,2,1
+Cosenza,Frosinone,1,1
+Perugia,Brescia,1,0
+Como,Alessandria,2,0
+Cremonese,Benevento,1,1
+Parma,Monza,0,0
+Cittadella,SPAL,0,0
+Alessandria,Crotone,1,0
+Ternana,L.R. Vicenza,5,0
+Monza,Cittadella,1,0
+Lecce,Perugia,0,0
+Benevento,Cosenza,3,0
+Frosinone,Ascoli,2,1
+Brescia,Cremonese,1,0
+Grenoble,Amiens SC,1,1
+Guingamp,Caen,2,1
+Chamois Niortais,Dijon,1,3
+Nancy,Nîmes Olympique,1,3
+Sochaux,Bastia,2,1
+AC Ajaccio,Le Havre,2,1
+Paris FC,Valenciennes,1,1
+Rodez AF,Toulouse,1,0
+Pau FC,Chamois Niortais,2,2
+Dunkerque,Guingamp,1,3
+Caen,Quevilly-Rouen Métropole,2,0
+Bastia,Rodez AF,0,1
+Valenciennes,Sochaux,1,0
+Dijon,Nancy,2,3
+Le Havre,AJ Auxerre,1,2
+Grenoble,AC Ajaccio,1,1
+Amiens SC,Paris FC,1,2
+Toulouse,Nîmes Olympique,2,1
+Chamois Niortais,Valenciennes,1,2
+Quevilly-Rouen Métropole,Dunkerque,3,1
+Rodez AF,Caen,2,0
+Nancy,Pau FC,2,3
+Guingamp,Le Havre,2,1
+Nîmes Olympique,Bastia,0,2
+Sochaux,Dijon,2,2
+Paris FC,Grenoble,2,0
+AJ Auxerre,Amiens SC,2,1
+AC Ajaccio,Toulouse,1,0
+FC Villefranche Beaujolais,Quevilly-Rouen Métropole,1,3
+Quevilly-Rouen Métropole,FC Villefranche Beaujolais,2,0
+Dunkerque,Grenoble,0,3
+Nancy,Chamois Niortais,0,2
+Valenciennes,Le Havre,0,1
+Caen,Amiens SC,1,1
+Bastia,Guingamp,1,2
+Nîmes Olympique,Sochaux,1,3
+Rodez AF,Paris FC,0,1
+Dijon,AC Ajaccio,0,3
+Grenoble,Valenciennes,3,0
+Rodez AF,Nancy,1,1
+Guingamp,Pau FC,3,0
+Chamois Niortais,Bastia,1,1
+Amiens SC,Le Havre,0,2
+Quevilly-Rouen Métropole,Nîmes Olympique,0,1
+AC Ajaccio,Dunkerque,2,1
+AJ Auxerre,Dijon,2,1
+Paris FC,Caen,1,0
+Sochaux,Toulouse,1,1
+Dunkerque,Amiens SC,0,0
+Nancy,Quevilly-Rouen Métropole,0,3
+Le Havre,Grenoble,0,1
+Nîmes Olympique,Rodez AF,3,2
+Pau FC,Sochaux,0,1
+Dijon,Guingamp,3,3
+Valenciennes,AC Ajaccio,0,0
+Bastia,Paris FC,2,1
+Caen,AJ Auxerre,1,1
+Toulouse,Chamois Niortais,2,0
+AJ Auxerre,Dunkerque,1,0
+Quevilly-Rouen Métropole,Pau FC,1,2
+Dunkerque,Valenciennes,1,2
+Chamois Niortais,Quevilly-Rouen Métropole,2,0
+Guingamp,Nancy,3,1
+Sochaux,Rodez AF,2,0
+Grenoble,Bastia,1,1
+Amiens SC,Dijon,1,1
+AC Ajaccio,Nîmes Olympique,1,0
+Paris FC,Pau FC,1,1
+Toulouse,Paris FC,2,1
+Rodez AF,Chamois Niortais,1,1
+Pau FC,Le Havre,2,1
+Valenciennes,Amiens SC,0,2
+Caen,Dunkerque,2,1
+Quevilly-Rouen Métropole,Sochaux,0,2
+Nîmes Olympique,Guingamp,0,2
+Dijon,Grenoble,1,0
+Bastia,AJ Auxerre,1,1
+Nancy,AC Ajaccio,0,2
+Guingamp,Toulouse,2,4
+Quevilly-Rouen Métropole,Rodez AF,2,0
+Le Havre,Dunkerque,2,1
+Grenoble,Caen,0,2
+Chamois Niortais,Nîmes Olympique,0,0
+Amiens SC,Bastia,0,0
+AJ Auxerre,Valenciennes,1,0
+Sochaux,Nancy,1,0
+AC Ajaccio,Pau FC,2,1
+Paris FC,Dijon,2,2
+Pau FC,AJ Auxerre,1,4
+Toulouse,Quevilly-Rouen Métropole,2,0
+Quevilly-Rouen Métropole,Le Havre,0,2
+Nancy,Grenoble,0,1
+Bastia,Valenciennes,1,1
+Rodez AF,AJ Auxerre,1,3
+Sochaux,Guingamp,1,0
+Chamois Niortais,AC Ajaccio,0,1
+Dijon,Caen,1,0
+Toulouse,Dunkerque,2,0
+AJ Auxerre,Sochaux,3,2
+AC Ajaccio,Bastia,0,1
+Dunkerque,Pau FC,1,0
+Grenoble,Rodez AF,0,0
+Guingamp,Quevilly-Rouen Métropole,1,1
+Amiens SC,Nancy,1,0
+Valenciennes,Dijon,0,0
+Le Havre,Nîmes Olympique,0,1
+Paris FC,Chamois Niortais,2,0
+Caen,Toulouse,4,1
+Rodez AF,Guingamp,1,1
+Pau FC,Grenoble,0,1
+Valenciennes,Caen,1,1
+Chamois Niortais,Sochaux,1,1
+Bastia,Dunkerque,1,0
+Dijon,Le Havre,2,0
+Quevilly-Rouen Métropole,AC Ajaccio,0,0
+Nîmes Olympique,AJ Auxerre,1,2
+Nancy,Paris FC,3,0
+Toulouse,Amiens SC,6,0
+Le Havre,Caen,2,4
+AJ Auxerre,Toulouse,1,2
+Grenoble,Sochaux,1,3
+Dijon,Pau FC,0,1
+Caen,Nîmes Olympique,4,0
+AC Ajaccio,Guingamp,0,1
+AJ Auxerre,Nancy,1,1
+Paris FC,Quevilly-Rouen Métropole,3,0
+Le Havre,Bastia,2,4
+Grenoble,Chamois Niortais,1,0
+Sochaux,AC Ajaccio,0,1
+Nancy,Dunkerque,2,0
+Rodez AF,Amiens SC,1,1
+Quevilly-Rouen Métropole,Valenciennes,1,1
+Pau FC,Caen,1,0
+Chamois Niortais,AJ Auxerre,0,1
+Nîmes Olympique,Grenoble,3,1
+Bastia,Dijon,0,0
+Guingamp,Paris FC,1,1
+Toulouse,Le Havre,4,0
+Paris FC,Sochaux,3,1
+Valenciennes,Pau FC,1,0
+Guingamp,Chamois Niortais,1,0
+Le Havre,Nancy,1,0
+Dunkerque,Dijon,2,1
+Caen,Bastia,2,1
+AC Ajaccio,Rodez AF,2,1
+AJ Auxerre,Quevilly-Rouen Métropole,1,0
+Amiens SC,Nîmes Olympique,3,0
+Grenoble,Toulouse,0,2
+Nîmes Olympique,Paris FC,1,1
+Pau FC,Amiens SC,2,1
+Le Havre,Rodez AF,0,0
+Amiens SC,Guingamp,3,0
+Dunkerque,Sochaux,0,0
+Dijon,Quevilly-Rouen Métropole,1,0
+Bastia,Toulouse,0,0
+Caen,AC Ajaccio,2,0
+Quevilly-Rouen Métropole,Amiens SC,1,1
+Caen,Chamois Niortais,0,2
+Nîmes Olympique,Valenciennes,2,1
+Dunkerque,Paris FC,1,1
+AC Ajaccio,AJ Auxerre,0,0
+Chamois Niortais,Dunkerque,2,0
+Valenciennes,Nancy,6,1
+Pau FC,Nîmes Olympique,0,3
+AJ Auxerre,Paris FC,1,2
+Toulouse,Dijon,4,1
+Rodez AF,Valenciennes,0,0
+Chamois Niortais,Le Havre,0,0
+Quevilly-Rouen Métropole,Grenoble,1,0
+Nancy,Caen,1,1
+Bastia,Pau FC,1,1
+Sochaux,Amiens SC,1,1
+Guingamp,AJ Auxerre,1,1
+Nîmes Olympique,Dunkerque,0,1
+Paris FC,AC Ajaccio,2,0
+Valenciennes,Toulouse,1,3
+Dunkerque,Rodez AF,2,0
+Amiens SC,Chamois Niortais,3,1
+Sochaux,Valenciennes,1,1
+Nancy,Dijon,0,3
+AJ Auxerre,Le Havre,2,3
+AC Ajaccio,Grenoble,1,0
+Paris FC,Amiens SC,1,0
+Nîmes Olympique,Toulouse,1,2
+Le Havre,Sochaux,0,1
+Pau FC,Rodez AF,4,0
+Valenciennes,Guingamp,1,1
+Bastia,Quevilly-Rouen Métropole,3,0
+Grenoble,AJ Auxerre,0,1
+Dijon,Nîmes Olympique,1,2
+Guingamp,Grenoble,0,0
+Nancy,Bastia,2,1
+Rodez AF,Dijon,0,2
+Toulouse,Pau FC,1,1
+Sochaux,Caen,3,2
+Paris FC,Le Havre,2,2
+Amiens SC,AC Ajaccio,0,1
+Toulouse,Nancy,4,0
+Dunkerque,AC Ajaccio,0,1
+Le Havre,Amiens SC,1,1
+Bastia,Chamois Niortais,2,0
+Nîmes Olympique,Quevilly-Rouen Métropole,2,1
+Caen,Paris FC,0,1
+Dijon,AJ Auxerre,3,1
+Amiens SC,Dunkerque,3,0
+Quevilly-Rouen Métropole,Nancy,2,1
+Grenoble,Le Havre,1,2
+Sochaux,Pau FC,2,1
+Rodez AF,Nîmes Olympique,1,0
+AC Ajaccio,Valenciennes,0,0
+Guingamp,Dijon,3,2
+Paris FC,Bastia,1,0
+AJ Auxerre,Caen,2,2
+Chamois Niortais,Toulouse,2,1
+Le Havre,AC Ajaccio,0,1
+Pau FC,Quevilly-Rouen Métropole,1,2
+Caen,Guingamp,2,0
+Amiens SC,Grenoble,4,1
+Dunkerque,AJ Auxerre,0,2
+Dijon,Chamois Niortais,2,2
+Valenciennes,Paris FC,1,4
+Nîmes Olympique,Nancy,2,1
+Bastia,Sochaux,2,2
+Toulouse,Rodez AF,1,1
+Chamois Niortais,Pau FC,3,0
+Guingamp,Dunkerque,2,1
+Quevilly-Rouen Métropole,Caen,2,2
+Rodez AF,Bastia,0,0
+Amiens SC,Valenciennes,3,0
+AC Ajaccio,Nancy,2,0
+Sochaux,Quevilly-Rouen Métropole,1,1
+Guingamp,Nîmes Olympique,3,1
+Grenoble,Dijon,1,2
+AJ Auxerre,Bastia,1,0
+Toulouse,Guingamp,2,2
+Rodez AF,Quevilly-Rouen Métropole,3,0
+Dunkerque,Le Havre,1,0
+Pau FC,AC Ajaccio,1,0
+Caen,Grenoble,0,1
+Nancy,Sochaux,0,0
+Bastia,Amiens SC,0,0
+Nîmes Olympique,Chamois Niortais,1,2
+Dijon,Paris FC,0,1
+Valenciennes,AJ Auxerre,1,2
+AJ Auxerre,Pau FC,4,1
+Sochaux,Nîmes Olympique,0,1
+Chamois Niortais,Nancy,1,3
+Grenoble,Dunkerque,1,0
+Le Havre,Valenciennes,0,0
+Amiens SC,Caen,0,0
+Paris FC,Rodez AF,1,0
+Guingamp,Bastia,2,3
+AC Ajaccio,Dijon,1,0
+Quevilly-Rouen Métropole,Toulouse,0,0
+Toulouse,Sochaux,4,1
+Nancy,Rodez AF,0,2
+Valenciennes,Grenoble,1,0
+Pau FC,Guingamp,2,0
+Sochaux,AJ Auxerre,0,0
+Chamois Niortais,Paris FC,4,1
+Nîmes Olympique,Le Havre,0,1
+Dijon,Valenciennes,0,1
+Bastia,AC Ajaccio,2,0
+Toulouse,Caen,2,3
+AJ Auxerre,Nîmes Olympique,2,2
+Amiens SC,Toulouse,0,0
+Guingamp,Rodez AF,2,1
+Grenoble,Pau FC,2,0
+Sochaux,Chamois Niortais,1,0
+Caen,Valenciennes,1,2
+Dunkerque,Bastia,2,0
+AC Ajaccio,Quevilly-Rouen Métropole,0,1
+Paris FC,Nancy,1,1
+Le Havre,Dijon,2,0
+Toulouse,AJ Auxerre,6,0
+Valenciennes,Dunkerque,1,3
+Quevilly-Rouen Métropole,Chamois Niortais,0,3
+Nancy,Guingamp,2,1
+Rodez AF,Sochaux,0,1
+Caen,Le Havre,2,2
+Bastia,Grenoble,0,0
+Pau FC,Paris FC,1,0
+Dijon,Amiens SC,1,0
+Nîmes Olympique,AC Ajaccio,0,2
+Paris FC,Toulouse,2,2
+Chamois Niortais,Rodez AF,0,2
+Le Havre,Pau FC,1,0
+Dunkerque,Caen,1,1
+AC Ajaccio,Sochaux,1,0
+AJ Auxerre,Chamois Niortais,4,0
+Grenoble,Nîmes Olympique,2,1
+Dijon,Bastia,2,1
+Le Havre,Toulouse,1,1
+AC Ajaccio,Paris FC,1,0
+Sochaux,Paris FC,2,0
+Toulouse,Grenoble,4,1
+Chamois Niortais,Guingamp,2,0
+Pau FC,Valenciennes,1,1
+Rodez AF,AC Ajaccio,0,2
+Nancy,Le Havre,1,1
+Quevilly-Rouen Métropole,AJ Auxerre,0,0
+Bastia,Caen,1,1
+Dijon,Dunkerque,2,0
+Nîmes Olympique,Amiens SC,3,3
+Grenoble,Nancy,4,1
+Amiens SC,Pau FC,2,2
+Le Havre,Quevilly-Rouen Métropole,1,0
+AJ Auxerre,Rodez AF,1,0
+Guingamp,Sochaux,1,2
+Valenciennes,Bastia,2,1
+AC Ajaccio,Chamois Niortais,0,0
+Caen,Dijon,0,1
+Paris FC,Nîmes Olympique,2,0
+Dunkerque,Toulouse,0,2
+Rodez AF,Grenoble,1,1
+Nancy,Amiens SC,1,1
+Quevilly-Rouen Métropole,Guingamp,2,2
+Pau FC,Dunkerque,1,2
+Guingamp,Amiens SC,0,2
+Quevilly-Rouen Métropole,Dijon,2,1
+Nîmes Olympique,Pau FC,0,0
+Paris FC,AJ Auxerre,1,1
+Quevilly-Rouen Métropole,Bastia,1,2
+Dijon,Toulouse,2,4
+Valenciennes,Rodez AF,1,4
+Le Havre,Chamois Niortais,2,1
+Caen,Nancy,1,0
+Grenoble,Quevilly-Rouen Métropole,2,0
+Amiens SC,Sochaux,0,0
+Pau FC,Bastia,2,0
+Dunkerque,Nîmes Olympique,0,2
+AJ Auxerre,Guingamp,1,2
+AC Ajaccio,Caen,2,0
+Nîmes Olympique,Caen,0,0
+Toulouse,Valenciennes,1,0
+Rodez AF,Dunkerque,2,2
+Chamois Niortais,Amiens SC,0,0
+Guingamp,AC Ajaccio,1,1
+Sochaux,Grenoble,1,0
+Nancy,AJ Auxerre,1,4
+Bastia,Le Havre,0,0
+Pau FC,Dijon,2,0
+Quevilly-Rouen Métropole,Paris FC,0,1
+Paris FC,Guingamp,0,1
+Dunkerque,Nancy,0,0
+Amiens SC,Rodez AF,0,1
+Valenciennes,Quevilly-Rouen Métropole,1,2
+Caen,Pau FC,1,2

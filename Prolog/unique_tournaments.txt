@@ -1,0 +1,41 @@
+Serie A,Italy
+Serie B,Italy
+Premier Liga,Russia
+Ligue 1,France
+Pro League,Belgium
+Süper Lig,Turkey
+LaLiga,Spain
+UEFA Europa League,Europe
+Premier League,England
+Superliga,Denmark
+Liga Portugal,Portugal
+Championship,England
+Super League,Switzerland
+Bundesliga,Germany
+2. Bundesliga,Germany
+UEFA Europa Conference League,Europe
+Ligue 2,France
+Eredivisie,Netherlands
+Serie C Girone A,Italy
+Premiership,Scotland
+Eerste Divisie,Netherlands
+Ekstraklasa,Poland
+Bundesliga,Austria
+Coppa Italia,Italy
+Football League Trophy,England
+UEFA Champions League,Europe
+League One,England
+EFL Cup,England
+League Two,England
+Premier League,Ukraine
+FA Cup,England
+Superliga,Slovakia
+3. Liga,Germany
+Regionalliga Südwest,Germany Amateur
+Regionalliga West,Germany Amateur
+HNL,Croatia
+LaLiga 2,Spain
+Copa del Rey,Spain
+Saudi Professional League,Saudi Arabia
+Liga Portugal 2,Portugal
+CAF Champions League,Africa
